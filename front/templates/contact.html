@@ -1,0 +1,82 @@
+{% extends 'base_index.html' %}
+{% block title %}
+联系-猿 HoMe
+{% endblock %}
+{% block content %}
+ <div class="adco-section-padding contact">
+     <div class="container-fluid">
+      <div class="row">
+       <div class="col-md-12">
+        <span class="heading-meta style-1">Location</span>
+        <h2 class="adco-heading animate-box" data-animate-effect="fadeInLeft">联系我们</h2>
+       </div>
+      </div>
+      <div class="row">
+       <!-- Contact Info -->
+       <div class="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+        <div class="info">
+         <div class="item">
+          <span class="icon ti-headphone-alt"></span>
+          <h6 class="ctit">官方电话</h6>
+          <h5>{{ telephone }}</h5>
+         </div>
+         <div class="item">
+          <span class="icon ti-location-pin"></span>
+          <h6 class="ctit">地址</h6>
+          <h5>{{ addr }}</h5>
+         </div>
+         <div class="item">
+          <span class="icon ti-envelope"></span>
+          <h6 class="ctit">Email</h6>
+          <h5>{{ email }}</h5>
+         </div>
+        </div>
+       </div>
+       <!-- Contact Form -->
+       <div class="col-md-6 offset-md-1 animate-box" data-animate-effect="fadeInLeft">
+        <h3 class="adco-about-heading">编辑</h3>
+        <div class="row">
+
+         <div class="col-sm-6">
+          <div class="form-group">
+           <input type="text" name="username" class="form-control" placeholder="姓名" required="" />
+          </div>
+         </div>
+
+         <div class="col-sm-6">
+          <div class="form-group">
+           <input type="text" name="telephone" class="form-control" placeholder="电话" />
+          </div>
+         </div>
+
+         <div class="col-sm-12">
+          <div class="form-group">
+           <textarea name="content" id="content" cols="30" rows="7" class="form-control" placeholder="详细情况"></textarea>
+          </div>
+         </div>
+
+         <div class="col-sm-12">
+          <div class="form-group">
+           <input type="submit" class="btn btn-contact" value="Say Hello!" />
+          </div>
+         </div>
+
+        </div>
+       </div>
+      </div>
+      <!-- Map Section-->
+      <div class="map-section mt-90">
+       <div class="row">
+        <div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
+         <div id="contactMap"></div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+{% endblock %}
+{% block script %}
+    <script src="{% static 'js/ccajax.js' %}"> </script>
+    <script src="{% static 'js/message.js' %}"> </script>
+    <script src="{% static 'js/contact.js' %}"> </script>
+{% endblock %}

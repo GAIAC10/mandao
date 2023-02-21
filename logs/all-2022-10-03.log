@@ -1,0 +1,237 @@
+[2022-10-03 22:39:34,709] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 22:39:36,179] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 8900
+[2022-10-03 22:39:36,195] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/ccajax.js HTTP/1.1" 200 2399
+[2022-10-03 22:39:36,196] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/message.js HTTP/1.1" 200 3347
+[2022-10-03 22:39:36,199] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jq.js HTTP/1.1" 200 86927
+[2022-10-03 22:39:36,692] [log.py:224] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2022-10-03 22:39:36,693] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2872
+[2022-10-03 22:39:40,353] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a HTTP/1.1" 301 0
+[2022-10-03 22:39:40,359] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 2799
+[2022-10-03 22:39:40,375] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/reset.css HTTP/1.1" 200 1030
+[2022-10-03 22:39:40,376] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/map_auth.js HTTP/1.1" 200 1575
+[2022-10-03 22:39:40,376] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/map_style.css HTTP/1.1" 200 3413
+[2022-10-03 22:39:40,395] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/particles.min.js HTTP/1.1" 200 23358
+[2022-10-03 22:39:40,402] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/app.js HTTP/1.1" 200 1139
+[2022-10-03 22:39:40,407] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/password.png HTTP/1.1" 200 3859
+[2022-10-03 22:39:40,407] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/name.png HTTP/1.1" 200 5102
+[2022-10-03 22:39:40,413] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/bg.jpg HTTP/1.1" 200 51002
+[2022-10-03 22:43:40,790] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\apps\mdauth\decrators.py changed, reloading.
+[2022-10-03 22:43:41,588] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 22:43:46,117] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\apps\mdauth\decrators.py changed, reloading.
+[2022-10-03 22:43:46,856] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 22:44:34,585] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\apps\mdauth\decrators.py changed, reloading.
+[2022-10-03 22:44:35,330] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 22:45:08,864] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\apps\mdauth\decrators.py changed, reloading.
+[2022-10-03 22:45:09,520] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 22:49:07,556] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\apps\mdauth\decrators.py changed, reloading.
+[2022-10-03 22:49:08,229] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 22:59:08,202] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /auth/login/ HTTP/1.1" 200 42
+[2022-10-03 22:59:11,221] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 2799
+[2022-10-03 22:59:11,242] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/reset.css HTTP/1.1" 200 1030
+[2022-10-03 22:59:11,242] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/map_style.css HTTP/1.1" 200 3413
+[2022-10-03 22:59:11,243] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/ccajax.js HTTP/1.1" 200 2399
+[2022-10-03 22:59:11,245] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/message.js HTTP/1.1" 200 3347
+[2022-10-03 22:59:11,246] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/map_auth.js HTTP/1.1" 200 1575
+[2022-10-03 22:59:11,247] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jq.js HTTP/1.1" 200 86927
+[2022-10-03 22:59:11,292] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/particles.min.js HTTP/1.1" 200 23358
+[2022-10-03 22:59:11,294] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/app.js HTTP/1.1" 200 1139
+[2022-10-03 22:59:11,306] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/name.png HTTP/1.1" 200 5102
+[2022-10-03 22:59:11,306] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/password.png HTTP/1.1" 200 3859
+[2022-10-03 22:59:11,307] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/bg.jpg HTTP/1.1" 200 51002
+[2022-10-03 22:59:21,651] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a HTTP/1.1" 301 0
+[2022-10-03 22:59:21,651] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 2799
+[2022-10-03 22:59:22,752] [log.py:224] [log:log_response] [WARNING]- Not Found: /user
+[2022-10-03 22:59:22,753] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /user HTTP/1.1" 404 2851
+[2022-10-03 22:59:27,566] [log.py:224] [log:log_response] [WARNING]- Not Found: /ayth
+[2022-10-03 22:59:27,566] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /ayth HTTP/1.1" 404 2851
+[2022-10-03 22:59:37,266] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login/?next=/map/map/ HTTP/1.1" 200 2799
+[2022-10-03 22:59:41,927] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /auth/login/ HTTP/1.1" 200 42
+[2022-10-03 22:59:44,942] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login/?next=/map/map/ HTTP/1.1" 200 2799
+[2022-10-03 23:03:01,976] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login/ HTTP/1.1" 200 2799
+[2022-10-03 23:03:07,244] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /auth/login/ HTTP/1.1" 200 96
+[2022-10-03 23:03:10,259] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login/ HTTP/1.1" 200 2799
+[2022-10-03 23:03:12,131] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /auth/login/ HTTP/1.1" 200 42
+[2022-10-03 23:03:15,142] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login/ HTTP/1.1" 200 2799
+[2022-10-03 23:04:18,519] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\apps\mdauth\views.py changed, reloading.
+[2022-10-03 23:04:19,658] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 23:04:20,179] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login/ HTTP/1.1" 200 2799
+[2022-10-03 23:09:14,218] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\apps\mdauth\views.py changed, reloading.
+[2022-10-03 23:09:14,925] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 23:09:38,061] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /mdmain/upload HTTP/1.1" 301 0
+[2022-10-03 23:09:38,132] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /mdmain/upload/
+Traceback (most recent call last):
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\Project_Python\mandao\apps\mdmain\views.py", line 67, in upload
+    with open(os.path.join(settings.MEDIA_ROOT,file.name), 'wb') as f:
+AttributeError: 'NoneType' object has no attribute 'name'
+[2022-10-03 23:09:38,134] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /mdmain/upload/ HTTP/1.1" 500 70238
+[2022-10-03 23:13:05,881] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-03 23:13:06,579] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 23:13:16,985] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 3107
+[2022-10-03 23:13:17,007] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/et-lineicons.css HTTP/1.1" 200 5238
+[2022-10-03 23:13:17,009] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/animate.css HTTP/1.1" 200 55686
+[2022-10-03 23:13:17,009] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/magnific-popup.css HTTP/1.1" 200 5924
+[2022-10-03 23:13:17,009] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themify-icons.css HTTP/1.1" 200 13837
+[2022-10-03 23:13:17,011] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/style.css HTTP/1.1" 200 30435
+[2022-10-03 23:13:17,014] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/bootstrap.css HTTP/1.1" 200 140783
+[2022-10-03 23:13:17,033] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 200 8786
+[2022-10-03 23:13:17,034] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 200 3601
+[2022-10-03 23:13:17,034] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 200 5437
+[2022-10-03 23:13:17,034] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/modernizr-2.6.2.min.js HTTP/1.1" 200 15022
+[2022-10-03 23:13:17,035] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 200 34585
+[2022-10-03 23:13:17,036] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/bootstrap.min.js HTTP/1.1" 200 51039
+[2022-10-03 23:13:17,044] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 200 3200
+[2022-10-03 23:13:17,044] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/logo.png HTTP/1.1" 200 9679
+[2022-10-03 23:13:17,045] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/main.js HTTP/1.1" 200 2215
+[2022-10-03 23:13:17,045] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/logo-light.png HTTP/1.1" 200 9779
+[2022-10-03 23:13:17,046] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 200 24032
+[2022-10-03 23:13:17,047] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 200 21652
+[2022-10-03 23:13:17,570] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/fonts/themify.woff HTTP/1.1" 200 72
+[2022-10-03 23:13:17,583] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2022-10-03 23:13:17,706] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/favicon.png HTTP/1.1" 404 1804
+[2022-10-03 23:13:24,561] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js.map HTTP/1.1" 404 1828
+[2022-10-03 23:13:24,876] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 3107
+[2022-10-03 23:13:25,035] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js.map HTTP/1.1" 404 1828
+[2022-10-03 23:13:25,050] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2022-10-03 23:13:53,567] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 302 0
+[2022-10-03 23:13:53,574] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login/?next=/map/map/ HTTP/1.1" 200 2799
+[2022-10-03 23:13:55,382] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /mdmain/contact/
+Traceback (most recent call last):
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "F:\Project_Python\mandao\apps\mdmain\views.py", line 30, in get
+    company = Company.objects.all().get()
+  File "F:\envs\djangoblog\lib\site-packages\django\db\models\query.py", line 435, in get
+    raise self.model.DoesNotExist(
+apps.cms.models.Company.DoesNotExist: Company matching query does not exist.
+[2022-10-03 23:13:55,385] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /mdmain/contact/ HTTP/1.1" 500 84044
+[2022-10-03 23:13:56,855] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /mdmain/contact/
+Traceback (most recent call last):
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "F:\Project_Python\mandao\apps\mdmain\views.py", line 30, in get
+    company = Company.objects.all().get()
+  File "F:\envs\djangoblog\lib\site-packages\django\db\models\query.py", line 435, in get
+    raise self.model.DoesNotExist(
+apps.cms.models.Company.DoesNotExist: Company matching query does not exist.
+[2022-10-03 23:13:56,857] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /mdmain/contact/ HTTP/1.1" 500 84044
+[2022-10-03 23:14:19,991] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 302 0
+[2022-10-03 23:14:19,996] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login/?next=/map/map/ HTTP/1.1" 200 2799
+[2022-10-03 23:16:18,164] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 3107
+[2022-10-03 23:16:18,194] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-03 23:16:19,003] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 23:16:19,319] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2022-10-03 23:16:25,449] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 23:16:31,988] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 5998
+[2022-10-03 23:16:32,037] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/slider/1.jpg HTTP/1.1" 200 413951
+[2022-10-03 23:16:32,078] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2022-10-03 23:17:15,329] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 5998
+[2022-10-03 23:17:15,412] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2022-10-03 23:18:34,794] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 5998
+[2022-10-03 23:18:34,958] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2022-10-03 23:21:12,445] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js.map HTTP/1.1" 404 1828
+[2022-10-03 23:29:12,734] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-03 23:29:13,500] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 23:29:13,821] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 8900
+[2022-10-03 23:29:22,189] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-03 23:29:22,888] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 23:29:25,093] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 5547
+[2022-10-03 23:29:25,135] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/contact.js HTTP/1.1" 200 1099
+[2022-10-03 23:29:25,175] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2022-10-03 23:30:23,500] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-03 23:30:24,248] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 23:30:24,672] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 2799
+[2022-10-03 23:34:32,811] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-03 23:34:33,607] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 23:34:34,175] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 2429
+[2022-10-03 23:34:34,191] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/base.css HTTP/1.1" 200 1214
+[2022-10-03 23:34:34,192] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/menu.css HTTP/1.1" 200 3879
+[2022-10-03 23:34:34,214] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/adapter.js HTTP/1.1" 200 376
+[2022-10-03 23:34:34,215] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/map_index.js HTTP/1.1" 200 2221
+[2022-10-03 23:34:34,215] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/menu.js HTTP/1.1" 200 1971
+[2022-10-03 23:34:34,220] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/vip.js HTTP/1.1" 200 47
+[2022-10-03 23:34:34,220] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/obscure.png HTTP/1.1" 200 3922
+[2022-10-03 23:34:34,221] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/show.png HTTP/1.1" 200 5063
+[2022-10-03 23:34:40,254] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-03 23:34:41,236] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 23:34:43,648] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-03 23:34:44,552] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 23:34:44,830] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 2097
+[2022-10-03 23:34:58,434] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-03 23:34:59,128] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 23:34:59,514] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 5935
+[2022-10-03 23:34:59,558] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/comment.js HTTP/1.1" 200 1169
+[2022-10-03 23:34:59,558] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/template-web.js HTTP/1.1" 200 16570
+[2022-10-03 23:34:59,596] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2022-10-03 23:35:31,609] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-03 23:35:32,335] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 23:35:32,563] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 658
+[2022-10-03 23:35:32,581] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/upload.js HTTP/1.1" 200 1393
+[2022-10-03 23:35:48,202] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-03 23:35:48,902] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 23:35:49,414] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /a/
+Traceback (most recent call last):
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\Project_Python\mandao\mandao\views.py", line 5, in test
+    return render(request,"work.html")
+  File "F:\envs\djangoblog\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "F:\envs\djangoblog\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "F:\envs\djangoblog\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: work.html
+[2022-10-03 23:35:49,416] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /a/ HTTP/1.1" 500 83088
+[2022-10-03 23:35:55,485] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-03 23:35:56,300] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 23:35:56,525] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 6190
+[2022-10-03 23:35:56,581] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/portfolio/1.jpg HTTP/1.1" 200 75967
+[2022-10-03 23:35:56,589] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/portfolio/2.jpg HTTP/1.1" 200 127333
+[2022-10-03 23:35:56,590] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/portfolio/3.jpg HTTP/1.1" 404 1816
+[2022-10-03 23:35:56,593] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/portfolio/5.jpg HTTP/1.1" 404 1816
+[2022-10-03 23:35:56,596] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/portfolio/4.jpg HTTP/1.1" 404 1816
+[2022-10-03 23:35:56,597] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/portfolio/6.jpg HTTP/1.1" 404 1816
+[2022-10-03 23:35:56,642] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2022-10-03 23:36:09,125] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-03 23:36:09,864] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 23:36:11,240] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-03 23:36:11,943] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 23:36:12,319] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 7580
+[2022-10-03 23:36:12,379] [log.py:224] [log:log_response] [WARNING]- Not Found: /a/images/portfolio/3.jpg
+[2022-10-03 23:36:12,381] [log.py:224] [log:log_response] [WARNING]- Not Found: /a/images/portfolio/2.jpg
+[2022-10-03 23:36:12,383] [log.py:224] [log:log_response] [WARNING]- Not Found: /a/images/portfolio/1.jpg
+[2022-10-03 23:36:12,385] [log.py:224] [log:log_response] [WARNING]- Not Found: /a/images/portfolio/4.jpg
+[2022-10-03 23:36:12,385] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /a/images/portfolio/2.jpg HTTP/1.1" 404 2911
+[2022-10-03 23:36:12,386] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /a/images/portfolio/3.jpg HTTP/1.1" 404 2911
+[2022-10-03 23:36:12,386] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /a/images/portfolio/1.jpg HTTP/1.1" 404 2911
+[2022-10-03 23:36:12,387] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /a/images/portfolio/4.jpg HTTP/1.1" 404 2911
+[2022-10-03 23:36:12,396] [log.py:224] [log:log_response] [WARNING]- Not Found: /a/images/portfolio/5.jpg
+[2022-10-03 23:36:12,398] [log.py:224] [log:log_response] [WARNING]- Not Found: /a/images/portfolio/6.jpg
+[2022-10-03 23:36:12,399] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /a/images/portfolio/6.jpg HTTP/1.1" 404 2911
+[2022-10-03 23:36:12,399] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /a/images/portfolio/5.jpg HTTP/1.1" 404 2911
+[2022-10-03 23:36:12,412] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2022-10-03 23:36:57,668] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-03 23:36:58,527] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 23:36:58,790] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 155
+[2022-10-03 23:38:21,596] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-03 23:38:22,338] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-03 23:38:22,768] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 5935
+[2022-10-03 23:38:22,891] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810

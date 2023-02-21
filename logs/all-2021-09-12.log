@@ -1,0 +1,468 @@
+[2021-09-12 19:51:30,215] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 19:51:36,444] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 13226
+[2021-09-12 19:51:36,470] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/animate.css HTTP/1.1" 304 0
+[2021-09-12 19:51:36,470] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/et-lineicons.css HTTP/1.1" 304 0
+[2021-09-12 19:51:36,475] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/magnific-popup.css HTTP/1.1" 304 0
+[2021-09-12 19:51:36,476] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/style.css HTTP/1.1" 304 0
+[2021-09-12 19:51:36,480] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+[2021-09-12 19:51:36,490] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+[2021-09-12 19:51:36,490] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/modernizr-2.6.2.min.js HTTP/1.1" 304 0
+[2021-09-12 19:51:36,491] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themify-icons.css HTTP/1.1" 304 0
+[2021-09-12 19:51:36,491] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jq.js HTTP/1.1" 304 0
+[2021-09-12 19:51:36,492] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 304 0
+[2021-09-12 19:51:36,492] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 304 0
+[2021-09-12 19:51:36,500] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 304 0
+[2021-09-12 19:51:36,500] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/main.js HTTP/1.1" 304 0
+[2021-09-12 19:51:36,501] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 304 0
+[2021-09-12 19:51:36,502] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 304 0
+[2021-09-12 19:51:36,502] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 304 0
+[2021-09-12 19:51:36,502] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 304 0
+[2021-09-12 19:51:36,509] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/logo.png HTTP/1.1" 304 0
+[2021-09-12 19:51:36,511] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /media/timgJZZU1D7L.jpg HTTP/1.1" 304 0
+[2021-09-12 19:51:36,511] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /media/QQ%E5%9B%BE%E7%89%8720191118222249.jpg HTTP/1.1" 304 0
+[2021-09-12 19:51:36,512] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/logo-light.png HTTP/1.1" 304 0
+[2021-09-12 19:51:36,512] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/slider/1.jpg HTTP/1.1" 304 0
+[2021-09-12 19:51:36,539] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /media/timg.jpg HTTP/1.1" 304 0
+[2021-09-12 19:51:36,596] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/fonts/themify.woff HTTP/1.1" 304 0
+[2021-09-12 19:51:36,666] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/images/blog/5.jpg HTTP/1.1" 404 1810
+[2021-09-12 19:51:36,667] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-09-12 19:51:36,677] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/favicon.png HTTP/1.1" 404 1804
+[2021-09-12 19:51:45,848] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217; saveMe=true; userId=19310320117; userPW=15328362628wyh; Token=WSRY3OWTOZWZf4VB5qKN082h04l%2FEhfCgs9LJsg7JXwfOUCpKaJMqiP4EXfrjioVj%2BpsKylxcE5vPJTuXabfQw8mCf8Ys%2FJaVXsWQqUToV6o77%2FVjQJeSY%2Bdzz9Nee7cU6rrha1Sf93OPy8h5aJHyrJ6%2BXaG3XLh%2Fbrol1YcCAWI7tysUg4EtgOHBi9N%2Bib8wykkPzWQEsVK4VzGE6X3AF578wIo43OTvDV6FtnwKuHcQ7liaZDMD1xTmG3mVFLGbal8ujsgd9eRyWYhQaNd%2FTogxsC%2FubUkaxCKtLeYmIEXhwg59A1%2FUZH6UFD6ss3sqFweGGnIrn3AlIpK3E27xOL%2F37nAwyeSJmkFtLrlSQdr04QBHtqtt6iTilAPFLdspXb7eXHX1mbliGRg%2BY9lHd0GyBEknjTfm0P9VWRoTioYijHfzK1w%2FnGokzWDb87dwiSmfNzN%2FtSLesMXM3Y1DFuwsXP%2BXjsIGFw5337QwZtbMS9SoELnHKyeHyuGBPNo5XMS3zhCH5ozvP2Wmj85KHp0e3Up%2FNutEZL6S2LuhpSuDG1zd0DvEG2w8yN87BMHIaJrNHisvESUzTGeO4YIn7W0zlQeRjdrkArkDubRtFFxBqtAG9%2Fdskwf5FoZHkyVcGiZqoH0VnCD6eGdbttEu4XuyUzkhiFfXAhJseMXu%2BmPc7JlYVc7%2F3Oa2aVa%2FHAnKt6xYcDHd%2FlHvC0xIJw%2FygIufJHlHaoIsmpnETF0UBiag0yJe5%2Fsaw03E9%2BiaWI4AXQqeqNIm823ni4czicXxQDdcR%2FPeO%2F6tikLMJPQ4705gJFGvi5hqjV7LIzOv5fmY%2FMys47uo%2FaOrL1F78pP12pp5qrITV5Qpg30yKiOjNuF2u0ttT%2Fp3l16CuiKai5IyYxzhfoyssysfnSOa4SVISvbIba6i6be90WxqlHp2GjX1c7ruoTGrmOiuMwPmGrbTPGq%2Bsu%2FDE8XzA3q8bhNCGWbaRI0%2FgoikFiQbu1VnNv4rCUvw4JzIzd2AZ99OOardjr6PZ3Jv2Vq%2B80yAsfa4ZVC999ivfE3RJ51GE09Ryu5UygsCbXCzwkEaaxqk%2F%2BT6lsF8mTigHRUxSzln2WsglZD68a5j3dWZyytNeI3mLEa%2Bzofj0NhYcYB5Ki7%2FE3zJrHF7B%2BZqT4Yw9Nb48itwpInL8FLDBQKL0QujtLbCaCekkj60YkN0ol%2BtHvVKzDMqyO0WboXMpU%3D'}；request_body:b'',
+[2021-09-12 19:51:45,901] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6627
+[2021-09-12 19:51:45,924] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/style/components.css HTTP/1.1" 304 0
+[2021-09-12 19:51:45,925] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 304 0
+[2021-09-12 19:51:45,925] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/main.css HTTP/1.1" 304 0
+[2021-09-12 19:51:45,925] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/plugins.css HTTP/1.1" 304 0
+[2021-09-12 19:51:45,926] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themes.css HTTP/1.1" 304 0
+[2021-09-12 19:51:45,927] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 304 0
+[2021-09-12 19:51:45,928] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 304 0
+[2021-09-12 19:51:45,946] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/theme/default/layer.css?v=3.2.0 HTTP/1.1" 304 0
+[2021-09-12 19:51:45,979] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.woff HTTP/1.1" 304 0
+[2021-09-12 19:51:45,979] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 304 0
+[2021-09-12 19:51:45,991] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 19:51:45,991] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2021-09-12 19:51:47,967] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7207
+[2021-09-12 19:51:47,978] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/ccajax.js HTTP/1.1" 304 0
+[2021-09-12 19:51:47,979] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/sweetalert.css HTTP/1.1" 304 0
+[2021-09-12 19:51:47,979] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/sweetalert.min.js HTTP/1.1" 304 0
+[2021-09-12 19:51:47,980] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/message.js HTTP/1.1" 304 0
+[2021-09-12 19:51:47,980] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/CmUser.js HTTP/1.1" 304 0
+[2021-09-12 19:51:48,035] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 19:51:48,072] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-09-12 19:51:48,073] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-09-12 19:51:49,600] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/banners/ HTTP/1.1" 200 13147
+[2021-09-12 19:51:49,680] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 19:51:53,476] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/picture_create/ HTTP/1.1" 200 3671
+[2021-09-12 19:51:53,527] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 19:51:55,883] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7207
+[2021-09-12 19:51:55,922] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 19:51:57,243] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/administrators/ HTTP/1.1" 200 9146
+[2021-09-12 19:51:57,291] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 19:55:27,969] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 19:55:28,998] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 19:58:43,090] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/administrators/ HTTP/1.1" 200 9008
+[2021-09-12 19:58:43,197] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 19:58:54,400] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 19:58:55,613] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 19:58:57,296] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/administrators/ HTTP/1.1" 200 9067
+[2021-09-12 19:58:57,350] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 19:58:58,813] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/administrators/?p=2 HTTP/1.1" 200 9067
+[2021-09-12 19:58:58,858] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 19:59:00,349] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/administrators/?p=1 HTTP/1.1" 200 9067
+[2021-09-12 19:59:00,387] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:01:05,782] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 20:01:06,744] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:01:12,101] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/administrators/ HTTP/1.1" 200 6123
+[2021-09-12 20:01:12,144] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:01:25,387] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/administrators/ HTTP/1.1" 200 7102
+[2021-09-12 20:01:25,425] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:01:27,131] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/administrators/?p=2 HTTP/1.1" 200 8163
+[2021-09-12 20:01:27,178] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:01:30,001] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/administrators/?p=1 HTTP/1.1" 200 7102
+[2021-09-12 20:01:30,037] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:28:55,918] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 20:28:56,851] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:30:54,116] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 20:30:55,266] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:33:16,200] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 20:33:17,108] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:33:19,422] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 8164
+[2021-09-12 20:33:19,481] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:33:39,868] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 8164
+[2021-09-12 20:33:39,914] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:33:44,618] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/administrators/ HTTP/1.1" 200 9008
+[2021-09-12 20:33:44,665] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:33:46,843] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7207
+[2021-09-12 20:33:46,887] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:33:50,167] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/banners/ HTTP/1.1" 200 13147
+[2021-09-12 20:33:50,214] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:33:57,827] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/ HTTP/1.1" 200 4873
+[2021-09-12 20:34:00,112] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/message/ HTTP/1.1" 200 6452
+[2021-09-12 20:34:00,155] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:34:13,939] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 8164
+[2021-09-12 20:34:13,986] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:34:29,177] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/administrators/ HTTP/1.1" 200 9008
+[2021-09-12 20:34:29,224] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:35:05,010] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 8012
+[2021-09-12 20:35:05,049] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:36:27,645] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 20:36:28,568] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:36:31,302] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/user/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 144, in get
+    p = int(request.GET('p', 1))
+TypeError: 'QueryDict' object is not callable
+[2021-09-12 20:36:31,303] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/user/ HTTP/1.1" 500 96745
+[2021-09-12 20:36:39,858] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 20:36:40,754] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:36:42,527] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/user/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 144, in get
+    p = int(request.GET('p', 1))
+TypeError: 'QueryDict' object is not callable
+[2021-09-12 20:36:42,529] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/user/ HTTP/1.1" 500 96751
+[2021-09-12 20:36:42,529] [basehttp.py:75] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 57478)
+
+[2021-09-12 20:36:42,916] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/user/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 144, in get
+    p = int(request.GET('p', 1))
+TypeError: 'QueryDict' object is not callable
+[2021-09-12 20:36:42,916] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/user/ HTTP/1.1" 500 96751
+[2021-09-12 20:36:43,862] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/user/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 144, in get
+    p = int(request.GET('p', 1))
+TypeError: 'QueryDict' object is not callable
+[2021-09-12 20:36:43,862] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/user/ HTTP/1.1" 500 96751
+[2021-09-12 20:36:44,710] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/user/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 144, in get
+    p = int(request.GET('p', 1))
+TypeError: 'QueryDict' object is not callable
+[2021-09-12 20:36:44,711] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/user/ HTTP/1.1" 500 96751
+[2021-09-12 20:36:56,344] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 20:36:57,274] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:36:59,076] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/user/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 142, in get
+    users = User.objects.filter(is_vip=1).get()
+  File "D:\Envs\mandao\lib\site-packages\django\db\models\query.py", line 442, in get
+    num if not limit or num < limit else 'more than %s' % (limit - 1),
+apps.mdauth.models.User.MultipleObjectsReturned: get() returned more than one User -- it returned 2!
+[2021-09-12 20:36:59,078] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/user/ HTTP/1.1" 500 101069
+[2021-09-12 20:36:59,079] [basehttp.py:75] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 59410)
+
+[2021-09-12 20:36:59,357] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/user/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 142, in get
+    users = User.objects.filter(is_vip=1).get()
+  File "D:\Envs\mandao\lib\site-packages\django\db\models\query.py", line 442, in get
+    num if not limit or num < limit else 'more than %s' % (limit - 1),
+apps.mdauth.models.User.MultipleObjectsReturned: get() returned more than one User -- it returned 2!
+[2021-09-12 20:36:59,357] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/user/ HTTP/1.1" 500 101069
+[2021-09-12 20:37:00,464] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/user/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 142, in get
+    users = User.objects.filter(is_vip=1).get()
+  File "D:\Envs\mandao\lib\site-packages\django\db\models\query.py", line 442, in get
+    num if not limit or num < limit else 'more than %s' % (limit - 1),
+apps.mdauth.models.User.MultipleObjectsReturned: get() returned more than one User -- it returned 2!
+[2021-09-12 20:37:00,465] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/user/ HTTP/1.1" 500 101069
+[2021-09-12 20:37:26,464] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 20:37:27,358] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:39:04,231] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 20:39:05,172] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:39:07,193] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/user/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 143, in get
+    users = dict(users)
+TypeError: cannot convert dictionary update sequence element #0 to a sequence
+[2021-09-12 20:39:07,194] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/user/ HTTP/1.1" 500 96647
+[2021-09-12 20:39:15,581] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 20:39:16,546] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:39:18,085] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/user/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 145, in get
+    p = int(request.GET('p', 1))
+TypeError: 'QueryDict' object is not callable
+[2021-09-12 20:39:18,086] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/user/ HTTP/1.1" 500 96751
+[2021-09-12 20:40:17,838] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 20:40:18,769] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:40:26,334] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 5927
+[2021-09-12 20:40:26,390] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:40:34,693] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 20:40:35,670] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:40:37,097] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 5927
+[2021-09-12 20:40:37,145] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:40:37,639] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 5927
+[2021-09-12 20:40:37,680] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:40:38,310] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 5927
+[2021-09-12 20:40:38,350] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:40:59,563] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 8013
+[2021-09-12 20:40:59,607] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:43:14,074] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 8013
+[2021-09-12 20:43:14,118] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:43:21,044] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 8013
+[2021-09-12 20:43:21,094] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:43:23,570] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 8013
+[2021-09-12 20:43:23,626] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:44:22,614] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 20:44:23,757] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:44:25,432] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/user/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 148, in get
+    print(users.get(telephone="17628508386").money.money)
+AttributeError: 'NoneType' object has no attribute 'money'
+[2021-09-12 20:44:25,434] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/user/ HTTP/1.1" 500 97658
+[2021-09-12 20:45:21,936] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 20:45:23,295] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:45:26,925] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 8013
+[2021-09-12 20:45:26,982] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:46:31,209] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 20:46:32,130] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:46:33,780] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/user/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 147, in get
+    print(users.get(username="17628508386"))
+  File "D:\Envs\mandao\lib\site-packages\django\db\models\query.py", line 437, in get
+    self.model._meta.object_name
+apps.mdauth.models.User.DoesNotExist: User matching query does not exist.
+[2021-09-12 20:46:33,784] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/user/ HTTP/1.1" 500 102104
+[2021-09-12 20:46:42,494] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 20:46:43,547] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:46:46,525] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 8013
+[2021-09-12 20:46:46,576] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:46:56,176] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 20:46:57,228] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:46:58,848] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 8013
+[2021-09-12 20:46:58,903] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:47:40,876] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\mdauth\models.py changed, reloading.
+[2021-09-12 20:47:41,777] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:50:18,629] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\mdauth\models.py changed, reloading.
+[2021-09-12 20:50:19,549] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:51:56,038] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\mdauth\migrations\0001_initial.py changed, reloading.
+[2021-09-12 20:51:56,908] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:52:15,374] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 20:52:16,450] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:52:19,017] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/user/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 147, in get
+    print(users.get(telephone="17628508386").user_money)
+AttributeError: 'User' object has no attribute 'user_money'
+[2021-09-12 20:52:19,018] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/user/ HTTP/1.1" 500 97677
+[2021-09-12 20:52:39,162] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 20:52:40,185] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:52:42,056] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 8013
+[2021-09-12 20:52:42,115] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:53:36,214] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 20:53:37,168] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:53:38,917] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 8013
+[2021-09-12 20:53:38,968] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:53:52,671] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 20:53:53,565] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:55:35,324] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 20:55:36,482] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:55:38,146] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 8013
+[2021-09-12 20:55:38,194] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 20:55:44,830] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 20:55:45,741] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 20:55:47,473] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 8013
+[2021-09-12 20:55:47,526] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 21:01:38,528] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 21:01:39,437] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 21:01:57,461] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 21:01:58,358] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 21:02:49,838] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/user/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 147, in get
+    print(users.comment)
+AttributeError: 'QuerySet' object has no attribute 'comment'
+[2021-09-12 21:02:49,839] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/user/ HTTP/1.1" 500 97597
+[2021-09-12 21:02:58,564] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 21:02:59,485] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 21:03:01,317] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 8018
+[2021-09-12 21:03:01,364] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 21:03:14,962] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 21:03:15,871] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 21:03:17,639] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 8018
+[2021-09-12 21:03:17,692] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 21:03:25,103] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 21:03:26,075] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 21:11:15,577] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-12 21:11:16,466] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 21:11:42,159] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\mdauth\models.py changed, reloading.
+[2021-09-12 21:11:43,050] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 21:12:38,860] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\mdauth\models.py changed, reloading.
+[2021-09-12 21:12:39,751] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-12 21:12:41,377] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 8018
+[2021-09-12 21:12:41,431] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-12 21:12:41,817] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/ HTTP/1.1" 200 4873

@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="{% static 'component/style/components.css' %}">
+    <link rel="stylesheet" href="{% static 'css/cms_bootstrap.css' %}">
+    <link rel="stylesheet" href="{% static 'css/plugins.css' %}">
+    <link rel="stylesheet" href="{% static 'css/main.css' %}">
+    <link rel="stylesheet" href="https://at.alicdn.com/t/font_1926793_iqnd3gc2ja9.css">
+
+    <link rel="stylesheet" href="{% static 'css/themes.css' %}">
+    <style>
+        .fa-myself{
+            margin-right: 5px;
+        }
+    </style>
+    <script src="{% static 'component/js/JQuery2.1.4.js' %}"></script>
+    <script src="{% static 'component/plugins/layer/layer.js' %}"></script>
+</head>
+
+<body>
+   <div id="system">
+        <header>
+            <div class="left">
+                <a href="{% url 'index' %}">
+                    <i class="gi gi-leaf"></i> 猿-HoMe · <small>Cms</small>
+                </a>
+            </div>
+            <div class="right">
+                <a href="{% url 'index' %}" title="前台预览">
+                    <div class="fa fa-globe iconfont icon-shouye"></div>
+                </a>
+
+                <a href="" title="生成百度地图">
+                    <i class="fa fa-paw iconfont icon-ditu1"></i>
+                </a>
+
+
+                <a href="" title="网站设置">
+                    <i class="fa fa-cog iconfont icon-shezhi"></i>
+                </a>
+
+                <a href="login.html" title="退出">
+                    <i class="fa fa-power-off iconfont icon-tuichu1"></i>
+                </a>
+            </div>
+        </header>
+        <section class="body">
+            <div class="left">
+                <div class="navbar">
+                    <dl>
+                        <dt><a href="{% url 'cms:controlpanel' %}" target="rightiframe"><div class="fa fa-myself fa-fw iconfont icon-kongzhimianban"></div><span>控制面板</span></a></dt>
+                    </dl>
+
+                    <dl>
+                        <dt><div class="fa fa-myself fa-fw iconfont icon-tupian"></div> <span>图片管理</span></dt>
+                        <dd>
+                            <div class='li'>
+                                <a href="{% url 'cms:banners'%}"  target="rightiframe"><i class="fa iconfont icon-tupianliebiao1"></i><span>图片列表</span></a>
+                            </div>
+                            <div class='li'>
+                                <a href="{% url 'cms:picture_create' %}" target="rightiframe"><i class="fa fa-fw fa-angle-right iconfont icon-mn_shangchuantupian_fill"></i><span>上传图片</span></a>
+                            </div>
+                        </dd>
+                    </dl>
+
+                    <dl>
+                        <dt><div class="fa fa-fw fa-cog fa-myself iconfont icon-shezhi1"></div> <span>网站设置</span></dt>
+                        <dd>
+                            <div class='li'>
+                                <a href="{% url 'cms:webset' %}" target="rightiframe"><i class="fa fa-fw fa-angle-right iconfont icon-shezhi01"></i><span>基本设置</span></a>
+                            </div>
+
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt><div class="fa fa-fw fa-user iconfont fa-myself icon-a-ziyuan26"></div> <span>管理列表</span></dt>
+                        <dd>
+                            <div class='li'>
+                                <a href="{% url 'cms:administrators' %}" target="rightiframe"><i class="fa fa-fw fa-angle-right iconfont icon-renyuanguanli2"></i><span>管理员列表</span></a>
+                            </div>
+                            <div class='li'>
+                                <a href="{% url 'cms:creat_admin' %}" target="rightiframe"><i class="fa fa-fw fa-angle-right iconfont icon-chuangjianren"></i><span>创建管理员</span></a>
+                            </div>
+                            <div class='li'>
+                                <a href="{% url 'cms:persons' %}" target="rightiframe"><i class="fa fa-fw fa-angle-right iconfont icon-renyuanguanli"></i><span>人员管理</span></a>
+                            </div>
+
+                        </dd>
+                    </dl>
+
+                    <dl>
+                        <dt><div class="fa fa-fw fa-users iconfont icon-huiyuan1 fa-myself"></div> <span>会员管理</span></dt>
+                        <dd>
+                            <div class='li'>
+                                <a href="{% url 'cms:user' %}" target="rightiframe"><i class="fa fa-fw fa-angle-right icon-huiyuan iconfont"></i><span>会员列表</span></a>
+                            </div>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt><duv class="fa fa-fw fa-stack-overflow iconfont icon-rizhi fa-myself"></duv> <span>网站日志</span></dt>
+                        <dd>
+                            <div class='li'>
+                                <a href="{%  url 'cms:logs' %}" target="rightiframe"><i class="fa fa-fw fa-angle-right iconfont icon-ico-"></i><span>日志列表</span></a>
+                            </div>
+                        </dd>
+                    </dl>
+
+
+                    <dl>
+                        <dt><div class="fa fa-fw fa-send iconfont fa-myself icon-liuyanguanli"></div> <span>留言管理</span></dt>
+                        <dd>
+                            <div class='li'>
+                                <a href="{% url 'cms:message' %}" target="rightiframe"><i class="fa fa-fw fa-angle-right iconfont icon-liuyan"></i><span>留言列表</span></a>
+                            </div>
+                        </dd>
+                    </dl>
+                </div>
+            </div>
+            <div class="right">
+                {% block content %}
+
+                {% endblock %}
+
+            </div>
+        </section>
+        <div class="rightmask"></div>
+   </div>
+
+   <script>
+       $('.navbar dl dt').click(function () {
+            if (!$(this).siblings('dd').hasClass('active')) {
+                $('.navbar dl dd').removeClass('active');
+                $(this).siblings('dd').removeClass('active');
+                $(this).siblings('dd').addClass('active');
+            } else {
+                $('.navbar dl dd').removeClass('active');
+                $(this).siblings('dd').removeClass('active');
+            }
+
+            if (!$(this).hasClass('activeTop')) {
+                $('.navbar dl dt').removeClass('activeTop');
+                $(this).removeClass('activeTop');
+                $(this).addClass('activeTop');
+            } else {
+                $('.navbar dl dt').removeClass('activeTop');
+                $(this).removeClass('activeTop');
+            }
+        });
+
+        $('.navbar .li a').click(function(){
+            $('.navbar .li a').removeClass('activelinks');
+            $(this).addClass('activelinks');
+        });
+
+        $('.body .left').hover(function(){
+            $('.rightmask').addClass('show');
+        },function(){
+            $('.rightmask').removeClass('show');
+        })
+   </script>
+</body>
+
+</html>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+    <input type="file" name="f1" id="banner">
+    <input type="text" name="desc" id="banner_desc">
+    <button id="thumbnail-btn">上传</button></form>
+</body>
+  <script src="{% static 'js/jq.js' %}"></script>
+      <script src="{% static 'js/ccajax.js' %}"></script>
+    <script src="{% static 'js/message.js' %}"></script>
+  <script src="{% static 'js/upload.js' %}"></script>
+</html>

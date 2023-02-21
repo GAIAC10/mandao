@@ -1,0 +1,1686 @@
+[2021-09-06 19:28:47,610] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 19:28:52,265] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x011\x07"\x7fÒ\x04B½«\x1aMç§À\x0cX9Õ¨¥ËjÕ5Ê\x85\x87\x94J1Æ ~ÉÃðGvë\x08\x92\'q#9\x81{\x99ó\x87ã\x94¢óº\x9aq\x90©\x11p=Ks\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93JJ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-09-06 19:28:52,266] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-06 19:28:52,268] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ç>$\x9d\x9b\x7f\x1ecî:\x16\x89áÜ¦\x94´\x07+ÈëW\t\x89[f6ìB%DÉ MUd½»|\x1exKIÑ\x96&ôú\x85\x8c`IÂÐÐ$ê\x12\x03v\x98õå\x7fµ\x00 ::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ZZ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-09-06 19:28:52,268] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-06 19:30:13,005] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03')
+[2021-09-06 19:30:13,005] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-06 19:30:13,006] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03WC\x08%\x03¤\x92¸|ÂÁ\x83\x07^\x1cr±¡\x17Þ\xa0½\\¯iá\x13ò\x92æ\x807 ³¤øÖÚo\x0bâ\x97\x9b1\x1fº®ÒèÑðí5\x85HÐ«C\x90wèx\x88C:\x00 ')
+[2021-09-06 19:30:13,006] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-06 19:30:48,727] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ÂH\x99\x0f{êÛ\x1f\x83w\x81O\x19\x1e¹JÙèòÖY\x85\x8b¹\x9b:/\x7f«ö]v \x8f\x87\x97DÔÞ+ý§ZÚoX=\x92\x0e³;gôé'®5ZÔ\x99ßÕ¹I\x8b\x00 **\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ÊÊ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00")
+[2021-09-06 19:30:48,728] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-06 19:30:48,728] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Ó\x05\x91+\x92\x84_[\\ùë')
+[2021-09-06 19:30:48,728] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-06 19:30:48,730] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03zÂêD¨¤YªÃ\x1e\x99\x0e\x8e]´\x97j[\x87Dòà·ã?~[§\x96¥È< jÄ\x14±2|\x08\x93ë\'þoÕ~Ó;\x03çxOÛÔr÷\x17"©ßfnÅê\x00 êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93JJ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-09-06 19:30:48,730] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03£dHï2Ï4\x15\x04\x80\t\x08¬?Ë÷\x93ú¼3ÑÏÇ\x8d\x92\x99û\xa0;\x0bª¥ ;Z\x04%cBX,æYe\x08\x1b\x82äYZ\x05¸Ô\x9d\\ä\x13ä=Áø\x83n[\x9b\x00 \x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93êê\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-09-06 19:30:48,730] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-06 19:30:48,730] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-06 19:30:49,269] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x08\x97ÚÒ\x90ûÚ\x19\x81\x90\x8dV¸u\x03Z>¾\x9dµ\rKû\x80\x020±WØª\xadý .%¢R\x10`-:Â®NÝE¡tGõ\x93s©EóºxrhÜ^F5«Â\x00 JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93JJ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-09-06 19:30:49,270] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-06 19:30:49,270] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x038=\xadq¡\x15\x97z\x90Ä\x9cAW\x14¢\x05kK)ø\x14g\x17¶Û«k@óvKM Ïß~É\x81ô\x91\x83ÿ/è¾\x0c2\x93eóÚ\tÔû7$\x98\x18ê\x9d|9úÆ\x94\x00 ')
+[2021-09-06 19:30:49,271] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-06 19:30:49,271] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03/ÑÙJçð³b9¾ê\x90ÿ°o®ç\x19²Ç¼0\x8c"â^\x9a.@b\x86Q )\x04ê×E\x00]7Æ\x92«\x08\r~\x1a©i1"Cå¶\x03e\x81B\x93ÊüÎ¹g\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93')
+[2021-09-06 19:30:49,272] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-06 19:30:49,272] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x97\xa0WÔ]\x01D\x03\x1f\x07`´E\x9e\x04CeönÀ{fR¿ÉêÂ¬ã³Cû ñâLÖ~KüøÝ&þóx|\x18âvój4?wp\x82´\x9e7ÌDy{\x80\x00 ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93êê\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-09-06 19:30:49,272] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-06 19:31:20,717] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 8005
+[2021-09-06 19:31:20,750] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/animate.css
+[2021-09-06 19:31:20,752] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themify-icons.css
+[2021-09-06 19:31:20,753] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/et-lineicons.css
+[2021-09-06 19:31:20,754] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/bootstrap.css
+[2021-09-06 19:31:20,756] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/magnific-popup.css
+[2021-09-06 19:31:20,756] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/animate.css HTTP/1.1" 404 179
+[2021-09-06 19:31:20,758] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/style.css
+[2021-09-06 19:31:20,758] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themify-icons.css HTTP/1.1" 404 179
+[2021-09-06 19:31:20,760] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jq.js
+[2021-09-06 19:31:20,760] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/bootstrap.css HTTP/1.1" 404 179
+[2021-09-06 19:31:20,760] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/et-lineicons.css HTTP/1.1" 404 179
+[2021-09-06 19:31:20,760] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/magnific-popup.css HTTP/1.1" 404 179
+[2021-09-06 19:31:20,762] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/modernizr-2.6.2.min.js
+[2021-09-06 19:31:20,762] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/style.css HTTP/1.1" 404 179
+[2021-09-06 19:31:20,765] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.waypoints.min.js
+[2021-09-06 19:31:20,766] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/bootstrap.min.js
+[2021-09-06 19:31:20,766] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jq.js HTTP/1.1" 404 179
+[2021-09-06 19:31:20,767] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.easing.1.3.js
+[2021-09-06 19:31:20,769] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.isotope.v3.0.2.js
+[2021-09-06 19:31:20,769] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/modernizr-2.6.2.min.js HTTP/1.1" 404 179
+[2021-09-06 19:31:20,770] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 404 179
+[2021-09-06 19:31:20,771] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/imagesloaded.pkgd.min.js
+[2021-09-06 19:31:20,772] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js HTTP/1.1" 404 179
+[2021-09-06 19:31:20,774] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/masonry.pkgd.min.js
+[2021-09-06 19:31:20,775] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.magnific-popup.min.js
+[2021-09-06 19:31:20,776] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 404 179
+[2021-09-06 19:31:20,776] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 404 179
+[2021-09-06 19:31:20,778] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sticky-kit.min.js
+[2021-09-06 19:31:20,778] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-06 19:31:20,778] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-06 19:31:20,780] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/main.js
+[2021-09-06 19:31:20,782] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/logo.png
+[2021-09-06 19:31:20,782] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 404 179
+[2021-09-06 19:31:20,784] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/slider/1.jpg
+[2021-09-06 19:31:20,784] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 404 179
+[2021-09-06 19:31:20,786] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/logo-light.png
+[2021-09-06 19:31:20,786] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/main.js HTTP/1.1" 404 179
+[2021-09-06 19:31:20,786] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/logo.png HTTP/1.1" 404 179
+[2021-09-06 19:31:20,787] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/slider/1.jpg HTTP/1.1" 404 179
+[2021-09-06 19:31:20,788] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/logo-light.png HTTP/1.1" 404 179
+[2021-09-06 19:31:20,814] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/bootstrap.min.js
+[2021-09-06 19:31:20,814] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js HTTP/1.1" 404 179
+[2021-09-06 19:31:20,817] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.waypoints.min.js
+[2021-09-06 19:31:20,818] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 404 179
+[2021-09-06 19:31:20,820] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/imagesloaded.pkgd.min.js
+[2021-09-06 19:31:20,821] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-06 19:31:20,824] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.isotope.v3.0.2.js
+[2021-09-06 19:31:20,824] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 404 179
+[2021-09-06 19:31:20,828] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/masonry.pkgd.min.js
+[2021-09-06 19:31:20,828] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-06 19:31:20,831] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.magnific-popup.min.js
+[2021-09-06 19:31:20,832] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 404 179
+[2021-09-06 19:31:20,835] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sticky-kit.min.js
+[2021-09-06 19:31:20,836] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 404 179
+[2021-09-06 19:31:20,838] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/main.js
+[2021-09-06 19:31:20,839] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/main.js HTTP/1.1" 404 179
+[2021-09-06 19:31:20,845] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/favicon.png
+[2021-09-06 19:31:20,846] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/favicon.png HTTP/1.1" 404 179
+[2021-09-06 19:31:46,700] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\mandao\settings.py changed, reloading.
+[2021-09-06 19:31:47,888] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 19:31:49,498] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 8005
+[2021-09-06 19:31:49,572] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themify-icons.css HTTP/1.1" 200 13837
+[2021-09-06 19:31:49,574] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/animate.css HTTP/1.1" 200 55686
+[2021-09-06 19:31:49,574] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/style.css HTTP/1.1" 200 30435
+[2021-09-06 19:31:49,583] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/et-lineicons.css HTTP/1.1" 200 5238
+[2021-09-06 19:31:49,584] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/magnific-popup.css HTTP/1.1" 200 5924
+[2021-09-06 19:31:49,609] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 200 3601
+[2021-09-06 19:31:49,620] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/bootstrap.css HTTP/1.1" 200 140783
+[2021-09-06 19:31:49,627] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/modernizr-2.6.2.min.js HTTP/1.1" 200 15022
+[2021-09-06 19:31:49,628] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 200 8786
+[2021-09-06 19:31:49,635] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 200 5437
+[2021-09-06 19:31:49,645] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/bootstrap.min.js HTTP/1.1" 200 51039
+[2021-09-06 19:31:49,661] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 200 3200
+[2021-09-06 19:31:49,662] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 200 34585
+[2021-09-06 19:31:49,664] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 200 21652
+[2021-09-06 19:31:49,670] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/main.js HTTP/1.1" 200 2215
+[2021-09-06 19:31:49,671] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jq.js HTTP/1.1" 200 86927
+[2021-09-06 19:31:49,672] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/logo.png HTTP/1.1" 200 9679
+[2021-09-06 19:31:49,673] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 200 24032
+[2021-09-06 19:31:49,699] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/slider/1.jpg HTTP/1.1" 200 413951
+[2021-09-06 19:31:49,701] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/logo-light.png HTTP/1.1" 200 9779
+[2021-09-06 19:31:49,833] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/fonts/themify.woff HTTP/1.1" 200 72
+[2021-09-06 19:31:49,960] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/images/blog/5.jpg HTTP/1.1" 404 1810
+[2021-09-06 19:31:49,961] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-09-06 19:31:50,145] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/favicon.png HTTP/1.1" 404 1804
+[2021-09-06 19:31:51,351] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 302 0
+[2021-09-06 19:31:51,366] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login/?next=/map/map/ HTTP/1.1" 200 2799
+[2021-09-06 19:31:51,391] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/map_style.css HTTP/1.1" 200 3413
+[2021-09-06 19:31:51,400] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/reset.css HTTP/1.1" 200 1030
+[2021-09-06 19:31:51,413] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/message.js HTTP/1.1" 200 3347
+[2021-09-06 19:31:51,414] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/ccajax.js HTTP/1.1" 200 2399
+[2021-09-06 19:31:51,418] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/map_auth.js HTTP/1.1" 200 1575
+[2021-09-06 19:31:51,434] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/name.png HTTP/1.1" 200 5102
+[2021-09-06 19:31:51,436] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/app.js HTTP/1.1" 200 1139
+[2021-09-06 19:31:51,440] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/password.png HTTP/1.1" 200 3859
+[2021-09-06 19:31:51,446] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/particles.min.js HTTP/1.1" 200 23358
+[2021-09-06 19:31:51,451] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/bg.jpg HTTP/1.1" 200 51002
+[2021-09-06 19:31:51,514] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-09-06 19:31:51,514] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-09-06 19:31:53,959] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /mdmain/contact/ HTTP/1.1" 200 5536
+[2021-09-06 19:31:53,989] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/contact.js HTTP/1.1" 200 1099
+[2021-09-06 19:31:54,019] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-09-06 19:32:57,752] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\mandao\settings.py changed, reloading.
+[2021-09-06 19:32:59,136] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 19:33:56,893] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 8071
+[2021-09-06 19:33:56,942] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/images/blog/5.jpg HTTP/1.1" 404 1810
+[2021-09-06 19:33:56,966] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-09-06 19:34:46,246] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 302 0
+[2021-09-06 19:34:46,260] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login/?next=/map/map/ HTTP/1.1" 200 2799
+[2021-09-06 19:35:16,593] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 8012
+[2021-09-06 19:35:16,622] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/et-lineicons.css HTTP/1.1" 200 5238
+[2021-09-06 19:35:16,627] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themify-icons.css HTTP/1.1" 200 13837
+[2021-09-06 19:35:16,627] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/magnific-popup.css HTTP/1.1" 200 5924
+[2021-09-06 19:35:16,629] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/animate.css HTTP/1.1" 200 55686
+[2021-09-06 19:35:16,630] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/style.css HTTP/1.1" 200 30435
+[2021-09-06 19:35:16,631] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/bootstrap.css HTTP/1.1" 200 140783
+[2021-09-06 19:35:16,649] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 200 3601
+[2021-09-06 19:35:16,655] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 200 5437
+[2021-09-06 19:35:16,657] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 200 8786
+[2021-09-06 19:35:16,662] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/modernizr-2.6.2.min.js HTTP/1.1" 200 15022
+[2021-09-06 19:35:16,669] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/bootstrap.min.js HTTP/1.1" 200 51039
+[2021-09-06 19:35:16,682] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 200 3200
+[2021-09-06 19:35:16,683] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 200 24032
+[2021-09-06 19:35:16,685] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 200 21652
+[2021-09-06 19:35:16,688] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jq.js HTTP/1.1" 200 86927
+[2021-09-06 19:35:16,689] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 200 34585
+[2021-09-06 19:35:16,694] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/main.js HTTP/1.1" 200 2215
+[2021-09-06 19:35:16,695] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/logo.png HTTP/1.1" 200 9679
+[2021-09-06 19:35:16,700] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/slider/1.jpg HTTP/1.1" 200 413951
+[2021-09-06 19:35:16,702] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/logo-light.png HTTP/1.1" 200 9779
+[2021-09-06 19:35:16,780] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/fonts/themify.woff HTTP/1.1" 200 72
+[2021-09-06 19:35:16,782] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/images/blog/5.jpg HTTP/1.1" 404 1810
+[2021-09-06 19:35:16,800] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-09-06 19:35:16,972] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/favicon.png HTTP/1.1" 404 1804
+[2021-09-06 19:35:19,787] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 302 0
+[2021-09-06 19:35:19,792] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login/?next=/map/map/ HTTP/1.1" 200 2799
+[2021-09-06 19:35:19,852] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-09-06 19:35:19,853] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-09-06 19:35:26,604] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /auth/login/ HTTP/1.1" 200 45
+[2021-09-06 19:35:39,599] [views.py:26] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 19:35:39,659] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6624
+[2021-09-06 19:35:39,727] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 200 105029
+[2021-09-06 19:35:39,732] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/main.css HTTP/1.1" 200 51284
+[2021-09-06 19:35:39,737] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/style/components.css HTTP/1.1" 200 9491
+[2021-09-06 19:35:39,742] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/plugins.css HTTP/1.1" 200 197714
+[2021-09-06 19:35:39,746] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themes.css HTTP/1.1" 200 2019
+[2021-09-06 19:35:39,754] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 200 22081
+[2021-09-06 19:35:39,772] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 200 84355
+[2021-09-06 19:35:39,833] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/theme/default/layer.css?v=3.2.0 HTTP/1.1" 200 14367
+[2021-09-06 19:35:39,882] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 109
+[2021-09-06 19:35:39,883] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.woff HTTP/1.1" 200 103
+[2021-09-06 19:35:39,895] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 19:35:39,896] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2021-09-06 19:35:42,012] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7208
+[2021-09-06 19:35:42,039] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/sweetalert.css HTTP/1.1" 200 22898
+[2021-09-06 19:35:42,050] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/CmUser.js HTTP/1.1" 200 12321
+[2021-09-06 19:35:42,061] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/sweetalert.min.js HTTP/1.1" 200 16999
+[2021-09-06 19:35:42,402] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 19:35:44,168] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 8090
+[2021-09-06 19:35:44,205] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/images/blog/5.jpg HTTP/1.1" 404 1810
+[2021-09-06 19:35:44,290] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-09-06 19:35:49,327] [views.py:26] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 19:35:49,330] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6624
+[2021-09-06 19:35:49,371] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2021-09-06 19:35:49,371] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 19:35:49,798] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7208
+[2021-09-06 19:35:49,835] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 19:36:16,358] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/banners/ HTTP/1.1" 200 5007
+[2021-09-06 19:36:16,416] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 19:36:26,054] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/picture_create/ HTTP/1.1" 200 3671
+[2021-09-06 19:36:26,101] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 19:36:34,157] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /mdmain/upload/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdmain\views.py", line 58, in upload
+    with open(os.path.join(settings.MEDIA_ROOT,file.name), 'wb') as f:
+AttributeError: 'NoneType' object has no attribute 'name'
+[2021-09-06 19:36:34,158] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /mdmain/upload/ HTTP/1.1" 500 75493
+[2021-09-06 19:45:17,427] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/banners/ HTTP/1.1" 200 5007
+[2021-09-06 19:45:17,502] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 19:45:58,215] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7208
+[2021-09-06 19:45:58,269] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 19:53:42,853] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-06 19:53:43,845] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 19:53:59,297] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-06 19:54:00,186] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 19:54:11,401] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-06 19:54:12,348] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 19:54:20,311] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-06 19:54:21,305] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 19:54:50,218] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-06 19:54:51,137] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 19:55:29,302] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-06 19:55:30,245] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 19:55:32,329] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 19:55:32,610] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with no arguments not found. 1 pattern(s) tried: ['cms\\/banners\\/(?P<page>[0-9]+)$']
+[2021-09-06 19:55:32,613] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 155113
+[2021-09-06 19:55:33,750] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 19:55:33,793] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with no arguments not found. 1 pattern(s) tried: ['cms\\/banners\\/(?P<page>[0-9]+)$']
+[2021-09-06 19:55:33,794] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 155241
+[2021-09-06 19:55:33,892] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-09-06 19:55:33,892] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-09-06 19:55:39,852] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/1
+[2021-09-06 19:55:39,853] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/1 HTTP/1.1" 404 5893
+[2021-09-06 19:55:42,884] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 19:55:42,926] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with no arguments not found. 1 pattern(s) tried: ['cms\\/banners\\/(?P<page>[0-9]+)$']
+[2021-09-06 19:55:42,927] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 154825
+[2021-09-06 19:56:02,400] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/banners/1
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+TypeError: banners() got an unexpected keyword argument 'page'
+[2021-09-06 19:56:02,401] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/banners/1 HTTP/1.1" 500 74905
+[2021-09-06 19:56:20,109] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\urls.py changed, reloading.
+[2021-09-06 19:56:21,103] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 19:56:22,022] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/banners/1 HTTP/1.1" 301 0
+[2021-09-06 19:56:22,538] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/banners/1/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+TypeError: banners() got an unexpected keyword argument 'page'
+[2021-09-06 19:56:22,539] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/banners/1/ HTTP/1.1" 500 75180
+[2021-09-06 19:56:22,596] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-09-06 19:56:22,596] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-09-06 19:56:28,046] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\urls.py changed, reloading.
+[2021-09-06 19:56:28,966] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 19:56:30,140] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/banners/1/
+[2021-09-06 19:56:30,141] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/banners/1/ HTTP/1.1" 404 5904
+[2021-09-06 19:56:30,164] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-09-06 19:56:30,164] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-09-06 19:56:32,673] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 19:56:32,683] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6624
+[2021-09-06 19:56:32,738] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2021-09-06 19:56:32,738] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 19:56:33,201] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/controlpanel/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+TypeError: controlpanel() missing 1 required positional argument: 'page'
+[2021-09-06 19:56:33,202] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/controlpanel/ HTTP/1.1" 500 74984
+[2021-09-06 19:56:47,691] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/controlpanel/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+TypeError: controlpanel() missing 1 required positional argument: 'page'
+[2021-09-06 19:56:47,692] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/controlpanel/ HTTP/1.1" 500 75115
+[2021-09-06 19:56:49,589] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/banners/ HTTP/1.1" 200 5007
+[2021-09-06 19:56:49,645] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 19:57:04,269] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\urls.py changed, reloading.
+[2021-09-06 19:57:05,200] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 19:57:11,442] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 19:57:11,561] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'user' with no arguments not found. 1 pattern(s) tried: ['cms\\/user\\/(?P<page>[0-9]+)\\/$']
+[2021-09-06 19:57:11,564] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 157758
+[2021-09-06 19:58:13,921] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-06 19:58:14,833] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 19:58:16,250] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 19:58:16,356] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'user' with no arguments not found. 1 pattern(s) tried: ['cms\\/user\\/(?P<page>[0-9]+)\\/$']
+[2021-09-06 19:58:16,358] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 157688
+[2021-09-06 19:58:21,578] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 19:58:21,640] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'user' with no arguments not found. 1 pattern(s) tried: ['cms\\/user\\/(?P<page>[0-9]+)\\/$']
+[2021-09-06 19:58:21,641] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 157688
+[2021-09-06 19:58:30,104] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\urls.py changed, reloading.
+[2021-09-06 19:58:31,014] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 19:58:32,458] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 19:58:32,470] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6624
+[2021-09-06 19:58:32,534] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 19:58:32,534] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2021-09-06 19:58:33,014] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7208
+[2021-09-06 19:58:33,063] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 19:58:37,840] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/banners/ HTTP/1.1" 200 5007
+[2021-09-06 19:58:37,879] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 20:00:10,657] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-06 20:00:11,599] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 20:00:13,144] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 20:00:13,252] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with no arguments not found. 1 pattern(s) tried: ['cms\\/banners\\/(?P<page>[0-9]+)$']
+[2021-09-06 20:00:13,257] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 154892
+[2021-09-06 20:00:33,523] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/banners/1/
+[2021-09-06 20:00:33,524] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/banners/1/ HTTP/1.1" 404 5920
+[2021-09-06 20:00:37,542] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/banners/
+[2021-09-06 20:00:37,543] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/banners/ HTTP/1.1" 404 5914
+[2021-09-06 20:01:51,669] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/banners/
+[2021-09-06 20:01:51,669] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/banners/ HTTP/1.1" 404 5914
+[2021-09-06 20:01:51,691] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-09-06 20:01:51,692] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-09-06 20:01:59,455] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/banners/
+[2021-09-06 20:01:59,455] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/banners/ HTTP/1.1" 404 5914
+[2021-09-06 20:02:00,128] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/banners/
+[2021-09-06 20:02:00,128] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/banners/ HTTP/1.1" 404 5914
+[2021-09-06 20:02:02,463] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 20:02:02,533] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners page' not found. 'banners page' is not a valid view function or pattern name.
+[2021-09-06 20:02:02,544] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 153038
+[2021-09-06 20:03:03,931] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 20:03:03,974] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners ' not found. 'banners ' is not a valid view function or pattern name.
+[2021-09-06 20:03:03,975] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 153091
+[2021-09-06 20:04:01,275] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 20:04:01,317] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with arguments '('',)' not found. 1 pattern(s) tried: ['cms\\/banners\\/(?P<page>[0-9]+)$']
+[2021-09-06 20:04:01,318] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 156209
+[2021-09-06 20:04:02,712] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 20:04:02,755] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with arguments '('',)' not found. 1 pattern(s) tried: ['cms\\/banners\\/(?P<page>[0-9]+)$']
+[2021-09-06 20:04:02,757] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 156209
+[2021-09-06 20:06:06,563] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 20:06:06,647] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners page' not found. 'banners page' is not a valid view function or pattern name.
+[2021-09-06 20:06:06,648] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 153173
+[2021-09-06 20:08:44,219] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 20:08:44,261] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with arguments '('',)' not found. 1 pattern(s) tried: ['cms\\/banners\\/(?P<page>[0-9]+)$']
+[2021-09-06 20:08:44,262] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 156335
+[2021-09-06 20:08:44,333] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-09-06 20:08:44,334] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-09-06 20:14:27,557] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/banners/1/
+[2021-09-06 20:14:27,558] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/banners/1/ HTTP/1.1" 404 5920
+[2021-09-06 20:14:32,562] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/banners/2/
+[2021-09-06 20:14:32,563] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/banners/2/ HTTP/1.1" 404 5920
+[2021-09-06 20:16:44,994] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-06 20:16:45,874] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 20:17:17,079] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/banners/2/
+[2021-09-06 20:17:17,080] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/banners/2/ HTTP/1.1" 404 5920
+[2021-09-06 20:17:21,495] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms HTTP/1.1" 301 0
+[2021-09-06 20:17:21,939] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 20:17:22,094] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with arguments '('',)' not found. 1 pattern(s) tried: ['cms\\/banners\\/(?P<page>[0-9]+)$']
+[2021-09-06 20:17:22,099] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 156070
+[2021-09-06 20:17:26,436] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/1
+[2021-09-06 20:17:26,436] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/1 HTTP/1.1" 404 5893
+[2021-09-06 20:17:28,968] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Purpose': 'prefetch', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 20:17:29,010] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with arguments '('',)' not found. 1 pattern(s) tried: ['cms\\/banners\\/(?P<page>[0-9]+)$']
+[2021-09-06 20:17:29,011] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 156200
+[2021-09-06 20:17:46,727] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/banners
+[2021-09-06 20:17:46,728] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/banners?p=1 HTTP/1.1" 404 5915
+[2021-09-06 20:19:58,770] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/banners
+[2021-09-06 20:19:58,770] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/banners?p=1 HTTP/1.1" 404 5915
+[2021-09-06 20:19:59,656] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/banners
+[2021-09-06 20:19:59,656] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/banners?p=1 HTTP/1.1" 404 5915
+[2021-09-06 20:19:59,682] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-09-06 20:19:59,682] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-09-06 20:20:03,588] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 20:20:03,635] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with arguments '('',)' not found. 1 pattern(s) tried: ['cms\\/banners\\/(?P<page>[0-9]+)$']
+[2021-09-06 20:20:03,636] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 156064
+[2021-09-06 20:20:15,565] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 20:20:15,606] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with arguments '('',)' not found. 1 pattern(s) tried: ['cms\\/banners\\/(?P<page>[0-9]+)$']
+[2021-09-06 20:20:15,608] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/?p=1 HTTP/1.1" 500 156386
+[2021-09-06 20:20:29,631] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/banners/
+[2021-09-06 20:20:29,632] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/banners/?p=1 HTTP/1.1" 404 5918
+[2021-09-06 20:21:16,734] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/banners/
+[2021-09-06 20:21:16,735] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/banners/?p=1 HTTP/1.1" 404 5918
+[2021-09-06 20:21:19,943] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 20:21:19,986] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with no arguments not found. 1 pattern(s) tried: ['cms\\/banners\\/(?P<page>[0-9]+)$']
+[2021-09-06 20:21:19,987] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 154755
+[2021-09-06 20:21:28,906] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 20:21:28,961] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with arguments '('',)' not found. 1 pattern(s) tried: ['cms\\/banners\\/(?P<page>[0-9]+)$']
+[2021-09-06 20:21:28,962] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 156201
+[2021-09-06 20:21:41,014] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 20:21:41,055] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners p' not found. 'banners p' is not a valid view function or pattern name.
+[2021-09-06 20:21:41,056] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 153110
+[2021-09-06 20:21:53,331] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 20:21:53,372] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with arguments '('',)' not found. 1 pattern(s) tried: ['cms\\/banners\\/(?P<page>[0-9]+)$']
+[2021-09-06 20:21:53,373] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 156203
+[2021-09-06 20:23:27,777] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-06 20:23:28,853] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 20:23:32,441] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 20:23:32,543] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with arguments '('',)' not found. 1 pattern(s) tried: ['cms\\/banners\\/(?P<page>[0-9]+)$']
+[2021-09-06 20:23:32,545] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 156201
+[2021-09-06 20:23:33,706] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 20:23:33,748] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with arguments '('',)' not found. 1 pattern(s) tried: ['cms\\/banners\\/(?P<page>[0-9]+)$']
+[2021-09-06 20:23:33,749] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 156329
+[2021-09-06 20:23:33,828] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-09-06 20:23:33,828] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-09-06 20:24:56,048] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\urls.py changed, reloading.
+[2021-09-06 20:24:56,995] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 20:24:58,340] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 20:24:58,451] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with arguments '('',)' not found. 1 pattern(s) tried: ['cms\\/banners\\/p\\=(?P<page>[0-9]+)\\/$']
+[2021-09-06 20:24:58,454] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 156291
+[2021-09-06 20:25:00,033] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 20:25:00,123] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with arguments '('',)' not found. 1 pattern(s) tried: ['cms\\/banners\\/p\\=(?P<page>[0-9]+)\\/$']
+[2021-09-06 20:25:00,124] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 156291
+[2021-09-06 20:25:34,067] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\urls.py changed, reloading.
+[2021-09-06 20:25:34,993] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 20:25:36,521] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 20:25:36,632] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with arguments '('',)' not found. 1 pattern(s) tried: ['cms\\/banners\\/p\\=(?P<p>[0-9]+)\\/$']
+[2021-09-06 20:25:36,636] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 156225
+[2021-09-06 20:29:49,640] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\urls.py changed, reloading.
+[2021-09-06 20:29:50,556] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 20:29:51,919] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 20:29:51,933] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6626
+[2021-09-06 20:29:52,003] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 20:29:52,004] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2021-09-06 20:29:52,458] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7208
+[2021-09-06 20:29:52,534] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 20:29:56,117] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/banners/1/ HTTP/1.1" 200 5007
+[2021-09-06 20:29:56,160] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 20:29:57,669] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/picture_create/ HTTP/1.1" 200 3671
+[2021-09-06 20:29:57,711] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 20:29:59,651] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/banners/1/ HTTP/1.1" 200 5007
+[2021-09-06 20:29:59,696] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 20:43:31,709] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-06 20:43:32,639] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 20:51:21,107] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-06 20:51:22,049] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 20:51:41,393] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 20:51:41,498] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with arguments '('',)' not found. 1 pattern(s) tried: ['cms\\/banners\\/(?P<p>[0-9]+)\\/$']
+[2021-09-06 20:51:41,501] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 156303
+[2021-09-06 20:51:41,593] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-09-06 20:51:41,593] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-09-06 21:04:03,901] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 21:04:03,946] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with arguments '('',)' not found. 1 pattern(s) tried: ['cms\\/banners\\/(?P<p>[0-9]+)\\/$']
+[2021-09-06 21:04:03,947] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 156189
+[2021-09-06 21:04:05,306] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 21:04:05,348] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with arguments '('',)' not found. 1 pattern(s) tried: ['cms\\/banners\\/(?P<p>[0-9]+)\\/$']
+[2021-09-06 21:04:05,349] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 156189
+[2021-09-06 21:04:06,357] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 21:04:06,398] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with arguments '('',)' not found. 1 pattern(s) tried: ['cms\\/banners\\/(?P<p>[0-9]+)\\/$']
+[2021-09-06 21:04:06,399] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 156189
+[2021-09-06 21:04:47,075] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-06 21:04:47,986] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 21:04:51,256] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+TypeError: cms_index() missing 1 required positional argument: 'p'
+[2021-09-06 21:04:51,257] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 74936
+[2021-09-06 21:04:55,261] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-06 21:04:56,326] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-06 21:04:57,808] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 21:04:57,916] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 34, in decorator
+    return viewFunc(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 28, in cms_index
+    return render(request, 'cms/cms_index.html')
+  File "D:\Envs\mandao\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\Envs\mandao\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "D:\Envs\mandao\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'banners' with arguments '('',)' not found. 1 pattern(s) tried: ['cms\\/banners\\/(?P<p>[0-9]+)\\/$']
+[2021-09-06 21:04:57,920] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/ HTTP/1.1" 500 156177
+[2021-09-06 21:05:16,421] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 21:05:16,425] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6629
+[2021-09-06 21:05:16,518] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2021-09-06 21:05:16,518] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 21:05:16,928] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7208
+[2021-09-06 21:05:17,020] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 21:05:21,479] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/banners/1/ HTTP/1.1" 200 5007
+[2021-09-06 21:05:21,569] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 21:05:27,961] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/banners/1/ HTTP/1.1" 200 5007
+[2021-09-06 21:05:28,048] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 21:05:46,047] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/2
+[2021-09-06 21:05:46,047] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/2 HTTP/1.1" 404 5891
+[2021-09-06 21:06:01,603] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217'}；request_body:b'',
+[2021-09-06 21:06:01,606] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/?p=2 HTTP/1.1" 200 6629
+[2021-09-06 21:06:01,693] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 21:06:01,693] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2021-09-06 21:06:02,087] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7208
+[2021-09-06 21:06:02,178] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 21:06:48,273] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/banners/1/ HTTP/1.1" 200 5007
+[2021-09-06 21:06:48,371] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 21:07:02,936] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/banners/2 HTTP/1.1" 301 0
+[2021-09-06 21:07:03,471] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/banners/2/ HTTP/1.1" 200 5007
+[2021-09-06 21:07:03,573] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-06 21:07:05,806] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900

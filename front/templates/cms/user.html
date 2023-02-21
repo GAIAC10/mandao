@@ -1,0 +1,143 @@
+{% extends 'cms/controlpanel_base.html' %}
+{% block content %}
+<div id="body">
+        <ol class="breadcrumb">
+            <li class="active"><a href="#">系统</a></li>
+            <li>会员列表</li>
+        </ol>
+        <div class="barboxs">
+
+            <button class="btn btn-success pull-left " data-toggle="modal" data-target="#myModal" title="" data-placement="right" data-original-title="添加会员">
+                <i class="fa fa-pencil-square-o"></i>
+            </button>
+
+            <button class="btn btn-danger pull-left ml10" data-toggle="tooltip" title="" data-placement="right" data-original-title="删除会员"><i class="fa fa-trash-o"></i></button>
+
+            <div class="leftbox">
+
+
+                <div class="liselect w300">
+                    <div class="input-group">
+                        <input type="text" id="example-input-typeahead" class="form-control example-typeahead" placeholder="请输入关键词">
+                        <span class="input-group-btn">
+                            <button class="btn btn-success"><i class="fa fa-search"></i></button>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="tablebox">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th class="text-center" width="50"><input type="checkbox" id="check5-all" name="check5-all"></th>
+                        <th class="text-center">ID</th>
+                        <th>会员账号</th>
+                        <th>会员密码</th>
+                        <th>账户余额</th>
+                        <th>会员级别</th>
+                        <th>会员状态</th>
+                        <th>创建时间</th>
+                        <th class="text-center" width="85"><i class="fa fa-bolt"></i> 操作</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+         {% for useri in contacts %}
+           <tr>
+                        <td class="text-center"><input type="checkbox" id="check5-td1" name="check5-td1"></td>
+                        <td class="cell-small text-center">{{useri.uid}}</td>
+                        <td>{{useri.telephone}}</td>
+                        <td>{{useri.password}}</td>
+                        <td>{{useri.money.money}}</td>
+               {% if useri.is_superuser %}
+                              <td>系统会员</td>
+               {% else %}
+                     <td>普通会员</td>
+               {% endif %} 
+                {% if useri.is_active %}
+                <td><span class="label label-success">正常</span></td>
+                    {% else %}
+                     <td><span class="label label-danger">禁用</span></td>
+                {% endif %}
+                        <td>{{user.data_joined}}</td>
+                        <td class="text-center">
+                            <div class="btn-group">
+                                <a href="javascript:void(0)" class="btn btn-xs btn-info"><i class="iconfont icon-bianji1" data-uid="{{ useri.uid }}"></i></a>
+                                <a href="javascript:void(0)" class="btn btn-xs btn-danger"><i class="iconfont icon-chahao4"></i></a>
+                            </div>
+                        </td>
+                    </tr>
+         {% endfor %}
+
+
+                </tbody>
+            </table>
+        </div>
+
+        <div class="fy">
+            <ul class="pagination">
+        {% include 'base/fenye.html' %}
+            </ul>
+        </div>
+    </div>
+    <!-- 000 -->
+
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+            <h4 class="modal-title" id="myModalLabel">添加会员</h4>
+            </div>
+            <div class="modal-body">
+
+
+
+                <div class="form-group">
+                    <label for="exampleInputEmail1">会员名称</label>
+                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="请输入">
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputEmail1">会员密码</label>
+                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="请输入">
+                </div>
+
+                <div class="form-group  ">
+                    <label for="exampleInputEmail1">会员状态</label>
+                    <div>
+                        <label class="radio-inline" for="example-radio-inline1">
+                            <input type="radio" id="example-radio-inline1" name="example-radios-inline" value="option1">
+                            正常 
+                        </label>
+                        <label class="radio-inline" for="example-radio-inline1">
+                            <input type="radio" id="example-radio-inline1" name="example-radios-inline" value="option1">
+                            未激活 
+                        </label>
+                        <label class="radio-inline" for="example-radio-inline1">
+                            <input type="radio" id="example-radio-inline1" name="example-radios-inline" value="option1">
+                            禁用
+                        </label>
+                    </div>
+                </div>
+
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-danger" data-dismiss="modal">取消</button>
+                <button class="btn btn-success">创建</button>
+            </div>
+        </div>
+        </div>
+    </div>
+
+
+  <!-- 000 -->
+    <script>
+        $('.dropdown-toggle').dropdown();
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+
+    </script>
+{% endblock %}

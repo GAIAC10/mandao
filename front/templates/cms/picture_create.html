@@ -1,0 +1,67 @@
+{% extends 'cms/controlpanel_base.html' %}
+
+{% block content %}
+  <div id="body">
+        <ol class="breadcrumb">
+            <li class="active"><a href="#">系统</a></li>
+            <li>创建图片</li>
+        </ol>
+        <div class="tabli">
+            <span>基本信息</span>
+        </div>
+
+        <div class="tabbody">
+            <div class="bodyli active">
+                <!-- ///// -->
+                <div class="inputbox">
+
+
+                </div>
+                <!-- ///// -->
+                <div class="inputbox">
+                    <span class="title">图片描述</span>
+                    <div class="inputright">
+                        <input type="text" name="desc" class="form-control input-sm">
+                    </div>
+                </div>
+                <!-- ///// -->
+
+                 <!-- ///// -->
+                 <div class="inputbox">
+                    <span class="title">链接</span>
+                    <div class="inputright">
+                        <input type="text" name="link" class="form-control input-sm">
+                    </div>
+                </div>
+
+                <!-- ///// -->
+                <div class="inputbox">
+                    <span class="title">图片</span>
+                    <div class="inputright">
+                        <input type="text" name="img" class="form-control input-sm">
+                        <label class="btn btn-success btn-sm" for="uploadimg"><i class="fa fa-file-photo-o"></i></label>
+                        <input type="file" id="uploadimg" style="display: none;">
+                        <!-- ajax formdata上传图片返回url 赋值给input框 如果是外部链接 则直接输入图片URL即可 -->
+                    </div>
+                </div>
+
+                <div class="inputbox">
+                    <span class="title">优先级</span>
+                    <div class="inputright">
+                        <input type="text" name="youxian" class="form-control input-sm">
+                    </div>
+                </div>
+                 <div class="inputbox">
+                    <span class="title">标题</span>
+                    <div class="inputright">
+                        <input type="text" name="title" class="form-control input-sm">
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="tbfooter">
+            <button class="btn btn-success upload"><i class="fa fa-floppy-o"></i> 创建图片</button>
+        </div>
+    </div>
+{% endblock %}

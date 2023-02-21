@@ -1,0 +1,270 @@
+[2022-10-01 11:18:21,511] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-01 11:20:36,067] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-01 11:21:34,329] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-01 11:21:36,095] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 8803
+[2022-10-01 11:21:36,112] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/ccajax.js HTTP/1.1" 200 2399
+[2022-10-01 11:21:36,112] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/message.js HTTP/1.1" 200 3347
+[2022-10-01 11:21:36,114] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jq.js HTTP/1.1" 200 86927
+[2022-10-01 11:21:36,543] [log.py:224] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2022-10-01 11:21:36,544] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2770
+[2022-10-01 11:21:43,343] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /mdmain/choose/
+Traceback (most recent call last):
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "F:\Project_Python\mandao\apps\mdmain\views.py", line 106, in post
+    user = User.objects.get(uid=data['username'])
+  File "F:\envs\djangoblog\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\db\models\query.py", line 435, in get
+    raise self.model.DoesNotExist(
+apps.mdauth.models.User.DoesNotExist: User matching query does not exist.
+[2022-10-01 11:21:43,346] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /mdmain/choose/ HTTP/1.1" 500 91732
+[2022-10-01 11:21:43,905] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /mdmain/choose/
+Traceback (most recent call last):
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "F:\Project_Python\mandao\apps\mdmain\views.py", line 106, in post
+    user = User.objects.get(uid=data['username'])
+  File "F:\envs\djangoblog\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\db\models\query.py", line 435, in get
+    raise self.model.DoesNotExist(
+apps.mdauth.models.User.DoesNotExist: User matching query does not exist.
+[2022-10-01 11:21:43,907] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /mdmain/choose/ HTTP/1.1" 500 91732
+[2022-10-01 11:21:44,045] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /mdmain/choose/
+Traceback (most recent call last):
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "F:\Project_Python\mandao\apps\mdmain\views.py", line 106, in post
+    user = User.objects.get(uid=data['username'])
+  File "F:\envs\djangoblog\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\db\models\query.py", line 435, in get
+    raise self.model.DoesNotExist(
+apps.mdauth.models.User.DoesNotExist: User matching query does not exist.
+[2022-10-01 11:21:44,047] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /mdmain/choose/ HTTP/1.1" 500 91732
+[2022-10-01 11:22:02,794] [log.py:224] [log:log_response] [WARNING]- Not Found: /index
+[2022-10-01 11:22:02,794] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /index HTTP/1.1" 404 2752
+[2022-10-01 11:22:09,422] [log.py:224] [log:log_response] [WARNING]- Not Found: /map
+[2022-10-01 11:22:09,423] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /map HTTP/1.1" 404 2746
+[2022-10-01 15:20:42,114] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-01 15:20:44,313] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 8803
+[2022-10-01 15:20:44,429] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jq.js HTTP/1.1" 200 86927
+[2022-10-01 15:20:44,431] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/ccajax.js HTTP/1.1" 200 2399
+[2022-10-01 15:20:44,516] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/message.js HTTP/1.1" 200 3347
+[2022-10-01 15:20:45,016] [log.py:224] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2022-10-01 15:20:45,016] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2770
+[2022-10-01 15:20:47,419] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms HTTP/1.1" 301 0
+[2022-10-01 15:20:47,426] [log.py:224] [log:log_response] [WARNING]- Not Found: /cms/
+[2022-10-01 15:20:47,427] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/ HTTP/1.1" 404 2781
+[2022-10-01 15:21:55,497] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 8803
+[2022-10-01 15:33:40,483] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-01 15:33:41,840] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 8767
+[2022-10-01 15:58:19,675] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-01 15:58:20,683] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 8814
+[2022-10-01 15:58:43,353] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /mdmain/choose/
+Traceback (most recent call last):
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "F:\Project_Python\mandao\apps\mdmain\views.py", line 106, in post
+    user = User.objects.get(uid=data['username'])
+  File "F:\envs\djangoblog\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\db\models\query.py", line 435, in get
+    raise self.model.DoesNotExist(
+apps.mdauth.models.User.DoesNotExist: User matching query does not exist.
+[2022-10-01 15:58:43,356] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /mdmain/choose/ HTTP/1.1" 500 91615
+[2022-10-01 15:58:49,831] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /mdmain/choose/
+Traceback (most recent call last):
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "F:\Project_Python\mandao\apps\mdmain\views.py", line 106, in post
+    user = User.objects.get(uid=data['username'])
+  File "F:\envs\djangoblog\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\db\models\query.py", line 435, in get
+    raise self.model.DoesNotExist(
+apps.mdauth.models.User.DoesNotExist: User matching query does not exist.
+[2022-10-01 15:58:49,833] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /mdmain/choose/ HTTP/1.1" 500 91615
+[2022-10-01 15:58:59,189] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /mdmain/choose/
+Traceback (most recent call last):
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "F:\Project_Python\mandao\apps\mdmain\views.py", line 106, in post
+    user = User.objects.get(uid=data['username'])
+  File "F:\envs\djangoblog\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\db\models\query.py", line 435, in get
+    raise self.model.DoesNotExist(
+apps.mdauth.models.User.DoesNotExist: User matching query does not exist.
+[2022-10-01 15:58:59,191] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /mdmain/choose/ HTTP/1.1" 500 91615
+[2022-10-01 16:00:33,369] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /mdmain/choose/
+Traceback (most recent call last):
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "F:\Project_Python\mandao\apps\mdmain\views.py", line 106, in post
+    user = User.objects.get(uid=data['username'])
+  File "F:\envs\djangoblog\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "F:\envs\djangoblog\lib\site-packages\django\db\models\query.py", line 435, in get
+    raise self.model.DoesNotExist(
+apps.mdauth.models.User.DoesNotExist: User matching query does not exist.
+[2022-10-01 16:00:33,372] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /mdmain/choose/ HTTP/1.1" 500 91615
+[2022-10-01 16:29:10,002] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\apps\mdauth\models.py changed, reloading.
+[2022-10-01 16:29:10,712] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-01 16:32:41,649] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\apps\mdauth\models.py changed, reloading.
+[2022-10-01 16:32:42,398] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-01 16:33:20,275] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\apps\mdauth\models.py changed, reloading.
+[2022-10-01 16:33:20,981] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-01 19:42:29,636] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-01 19:42:31,802] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 8900
+[2022-10-01 19:42:32,501] [log.py:224] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2022-10-01 19:42:32,501] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2770
+[2022-10-01 19:42:36,140] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map HTTP/1.1" 301 0
+[2022-10-01 19:42:36,148] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 302 0
+[2022-10-01 19:42:36,154] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login/?next=/map/map/ HTTP/1.1" 200 2799
+[2022-10-01 19:42:36,174] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/map_style.css HTTP/1.1" 200 3413
+[2022-10-01 19:42:36,174] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/reset.css HTTP/1.1" 200 1030
+[2022-10-01 19:42:36,175] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/map_auth.js HTTP/1.1" 200 1575
+[2022-10-01 19:42:36,196] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/app.js HTTP/1.1" 200 1139
+[2022-10-01 19:42:36,197] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/particles.min.js HTTP/1.1" 200 23358
+[2022-10-01 19:42:36,203] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/name.png HTTP/1.1" 200 5102
+[2022-10-01 19:42:36,203] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/password.png HTTP/1.1" 200 3859
+[2022-10-01 19:42:36,204] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/bg.jpg HTTP/1.1" 200 51002
+[2022-10-01 19:42:50,286] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /auth/login/ HTTP/1.1" 200 96
+[2022-10-01 19:42:53,309] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login/?next=/map/map/ HTTP/1.1" 200 2799
+[2022-10-01 19:50:24,435] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-01 19:50:33,209] [log.py:224] [log:log_response] [WARNING]- Not Found: /a
+[2022-10-01 19:50:33,209] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /a HTTP/1.1" 404 2842
+[2022-10-01 19:50:37,334] [log.py:224] [log:log_response] [WARNING]- Not Found: /a
+[2022-10-01 19:50:37,335] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /a HTTP/1.1" 404 2842
+[2022-10-01 19:50:37,567] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\urls.py changed, reloading.
+[2022-10-01 19:50:38,357] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-01 19:50:39,654] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a HTTP/1.1" 301 0
+[2022-10-01 19:50:39,666] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 2090
+[2022-10-01 19:50:39,687] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/base.css HTTP/1.1" 200 1214
+[2022-10-01 19:50:39,687] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/menu.css HTTP/1.1" 200 3879
+[2022-10-01 19:50:39,708] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/adapter.js HTTP/1.1" 200 376
+[2022-10-01 19:50:39,710] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/map_index.js HTTP/1.1" 200 2221
+[2022-10-01 19:50:39,711] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/vip.js HTTP/1.1" 200 47
+[2022-10-01 19:50:39,712] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/menu.js HTTP/1.1" 200 1971
+[2022-10-01 19:50:39,712] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/show.png HTTP/1.1" 200 5063
+[2022-10-01 19:50:39,712] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/obscure.png HTTP/1.1" 200 3922
+[2022-10-01 19:51:42,895] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 2090
+[2022-10-01 20:03:21,051] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 2090
+[2022-10-01 20:04:51,192] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /map/search_x_y/
+Traceback (most recent call last):
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\Project_Python\mandao\apps\map\views.py", line 26, in search_x_y
+    x = request.user.x
+  File "F:\envs\djangoblog\lib\site-packages\django\utils\functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'AnonymousUser' object has no attribute 'x'
+[2022-10-01 20:04:51,192] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /map/search_x_y/ HTTP/1.1" 500 73836
+[2022-10-01 20:04:52,030] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /map/search_x_y/
+Traceback (most recent call last):
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\Project_Python\mandao\apps\map\views.py", line 26, in search_x_y
+    x = request.user.x
+  File "F:\envs\djangoblog\lib\site-packages\django\utils\functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'AnonymousUser' object has no attribute 'x'
+[2022-10-01 20:04:52,032] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /map/search_x_y/ HTTP/1.1" 500 73836
+[2022-10-01 20:04:52,178] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /map/search_x_y/
+Traceback (most recent call last):
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\Project_Python\mandao\apps\map\views.py", line 26, in search_x_y
+    x = request.user.x
+  File "F:\envs\djangoblog\lib\site-packages\django\utils\functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'AnonymousUser' object has no attribute 'x'
+[2022-10-01 20:04:52,180] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /map/search_x_y/ HTTP/1.1" 500 73836
+[2022-10-01 20:05:17,462] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /map/search_x_y/
+Traceback (most recent call last):
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\Project_Python\mandao\apps\map\views.py", line 26, in search_x_y
+    x = request.user.x
+  File "F:\envs\djangoblog\lib\site-packages\django\utils\functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'AnonymousUser' object has no attribute 'x'
+[2022-10-01 20:05:17,464] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /map/search_x_y/ HTTP/1.1" 500 73836
+[2022-10-01 20:08:20,598] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\apps\mdmain\views.py changed, reloading.
+[2022-10-01 20:08:21,372] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-01 20:08:23,726] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 2429
+[2022-10-01 20:08:29,426] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 2429
+[2022-10-01 20:10:51,754] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\urls.py changed, reloading.
+[2022-10-01 20:10:52,555] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-01 20:10:53,668] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 2429
+[2022-10-01 20:11:43,921] [log.py:224] [log:log_response] [WARNING]- Not Found: /search_x_y
+[2022-10-01 20:11:43,921] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /search_x_y HTTP/1.1" 404 2869
+[2022-10-01 20:11:46,855] [log.py:224] [log:log_response] [WARNING]- Not Found: /gen204
+[2022-10-01 20:11:46,855] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /gen204?invalidResponse=q=https%3A%2F%2Ftranslate.googleapis.com%2Ftranslate_a%2Fsingle%3Fclient%3Dgtx%26s,ql=213,r=,rl=0 HTTP/1.1" 404 2971
+[2022-10-01 20:11:50,087] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/search_x_y HTTP/1.1" 301 0
+[2022-10-01 20:11:50,159] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /map/search_x_y/
+Traceback (most recent call last):
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "F:\envs\djangoblog\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\Project_Python\mandao\apps\map\views.py", line 26, in search_x_y
+    x = request.user.x
+  File "F:\envs\djangoblog\lib\site-packages\django\utils\functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+AttributeError: 'AnonymousUser' object has no attribute 'x'
+[2022-10-01 20:11:50,161] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /map/search_x_y/ HTTP/1.1" 500 73654
+[2022-10-01 20:37:14,279] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\apps\mdauth\decrators.py changed, reloading.
+[2022-10-01 20:37:15,070] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader

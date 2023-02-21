@@ -1,0 +1,78 @@
+[2022-10-04 09:43:31,921] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-04 09:43:53,425] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-04 09:43:54,521] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-04 09:43:58,181] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 8900
+[2022-10-04 09:43:58,402] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-04 09:43:59,274] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-04 09:43:59,541] [log.py:224] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2022-10-04 09:43:59,541] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2872
+[2022-10-04 09:44:03,254] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 5873
+[2022-10-04 09:44:03,276] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/style/components.css HTTP/1.1" 200 9491
+[2022-10-04 09:44:03,282] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 200 105029
+[2022-10-04 09:44:03,286] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 200 84355
+[2022-10-04 09:44:03,288] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themes.css HTTP/1.1" 200 2019
+[2022-10-04 09:44:03,290] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/sweetalert.css HTTP/1.1" 200 22898
+[2022-10-04 09:44:03,291] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/main.css HTTP/1.1" 200 51284
+[2022-10-04 09:44:03,292] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 200 22081
+[2022-10-04 09:44:03,292] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/sweetalert.min.js HTTP/1.1" 200 16999
+[2022-10-04 09:44:03,294] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/CmUser.js HTTP/1.1" 200 12681
+[2022-10-04 09:44:03,296] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/plugins.css HTTP/1.1" 200 197714
+[2022-10-04 09:44:03,788] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/theme/default/layer.css?v=3.2.0 HTTP/1.1" 200 14367
+[2022-10-04 09:44:03,811] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 109
+[2022-10-04 09:44:03,825] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-10-04 09:44:26,054] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 5873
+[2022-10-04 09:44:26,136] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-10-04 09:44:26,229] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-04 09:44:27,140] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-04 09:44:29,659] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 1218
+[2022-10-04 09:44:36,634] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-04 09:44:38,319] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 8900
+[2022-10-04 09:44:40,875] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 1218
+[2022-10-04 09:45:28,380] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-04 09:45:29,130] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-04 09:45:29,588] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 3128
+[2022-10-04 09:45:29,696] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-10-04 09:54:12,041] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-04 09:54:12,740] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-04 09:54:13,065] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 7147
+[2022-10-04 09:54:13,287] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.woff HTTP/1.1" 200 103
+[2022-10-04 09:54:13,301] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2022-10-04 09:54:36,343] [log.py:224] [log:log_response] [WARNING]- Not Found: /a/login.html
+[2022-10-04 09:54:36,344] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /a/login.html HTTP/1.1" 404 2875
+[2022-10-04 09:54:41,647] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 7147
+[2022-10-04 09:54:41,713] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2022-10-04 09:54:43,039] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 7147
+[2022-10-04 09:54:43,107] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2022-10-04 09:54:43,419] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 8900
+[2022-10-04 09:55:12,868] [log.py:224] [log:log_response] [WARNING]- Not Found: /cms/banners/
+[2022-10-04 09:55:12,868] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/banners/ HTTP/1.1" 404 3265
+[2022-10-04 09:55:16,173] [log.py:224] [log:log_response] [WARNING]- Not Found: /cms/banners/
+[2022-10-04 09:55:16,174] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/banners/ HTTP/1.1" 404 3265
+[2022-10-04 09:56:37,156] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-04 09:56:37,893] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-04 09:56:38,275] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 5873
+[2022-10-04 09:56:38,491] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-10-04 10:00:13,257] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-04 10:00:13,946] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-04 10:00:14,293] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 3730
+[2022-10-04 10:00:14,464] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-10-04 10:02:11,454] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-04 10:02:12,375] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-04 10:02:14,840] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-04 10:02:15,540] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-04 10:02:15,865] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 7229
+[2022-10-04 10:02:15,937] [log.py:224] [log:log_response] [WARNING]- Not Found: /cms/controlpanel/
+[2022-10-04 10:02:15,938] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/controlpanel/ HTTP/1.1" 404 3110
+[2022-10-04 10:02:15,955] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2022-10-04 10:02:43,986] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-04 10:02:44,669] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-04 10:02:45,127] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 3141
+[2022-10-04 10:02:45,218] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-10-04 10:04:05,835] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-04 10:04:06,573] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-04 10:04:06,966] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 3992
+[2022-10-04 10:04:07,071] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-10-04 10:06:22,330] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\mandao\mandao\views.py changed, reloading.
+[2022-10-04 10:06:23,053] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-10-04 10:06:23,414] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /a/ HTTP/1.1" 200 3671
+[2022-10-04 10:06:23,535] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902

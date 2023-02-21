@@ -1,0 +1,94 @@
+{% extends 'cms/controlpanel_base.html' %}
+{% block content %}
+<div id="controlpanel">
+
+        <div class="well push">
+            <p>欢迎使用 猿-HoMe · Cms!&emsp;&emsp;授权号：1111111</p>
+            <div class="btn-group">
+                <button class="btn btn-success mr15"><i class="fa fa-file-word-o fa-fw"></i> 文档列表</button>
+            </div>
+        </div>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th width="150">项目名称</th>
+                    <th>说明</th>
+                    <th width="150">项目名称</th>
+                    <th>说明</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>程序</td>
+                    <td>智能药盒</td>
+                    <td>项目版本</td>
+                    <td>1.0</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <table class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th class="text-center" width="50"><input type="checkbox" id="check5-all" name="check5-all">
+                    </th>
+                    <th class="text-center">ID</th>
+                    <th>设备姓名 ：电话</th>
+                    <th>是否跌倒</th>
+                    <th>是否报警</th>
+                    <th>家人状态</th>
+                    <th>设备状态</th>
+                    <th>发布日期</th>
+                    <th class="cell-small text-center"><i class="fa fa-bolt"></i> 操作</th>
+                </tr>
+            </thead>
+
+            <tbody>
+            {% for u in contacts %}
+            <tr>
+                    <td class="text-center"><input type="checkbox" id="check5-td1" name="check5-td1"></td>
+                    <td class="cell-small text-center">{{u.uid}}</td>
+                    <td><a href="javascript:void(0)"></a>{{ u.username }}：{{u.telephone}}</td>
+
+                    {% if u.is_fall %}
+                        <td><span class="label label-danger">摔倒</span></td>
+                        {% else %}
+                        <td>平安</td>
+                    {% endif %}
+                    {% if u.is_call %}
+                        <td><span class="label label-warning">以报警</span>
+                        <span class="label label-warning">紧急联系人：{{ u.harry_telephone }}</span></td>
+                        <td><span class="label label-success">已知晓</span></td>
+                        {% else %}
+                        <td><span class="label label-warning">未报警</span>
+                        </td>
+                        <td><span class="label label-success">正常</span></td>
+                    {% endif %}
+            {% if u.is_active %}
+            <td><span class="label label-success">正常</span></td>
+                {% else %}
+                <td><span class="label label-danger">已被拉黑</span></td>
+            {% endif %}
+
+
+                    <td>{{ u.last_login }}</td>
+                    <td class="text-center">
+                        <div class="btn-group">
+                            <a href="javascript:void(0)" class="btn btn-xs btn-info" data-toggle="tooltip" data-placement="top" title="" data-original-title="拉黑"><i class="fa fa-trash-o iconfont icon-lahei" data-name="{{ u.username }}" data-uid="{{ u.uid }}"></i></a>
+{#                            <a href="javascript:void(0)" class="btn btn-xs btn-success" data-toggle="tooltip" data-placement="top" title="" data-original-title="修改"><i class="fa fa-pencil"></i></a>#}
+                            <a href="javascript:;" class="btn btn-xs btn-danger delbtn" data-toggle="tooltip" data-placement="top" title="" data-original-title="删除"><i class="fa fa-trash-o iconfont icon-chahao" data-name="{{ u.username }}" data-uid="{{ u.uid }}"></i></a>
+                        </div>
+                    </td>
+                </tr>
+            {% endfor %}
+
+
+
+            </tbody>
+        </table>
+    <div class="fy">
+            <ul class="pagination">
+                {% include 'base/fenye.html' %}
+            </ul>
+        </div>
+{% endblock %}

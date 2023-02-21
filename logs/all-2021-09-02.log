@@ -1,0 +1,1199 @@
+[2021-09-02 08:58:21,173] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-02 08:58:23,831] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 10578
+[2021-09-02 08:58:23,881] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/images/blog/5.jpg HTTP/1.1" 404 1810
+[2021-09-02 08:58:23,919] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-09-02 08:58:25,670] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 200 2421
+[2021-09-02 08:58:29,871] [log.py:230] [log:log_response] [WARNING]- Not Found: /map/map/cms
+[2021-09-02 08:58:29,871] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /map/map/cms HTTP/1.1" 404 3021
+[2021-09-02 08:58:33,813] [views.py:26] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Chromium";v="92", " Not A;Brand";v="99", "Microsoft Edge";v="92"', 'Sec-Ch-Ua-Mobile': '?0', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'csrftoken=Y5U3Fh3SEyaby3sCVopWLTMc5x6FwfHT6M4qPvfOlndyeyUFM6ZPE8sBwjmKa5Qo; sessionid=3qrm2xntfyb4bbkrtd5yd9swsyj3zsmw'}；request_body:b'',
+[2021-09-02 08:58:33,818] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6624
+[2021-09-02 08:58:33,854] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/style/components.css HTTP/1.1" 200 9491
+[2021-09-02 08:58:33,856] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themes.css HTTP/1.1" 200 2019
+[2021-09-02 08:58:33,858] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/main.css HTTP/1.1" 200 51284
+[2021-09-02 08:58:33,859] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 200 22081
+[2021-09-02 08:58:33,860] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 200 105029
+[2021-09-02 08:58:33,861] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 200 84355
+[2021-09-02 08:58:33,863] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/plugins.css HTTP/1.1" 200 197714
+[2021-09-02 08:58:34,075] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/theme/default/layer.css?v=3.2.0 HTTP/1.1" 200 14367
+[2021-09-02 08:58:34,112] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 109
+[2021-09-02 08:58:34,113] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.woff HTTP/1.1" 200 103
+[2021-09-02 08:58:34,129] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-02 08:58:34,130] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2021-09-02 08:58:35,857] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 8832
+[2021-09-02 08:58:35,868] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/style/components.css HTTP/1.1" 304 0
+[2021-09-02 08:58:35,870] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 304 0
+[2021-09-02 08:58:35,870] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 304 0
+[2021-09-02 08:58:35,872] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/sweetalert.min.js HTTP/1.1" 200 16999
+[2021-09-02 08:58:35,872] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/CmUser.js HTTP/1.1" 200 12321
+[2021-09-02 08:58:35,908] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-02 08:58:41,645] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/administrators/ HTTP/1.1" 200 10247
+[2021-09-02 08:58:41,661] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/style/components.css HTTP/1.1" 304 0
+[2021-09-02 08:58:41,663] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/main.css HTTP/1.1" 304 0
+[2021-09-02 08:58:41,663] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 304 0
+[2021-09-02 08:58:41,665] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/plugins.css HTTP/1.1" 304 0
+[2021-09-02 08:58:41,668] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themes.css HTTP/1.1" 304 0
+[2021-09-02 08:58:41,668] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 304 0
+[2021-09-02 08:58:41,669] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 304 0
+[2021-09-02 08:58:41,670] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/CmUser.js HTTP/1.1" 304 0
+[2021-09-02 08:58:41,670] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/sweetalert.min.js HTTP/1.1" 304 0
+[2021-09-02 08:58:41,687] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/theme/default/layer.css?v=3.2.0 HTTP/1.1" 304 0
+[2021-09-02 08:58:41,704] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 304 0
+[2021-09-02 08:58:41,714] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-02 08:58:42,848] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/creat_admin/ HTTP/1.1" 200 3333
+[2021-09-02 08:58:42,898] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-02 08:58:44,789] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/webset/ HTTP/1.1" 200 23824
+[2021-09-02 08:58:44,805] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/style/components.css HTTP/1.1" 304 0
+[2021-09-02 08:58:44,806] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 304 0
+[2021-09-02 08:58:44,806] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/sweetalert.min.js HTTP/1.1" 304 0
+[2021-09-02 08:58:44,807] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 304 0
+[2021-09-02 08:58:44,823] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/theme/default/layer.css?v=3.2.0 HTTP/1.1" 304 0
+[2021-09-02 08:58:44,850] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-02 08:58:51,268] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 10578
+[2021-09-02 08:58:51,345] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/images/blog/5.jpg HTTP/1.1" 404 1810
+[2021-09-02 08:58:51,465] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-09-02 08:58:53,430] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /mdmain/contact/ HTTP/1.1" 200 5632
+[2021-09-02 08:58:53,496] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-09-02 09:03:42,556] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\mdmain\views.py changed, reloading.
+[2021-09-02 09:03:43,466] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-02 09:04:19,880] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\mdmain\views.py changed, reloading.
+[2021-09-02 09:04:21,030] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-02 09:05:19,353] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\mdmain\views.py changed, reloading.
+[2021-09-02 09:05:20,312] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-02 09:10:37,861] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 10535
+[2021-09-02 09:10:37,916] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/images/blog/5.jpg HTTP/1.1" 404 1810
+[2021-09-02 09:10:37,949] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-09-02 09:10:48,942] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /mdmain/detail/2/ HTTP/1.1" 200 6078
+[2021-09-02 09:10:49,018] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-09-02 09:20:36,039] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-02 09:20:42,709] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/
+[2021-09-02 09:20:42,710] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/ HTTP/1.1" 404 2781
+[2021-09-02 09:20:42,742] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-09-02 09:20:42,742] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-09-02 09:20:48,851] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /mdmain/detail/2/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 311, in check_response
+    "instead." % name
+ValueError: The view apps.mdmain.views.detail didn't return an HttpResponse object. It returned None instead.
+[2021-09-02 09:20:48,851] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /mdmain/detail/2/ HTTP/1.1" 500 75528
+[2021-09-02 09:22:25,639] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\mdmain\views.py changed, reloading.
+[2021-09-02 09:22:26,573] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-02 09:22:47,228] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\mdmain\views.py changed, reloading.
+[2021-09-02 09:22:48,323] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-02 09:23:04,907] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\mdmain\views.py changed, reloading.
+[2021-09-02 09:23:05,856] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-02 09:23:10,620] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-02 09:23:24,081] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-02 09:23:29,563] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /mdmain/detail/2/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\utils\deprecation.py", line 119, in __call__
+    response = self.process_response(request, response)
+  File "D:\Envs\mandao\lib\site-packages\django\middleware\clickjacking.py", line 26, in process_response
+    if response.get('X-Frame-Options') is not None:
+AttributeError: type object 'Http404' has no attribute 'get'
+[2021-09-02 09:23:29,564] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /mdmain/detail/2/ HTTP/1.1" 500 74191
+[2021-09-02 09:24:17,235] [log.py:230] [log:log_response] [WARNING]- Not Found: /mdmain/detail
+[2021-09-02 09:24:17,236] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /mdmain/detail HTTP/1.1" 404 4483
+[2021-09-02 09:24:19,648] [log.py:230] [log:log_response] [WARNING]- Not Found: /mdmain
+[2021-09-02 09:24:19,648] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /mdmain HTTP/1.1" 404 2756
+[2021-09-02 09:24:22,845] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 7996
+[2021-09-02 09:24:22,902] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/images/blog/5.jpg HTTP/1.1" 404 1810
+[2021-09-02 09:24:22,999] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-09-02 09:24:23,026] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/favicon.png HTTP/1.1" 404 1804
+[2021-09-02 09:24:26,752] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /mdmain/detail/1/ HTTP/1.1" 200 6791
+[2021-09-02 09:24:26,828] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-09-02 09:24:33,511] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /mdmain/detail/2/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\utils\deprecation.py", line 119, in __call__
+    response = self.process_response(request, response)
+  File "D:\Envs\mandao\lib\site-packages\django\middleware\clickjacking.py", line 26, in process_response
+    if response.get('X-Frame-Options') is not None:
+AttributeError: type object 'Http404' has no attribute 'get'
+[2021-09-02 09:24:33,511] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /mdmain/detail/2/ HTTP/1.1" 500 73903
+[2021-09-02 09:25:02,032] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\mdmain\views.py changed, reloading.
+[2021-09-02 09:25:03,027] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-02 09:25:08,462] [log.py:230] [log:log_response] [WARNING]- Not Found: /mdmain/detail/2/
+[2021-09-02 09:25:08,463] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /mdmain/detail/2/ HTTP/1.1" 404 4176
+[2021-09-02 09:25:08,490] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-09-02 09:25:08,490] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-09-02 09:26:20,203] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\mandao\settings.py changed, reloading.
+[2021-09-02 10:28:05,760] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-02 10:28:17,459] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-02 10:28:18,625] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-02 10:28:19,726] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/
+[2021-09-02 10:28:19,727] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/ HTTP/1.1" 404 179
+[2021-09-02 10:28:19,816] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-09-02 10:28:19,816] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 179
+[2021-09-02 10:28:24,426] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 7996
+[2021-09-02 10:28:24,479] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/images/blog/5.jpg
+[2021-09-02 10:28:24,479] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/images/blog/5.jpg HTTP/1.1" 404 179
+[2021-09-02 10:28:24,598] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/fonts/themify.ttf
+[2021-09-02 10:28:24,599] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 179
+[2021-09-02 10:28:24,625] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/favicon.png
+[2021-09-02 10:28:24,626] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/favicon.png HTTP/1.1" 404 179
+[2021-09-02 10:28:25,872] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 302 0
+[2021-09-02 10:28:25,878] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login/?next=/map/map/ HTTP/1.1" 200 2799
+[2021-09-02 10:28:31,698] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /auth/login/ HTTP/1.1" 200 45
+[2021-09-02 10:28:32,124] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 200 2623
+[2021-09-02 10:28:35,746] [views.py:26] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Chromium";v="92", " Not A;Brand";v="99", "Microsoft Edge";v="92"', 'Sec-Ch-Ua-Mobile': '?0', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'csrftoken=itknH1zRVuhQ0u4cXjaJtRqmWNGzgCHK6RN6k0SnyNZ5USPiZpqvJXTfjwZWykaV; sessionid=xubddjpij1bw3b3iz3ipiehm4kvgiome'}；request_body:b'',
+[2021-09-02 10:28:35,751] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6624
+[2021-09-02 10:28:35,780] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/style/components.css
+[2021-09-02 10:28:35,781] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/cms_bootstrap.css
+[2021-09-02 10:28:35,782] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/plugins.css
+[2021-09-02 10:28:35,784] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/main.css
+[2021-09-02 10:28:35,784] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:28:35,785] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/style/components.css HTTP/1.1" 404 179
+[2021-09-02 10:28:35,786] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themes.css
+[2021-09-02 10:28:35,787] [basehttp.py:75] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 49367)
+
+[2021-09-02 10:28:35,787] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/plugins.css HTTP/1.1" 404 179
+[2021-09-02 10:28:35,789] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/plugins/layer/layer.js
+[2021-09-02 10:28:35,790] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/js/JQuery2.1.4.js
+[2021-09-02 10:28:35,791] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/main.css HTTP/1.1" 404 179
+[2021-09-02 10:28:35,791] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themes.css HTTP/1.1" 404 179
+[2021-09-02 10:28:35,792] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 404 179
+[2021-09-02 10:28:35,792] [basehttp.py:75] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 58004)
+
+[2021-09-02 10:28:35,793] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 404 179
+[2021-09-02 10:28:35,796] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/plugins/layer/layer.js
+[2021-09-02 10:28:35,796] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 404 179
+[2021-09-02 10:28:36,349] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7339
+[2021-09-02 10:28:36,359] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/style/components.css
+[2021-09-02 10:28:36,361] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/plugins.css
+[2021-09-02 10:28:36,362] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themes.css
+[2021-09-02 10:28:36,363] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/cms_bootstrap.css
+[2021-09-02 10:28:36,364] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/main.css
+[2021-09-02 10:28:36,366] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/js/JQuery2.1.4.js
+[2021-09-02 10:28:36,367] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/style/components.css HTTP/1.1" 404 179
+[2021-09-02 10:28:36,368] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/plugins.css HTTP/1.1" 404 179
+[2021-09-02 10:28:36,368] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themes.css HTTP/1.1" 404 179
+[2021-09-02 10:28:36,368] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:28:36,369] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/main.css HTTP/1.1" 404 179
+[2021-09-02 10:28:36,370] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/plugins/layer/layer.js
+[2021-09-02 10:28:36,373] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sweetalert.min.js
+[2021-09-02 10:28:36,373] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 404 179
+[2021-09-02 10:28:36,374] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/CmUser.js
+[2021-09-02 10:28:36,375] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 404 179
+[2021-09-02 10:28:36,377] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sweetalert.min.js HTTP/1.1" 404 179
+[2021-09-02 10:28:36,378] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/CmUser.js HTTP/1.1" 404 179
+[2021-09-02 10:28:43,979] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/style/components.css
+[2021-09-02 10:28:43,981] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/main.css
+[2021-09-02 10:28:43,983] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/plugins.css
+[2021-09-02 10:28:43,984] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/cms_bootstrap.css
+[2021-09-02 10:28:43,985] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themes.css
+[2021-09-02 10:28:43,986] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/style/components.css HTTP/1.1" 404 179
+[2021-09-02 10:28:43,988] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/style/components.css
+[2021-09-02 10:28:43,988] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/main.css HTTP/1.1" 404 179
+[2021-09-02 10:28:43,990] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/main.css
+[2021-09-02 10:28:43,990] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themes.css HTTP/1.1" 404 179
+[2021-09-02 10:28:43,990] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:28:43,992] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/cms_bootstrap.css
+[2021-09-02 10:28:43,993] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/plugins.css HTTP/1.1" 404 179
+[2021-09-02 10:28:43,993] [basehttp.py:75] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 50349)
+
+[2021-09-02 10:28:43,995] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themes.css
+[2021-09-02 10:28:43,995] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/style/components.css HTTP/1.1" 404 179
+[2021-09-02 10:28:43,997] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/plugins.css
+[2021-09-02 10:28:43,997] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/main.css HTTP/1.1" 404 179
+[2021-09-02 10:28:43,997] [basehttp.py:75] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 64668)
+
+[2021-09-02 10:28:43,998] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:28:43,999] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/main.css
+[2021-09-02 10:28:44,000] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themes.css HTTP/1.1" 404 179
+[2021-09-02 10:28:44,000] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/plugins.css HTTP/1.1" 404 179
+[2021-09-02 10:28:44,002] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/cms_bootstrap.css
+[2021-09-02 10:28:44,003] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/main.css HTTP/1.1" 404 179
+[2021-09-02 10:28:44,004] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:28:47,898] [views.py:26] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Ch-Ua': '"Chromium";v="92", " Not A;Brand";v="99", "Microsoft Edge";v="92"', 'Sec-Ch-Ua-Mobile': '?0', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'csrftoken=itknH1zRVuhQ0u4cXjaJtRqmWNGzgCHK6RN6k0SnyNZ5USPiZpqvJXTfjwZWykaV; sessionid=xubddjpij1bw3b3iz3ipiehm4kvgiome'}；request_body:b'',
+[2021-09-02 10:28:47,900] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6624
+[2021-09-02 10:28:47,934] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/style/components.css
+[2021-09-02 10:28:47,935] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/cms_bootstrap.css
+[2021-09-02 10:28:47,937] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/plugins.css
+[2021-09-02 10:28:47,939] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/main.css
+[2021-09-02 10:28:47,940] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/js/JQuery2.1.4.js
+[2021-09-02 10:28:47,941] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themes.css
+[2021-09-02 10:28:47,942] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/style/components.css HTTP/1.1" 404 179
+[2021-09-02 10:28:47,942] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:28:47,943] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/main.css HTTP/1.1" 404 179
+[2021-09-02 10:28:47,943] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/plugins.css HTTP/1.1" 404 179
+[2021-09-02 10:28:47,943] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 404 179
+[2021-09-02 10:28:47,945] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/plugins/layer/layer.js
+[2021-09-02 10:28:47,946] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themes.css HTTP/1.1" 404 179
+[2021-09-02 10:28:47,948] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 404 179
+[2021-09-02 10:28:48,398] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7339
+[2021-09-02 10:28:48,413] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/style/components.css
+[2021-09-02 10:28:48,414] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/cms_bootstrap.css
+[2021-09-02 10:28:48,416] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/plugins.css
+[2021-09-02 10:28:48,417] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/main.css
+[2021-09-02 10:28:48,418] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themes.css
+[2021-09-02 10:28:48,419] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/sweetalert.css
+[2021-09-02 10:28:48,420] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/style/components.css HTTP/1.1" 404 179
+[2021-09-02 10:28:48,421] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:28:48,421] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/plugins.css HTTP/1.1" 404 179
+[2021-09-02 10:28:48,422] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themes.css HTTP/1.1" 404 179
+[2021-09-02 10:28:48,422] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/main.css HTTP/1.1" 404 179
+[2021-09-02 10:28:48,425] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/js/JQuery2.1.4.js
+[2021-09-02 10:28:48,425] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/sweetalert.css HTTP/1.1" 404 179
+[2021-09-02 10:28:48,427] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/ccajax.js
+[2021-09-02 10:28:48,429] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/message.js
+[2021-09-02 10:28:48,430] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/plugins/layer/layer.js
+[2021-09-02 10:28:48,432] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sweetalert.min.js
+[2021-09-02 10:28:48,434] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/CmUser.js
+[2021-09-02 10:28:48,434] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 404 179
+[2021-09-02 10:28:48,435] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/ccajax.js HTTP/1.1" 404 179
+[2021-09-02 10:28:48,435] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/message.js HTTP/1.1" 404 179
+[2021-09-02 10:28:48,436] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 404 179
+[2021-09-02 10:28:48,436] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sweetalert.min.js HTTP/1.1" 404 179
+[2021-09-02 10:28:48,437] [basehttp.py:75] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 50765)
+
+[2021-09-02 10:28:48,437] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/CmUser.js HTTP/1.1" 404 179
+[2021-09-02 10:28:48,565] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/ccajax.js
+[2021-09-02 10:28:48,565] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/ccajax.js HTTP/1.1" 404 179
+[2021-09-02 10:28:48,568] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/message.js
+[2021-09-02 10:28:48,569] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/message.js HTTP/1.1" 404 179
+[2021-09-02 10:28:48,572] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/plugins/layer/layer.js
+[2021-09-02 10:28:48,573] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 404 179
+[2021-09-02 10:28:48,577] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sweetalert.min.js
+[2021-09-02 10:28:48,577] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sweetalert.min.js HTTP/1.1" 404 179
+[2021-09-02 10:28:48,581] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/CmUser.js
+[2021-09-02 10:28:48,581] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/CmUser.js HTTP/1.1" 404 179
+[2021-09-02 10:29:06,245] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/plugins/layer/layer.js
+[2021-09-02 10:29:06,246] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 404 179
+[2021-09-02 10:29:28,703] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 200 2623
+[2021-09-02 10:29:28,735] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/base.css
+[2021-09-02 10:29:28,737] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/menu.css
+[2021-09-02 10:29:28,738] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/base.css HTTP/1.1" 404 179
+[2021-09-02 10:29:28,738] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/menu.css HTTP/1.1" 404 179
+[2021-09-02 10:29:28,744] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jq.js
+[2021-09-02 10:29:28,745] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/message.js
+[2021-09-02 10:29:28,746] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/ccajax.js
+[2021-09-02 10:29:28,747] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/map_index.js
+[2021-09-02 10:29:28,748] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/adapter.js
+[2021-09-02 10:29:28,751] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/menu.js
+[2021-09-02 10:29:28,752] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jq.js HTTP/1.1" 404 179
+[2021-09-02 10:29:28,752] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/message.js HTTP/1.1" 404 179
+[2021-09-02 10:29:28,752] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/ccajax.js HTTP/1.1" 404 179
+[2021-09-02 10:29:28,753] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/map_index.js HTTP/1.1" 404 179
+[2021-09-02 10:29:28,753] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/adapter.js HTTP/1.1" 404 179
+[2021-09-02 10:29:28,754] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/menu.js HTTP/1.1" 404 179
+[2021-09-02 10:29:28,757] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/vip.js
+[2021-09-02 10:29:28,759] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/show.png
+[2021-09-02 10:29:28,760] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/obscure.png
+[2021-09-02 10:29:28,761] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/vip.js HTTP/1.1" 404 179
+[2021-09-02 10:29:28,762] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/show.png HTTP/1.1" 404 179
+[2021-09-02 10:29:28,762] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/obscure.png HTTP/1.1" 404 179
+[2021-09-02 10:29:29,171] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/message.js
+[2021-09-02 10:29:29,172] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/message.js HTTP/1.1" 404 179
+[2021-09-02 10:29:29,175] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/ccajax.js
+[2021-09-02 10:29:29,175] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/ccajax.js HTTP/1.1" 404 179
+[2021-09-02 10:29:29,179] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/map_index.js
+[2021-09-02 10:29:29,180] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/map_index.js HTTP/1.1" 404 179
+[2021-09-02 10:29:29,183] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/adapter.js
+[2021-09-02 10:29:29,183] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/adapter.js HTTP/1.1" 404 179
+[2021-09-02 10:29:29,187] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/menu.js
+[2021-09-02 10:29:29,187] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/menu.js HTTP/1.1" 404 179
+[2021-09-02 10:29:29,192] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/vip.js
+[2021-09-02 10:29:29,193] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/vip.js HTTP/1.1" 404 179
+[2021-09-02 10:29:43,474] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/
+[2021-09-02 10:29:43,475] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/ HTTP/1.1" 404 179
+[2021-09-02 10:29:43,528] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-09-02 10:29:43,528] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 179
+[2021-09-02 10:29:46,687] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03òìmÛ\x16³5\x8eÑ)\x9d\x88{\x90F\x12Ð¼E\x17ZÁÏ°\x1aâÚ\x01\x19ê1J \x832w5 ¦Âö\x93\x8aÉ\x99h\x9aÓG¶z*hí\x16ê{\x14å\x83GËÙ\x9dZ\x00 ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93**\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-09-02 10:29:46,687] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-02 10:29:46,688] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03&\x0c\x0fÍö+²X¬.\x00¤¯Nw\x99B=\x13\x87¼\x99÷A\x96>_~0X\x96\x7f "RFõøÔxl]\x92à\x02Ê<b\x17\x18\x00\x97\x96\x8eUøÝ][l\x10Y\x9dl\x98\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93jj\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-09-02 10:29:46,688] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-02 10:29:50,020] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Ô\x84\x8f½Y6ØQ\x8e\x18§\x16j~N¹\x9dâ·(\x0bVû7>UÓ xúàê Ü£Ò|p´\x82©ßV+LÝå7\x9f-34fz?jGFõê\x81©\x94\xa0')
+[2021-09-02 10:29:50,020] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-02 10:29:50,022] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x9eD\x10·\x11qT=<;\x8c¥[ÕE\x1aè¤BP7\x17ÛÜÄ?\x06&U\x16\x1e\x10 £\xa0ÆP¹Åc\x18q\x13\\¿\x03tÆâ5v,\x04Àð\x8c\x85¥\xadìm\x85à[§\x00 úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93jj\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-09-02 10:29:50,022] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-02 10:29:53,985] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ý°ÿ<=YÊ\x94ãâ_kéò;j\x9dÎ¢\x02ø.É\x99Y¶\x1dwø_\x03\x05 C¸RGwXº\x08ÝJ5µ\x98\x84\x03íu\x83$aÛ\x1aÆV\x00;áÎì\x191\x05\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ÊÊ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-09-02 10:29:53,986] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-02 10:29:53,987] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ï.(R\x13\'\x85Nø¹o¦\x95<\x9cÿ\x8fWí@\x07Á}\x18LÕ5çt\x8b\x84\x8d %¢\x0c¾¶ß²ËúWÆ<|\x00\xadä¿7#àdÐ*¨5×g?"¯\x8e×\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93zz\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-09-02 10:29:53,987] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-02 10:30:02,399] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login HTTP/1.1" 301 0
+[2021-09-02 10:30:02,402] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login/ HTTP/1.1" 200 2799
+[2021-09-02 10:30:02,439] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/map_style.css
+[2021-09-02 10:30:02,440] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/reset.css
+[2021-09-02 10:30:02,441] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/reset.css HTTP/1.1" 404 179
+[2021-09-02 10:30:02,441] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/map_style.css HTTP/1.1" 404 179
+[2021-09-02 10:30:02,443] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jq.js
+[2021-09-02 10:30:02,445] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/ccajax.js
+[2021-09-02 10:30:02,445] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jq.js HTTP/1.1" 404 179
+[2021-09-02 10:30:02,448] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/message.js
+[2021-09-02 10:30:02,448] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/ccajax.js HTTP/1.1" 404 179
+[2021-09-02 10:30:02,448] [basehttp.py:75] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 50604)
+
+[2021-09-02 10:30:02,450] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/map_auth.js
+[2021-09-02 10:30:02,450] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/message.js HTTP/1.1" 404 179
+[2021-09-02 10:30:02,451] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/map_auth.js HTTP/1.1" 404 179
+[2021-09-02 10:30:02,454] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/particles.min.js
+[2021-09-02 10:30:02,455] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/app.js
+[2021-09-02 10:30:02,456] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/map_auth.js
+[2021-09-02 10:30:02,457] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/app.js HTTP/1.1" 404 179
+[2021-09-02 10:30:02,457] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/particles.min.js HTTP/1.1" 404 179
+[2021-09-02 10:30:02,457] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/map_auth.js HTTP/1.1" 404 179
+[2021-09-02 10:30:02,460] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/name.png
+[2021-09-02 10:30:02,461] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/password.png
+[2021-09-02 10:30:02,462] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/particles.min.js
+[2021-09-02 10:30:02,463] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/name.png HTTP/1.1" 404 179
+[2021-09-02 10:30:02,463] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/password.png HTTP/1.1" 404 179
+[2021-09-02 10:30:02,463] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/particles.min.js HTTP/1.1" 404 179
+[2021-09-02 10:30:02,490] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/app.js
+[2021-09-02 10:30:02,491] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/app.js HTTP/1.1" 404 179
+[2021-09-02 10:31:41,424] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\mandao\settings.py changed, reloading.
+[2021-09-02 10:31:42,487] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-02 10:31:43,991] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 200 2623
+[2021-09-02 10:31:44,020] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/base.css
+[2021-09-02 10:31:44,022] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jq.js
+[2021-09-02 10:31:44,022] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/base.css HTTP/1.1" 404 179
+[2021-09-02 10:31:44,023] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/menu.css
+[2021-09-02 10:31:44,025] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/message.js
+[2021-09-02 10:31:44,027] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/ccajax.js
+[2021-09-02 10:31:44,029] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/adapter.js
+[2021-09-02 10:31:44,030] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jq.js HTTP/1.1" 404 179
+[2021-09-02 10:31:44,032] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/map_index.js
+[2021-09-02 10:31:44,033] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/menu.css HTTP/1.1" 404 179
+[2021-09-02 10:31:44,033] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/adapter.js HTTP/1.1" 404 179
+[2021-09-02 10:31:44,033] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/ccajax.js HTTP/1.1" 404 179
+[2021-09-02 10:31:44,035] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/menu.js
+[2021-09-02 10:31:44,035] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/message.js HTTP/1.1" 404 179
+[2021-09-02 10:31:44,036] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/map_index.js HTTP/1.1" 404 179
+[2021-09-02 10:31:44,038] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/show.png
+[2021-09-02 10:31:44,039] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/vip.js
+[2021-09-02 10:31:44,042] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/obscure.png
+[2021-09-02 10:31:44,042] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/menu.js HTTP/1.1" 404 179
+[2021-09-02 10:31:44,043] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/show.png HTTP/1.1" 404 179
+[2021-09-02 10:31:44,043] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/obscure.png HTTP/1.1" 404 179
+[2021-09-02 10:31:44,044] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/vip.js HTTP/1.1" 404 179
+[2021-09-02 10:31:44,470] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/message.js
+[2021-09-02 10:31:44,471] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/message.js HTTP/1.1" 404 179
+[2021-09-02 10:31:44,474] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/ccajax.js
+[2021-09-02 10:31:44,475] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/ccajax.js HTTP/1.1" 404 179
+[2021-09-02 10:31:44,479] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/map_index.js
+[2021-09-02 10:31:44,479] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/map_index.js HTTP/1.1" 404 179
+[2021-09-02 10:31:44,482] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/adapter.js
+[2021-09-02 10:31:44,483] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/adapter.js HTTP/1.1" 404 179
+[2021-09-02 10:31:44,486] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/menu.js
+[2021-09-02 10:31:44,486] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/menu.js HTTP/1.1" 404 179
+[2021-09-02 10:31:44,490] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/vip.js
+[2021-09-02 10:31:44,491] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/vip.js HTTP/1.1" 404 179
+[2021-09-02 10:31:44,683] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-09-02 10:31:44,683] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 179
+[2021-09-02 10:31:45,538] [views.py:26] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Ch-Ua': '"Chromium";v="92", " Not A;Brand";v="99", "Microsoft Edge";v="92"', 'Sec-Ch-Ua-Mobile': '?0', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'csrftoken=itknH1zRVuhQ0u4cXjaJtRqmWNGzgCHK6RN6k0SnyNZ5USPiZpqvJXTfjwZWykaV; sessionid=xubddjpij1bw3b3iz3ipiehm4kvgiome'}；request_body:b'',
+[2021-09-02 10:31:45,544] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6624
+[2021-09-02 10:31:45,584] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/style/components.css
+[2021-09-02 10:31:45,587] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/cms_bootstrap.css
+[2021-09-02 10:31:45,588] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/plugins.css
+[2021-09-02 10:31:45,589] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/main.css
+[2021-09-02 10:31:45,590] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themes.css
+[2021-09-02 10:31:45,591] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/js/JQuery2.1.4.js
+[2021-09-02 10:31:45,592] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:31:45,593] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/style/components.css HTTP/1.1" 404 179
+[2021-09-02 10:31:45,593] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/plugins.css HTTP/1.1" 404 179
+[2021-09-02 10:31:45,596] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/plugins/layer/layer.js
+[2021-09-02 10:31:45,596] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themes.css HTTP/1.1" 404 179
+[2021-09-02 10:31:45,596] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/main.css HTTP/1.1" 404 179
+[2021-09-02 10:31:45,597] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 404 179
+[2021-09-02 10:31:45,597] [basehttp.py:75] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 59680)
+
+[2021-09-02 10:31:45,599] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 404 179
+[2021-09-02 10:31:46,165] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7339
+[2021-09-02 10:31:46,175] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/style/components.css
+[2021-09-02 10:31:46,177] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/cms_bootstrap.css
+[2021-09-02 10:31:46,178] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/plugins.css
+[2021-09-02 10:31:46,179] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/main.css
+[2021-09-02 10:31:46,180] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themes.css
+[2021-09-02 10:31:46,182] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/sweetalert.css
+[2021-09-02 10:31:46,183] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/plugins.css HTTP/1.1" 404 179
+[2021-09-02 10:31:46,184] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/style/components.css HTTP/1.1" 404 179
+[2021-09-02 10:31:46,184] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/main.css HTTP/1.1" 404 179
+[2021-09-02 10:31:46,184] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:31:46,184] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themes.css HTTP/1.1" 404 179
+[2021-09-02 10:31:46,186] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/js/JQuery2.1.4.js
+[2021-09-02 10:31:46,186] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/sweetalert.css HTTP/1.1" 404 179
+[2021-09-02 10:31:46,188] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/ccajax.js
+[2021-09-02 10:31:46,189] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/message.js
+[2021-09-02 10:31:46,190] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/plugins/layer/layer.js
+[2021-09-02 10:31:46,192] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sweetalert.min.js
+[2021-09-02 10:31:46,193] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/CmUser.js
+[2021-09-02 10:31:46,193] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 404 179
+[2021-09-02 10:31:46,194] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/ccajax.js HTTP/1.1" 404 179
+[2021-09-02 10:31:46,195] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/message.js HTTP/1.1" 404 179
+[2021-09-02 10:31:46,195] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 404 179
+[2021-09-02 10:31:46,195] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sweetalert.min.js HTTP/1.1" 404 179
+[2021-09-02 10:31:46,196] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/CmUser.js HTTP/1.1" 404 179
+[2021-09-02 10:31:46,204] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/ccajax.js
+[2021-09-02 10:31:46,205] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/ccajax.js HTTP/1.1" 404 179
+[2021-09-02 10:31:46,208] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/message.js
+[2021-09-02 10:31:46,209] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/message.js HTTP/1.1" 404 179
+[2021-09-02 10:31:46,212] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/plugins/layer/layer.js
+[2021-09-02 10:31:46,213] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 404 179
+[2021-09-02 10:31:46,215] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sweetalert.min.js
+[2021-09-02 10:31:46,215] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sweetalert.min.js HTTP/1.1" 404 179
+[2021-09-02 10:31:46,218] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/CmUser.js
+[2021-09-02 10:31:46,219] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/CmUser.js HTTP/1.1" 404 179
+[2021-09-02 10:31:50,079] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/banners/ HTTP/1.1" 200 5007
+[2021-09-02 10:31:50,095] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/style/components.css
+[2021-09-02 10:31:50,096] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/cms_bootstrap.css
+[2021-09-02 10:31:50,097] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/sweetalert.css
+[2021-09-02 10:31:50,098] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/plugins.css
+[2021-09-02 10:31:50,100] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themes.css
+[2021-09-02 10:31:50,101] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/main.css
+[2021-09-02 10:31:50,102] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/style/components.css HTTP/1.1" 404 179
+[2021-09-02 10:31:50,102] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:31:50,103] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/sweetalert.css HTTP/1.1" 404 179
+[2021-09-02 10:31:50,103] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/plugins.css HTTP/1.1" 404 179
+[2021-09-02 10:31:50,105] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/js/JQuery2.1.4.js
+[2021-09-02 10:31:50,105] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themes.css HTTP/1.1" 404 179
+[2021-09-02 10:31:50,107] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/ccajax.js
+[2021-09-02 10:31:50,108] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/message.js
+[2021-09-02 10:31:50,110] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/plugins/layer/layer.js
+[2021-09-02 10:31:50,110] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/main.css HTTP/1.1" 404 179
+[2021-09-02 10:31:50,111] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/CmUser.js
+[2021-09-02 10:31:50,112] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sweetalert.min.js
+[2021-09-02 10:31:50,113] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 404 179
+[2021-09-02 10:31:50,113] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/ccajax.js HTTP/1.1" 404 179
+[2021-09-02 10:31:50,114] [basehttp.py:75] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 59032)
+
+[2021-09-02 10:31:50,114] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/message.js HTTP/1.1" 404 179
+[2021-09-02 10:31:50,114] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 404 179
+[2021-09-02 10:31:50,115] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/CmUser.js HTTP/1.1" 404 179
+[2021-09-02 10:31:50,115] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sweetalert.min.js HTTP/1.1" 404 179
+[2021-09-02 10:31:50,121] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/ccajax.js
+[2021-09-02 10:31:50,122] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/ccajax.js HTTP/1.1" 404 179
+[2021-09-02 10:31:50,125] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/message.js
+[2021-09-02 10:31:50,125] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/message.js HTTP/1.1" 404 179
+[2021-09-02 10:31:50,129] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/plugins/layer/layer.js
+[2021-09-02 10:31:50,129] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 404 179
+[2021-09-02 10:31:50,132] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sweetalert.min.js
+[2021-09-02 10:31:50,133] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sweetalert.min.js HTTP/1.1" 404 179
+[2021-09-02 10:31:50,136] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/CmUser.js
+[2021-09-02 10:31:50,136] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/CmUser.js HTTP/1.1" 404 179
+[2021-09-02 10:31:50,826] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/picture_create/ HTTP/1.1" 200 3671
+[2021-09-02 10:31:50,842] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/style/components.css
+[2021-09-02 10:31:50,843] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/cms_bootstrap.css
+[2021-09-02 10:31:50,844] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/plugins.css
+[2021-09-02 10:31:50,845] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themes.css
+[2021-09-02 10:31:50,846] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/sweetalert.css
+[2021-09-02 10:31:50,848] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/main.css
+[2021-09-02 10:31:50,849] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/style/components.css HTTP/1.1" 404 179
+[2021-09-02 10:31:50,849] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:31:50,849] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/plugins.css HTTP/1.1" 404 179
+[2021-09-02 10:31:50,850] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themes.css HTTP/1.1" 404 179
+[2021-09-02 10:31:50,850] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/sweetalert.css HTTP/1.1" 404 179
+[2021-09-02 10:31:50,851] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/main.css HTTP/1.1" 404 179
+[2021-09-02 10:31:50,852] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/js/JQuery2.1.4.js
+[2021-09-02 10:31:50,854] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/ccajax.js
+[2021-09-02 10:31:50,857] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/message.js
+[2021-09-02 10:31:50,858] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/plugins/layer/layer.js
+[2021-09-02 10:31:50,860] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/CmUser.js
+[2021-09-02 10:31:50,860] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sweetalert.min.js
+[2021-09-02 10:31:50,861] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 404 179
+[2021-09-02 10:31:50,861] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/ccajax.js HTTP/1.1" 404 179
+[2021-09-02 10:31:50,862] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/message.js HTTP/1.1" 404 179
+[2021-09-02 10:31:50,862] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 404 179
+[2021-09-02 10:31:50,863] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/CmUser.js HTTP/1.1" 404 179
+[2021-09-02 10:31:50,863] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sweetalert.min.js HTTP/1.1" 404 179
+[2021-09-02 10:31:50,869] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/ccajax.js
+[2021-09-02 10:31:50,870] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/ccajax.js HTTP/1.1" 404 179
+[2021-09-02 10:31:50,873] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/message.js
+[2021-09-02 10:31:50,873] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/message.js HTTP/1.1" 404 179
+[2021-09-02 10:31:50,876] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/plugins/layer/layer.js
+[2021-09-02 10:31:50,877] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 404 179
+[2021-09-02 10:31:50,880] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sweetalert.min.js
+[2021-09-02 10:31:50,880] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sweetalert.min.js HTTP/1.1" 404 179
+[2021-09-02 10:31:50,884] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/CmUser.js
+[2021-09-02 10:31:50,884] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/CmUser.js HTTP/1.1" 404 179
+[2021-09-02 10:31:50,899] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-09-02 10:31:50,900] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 179
+[2021-09-02 10:33:41,931] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-02 10:33:44,491] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03X\x98C|\x9f\x9e¸\x11Ö±{\x1dØ\x95BénîÒmp7BãüøÕð\x86¾\x95\x9e hVª\x0e\x1f\x11Ä\x95~½^ÌF°º5?Wú\x84Í_¿\x03òtõ\x86©\x06\x9c\x1d\x00 ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93JJ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-09-02 10:33:44,491] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-02 10:33:44,493] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03[')
+[2021-09-02 10:33:44,493] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-02 10:33:49,882] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x1a\x1a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-09-02 10:33:49,882] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-02 10:33:49,884] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ËiÑ\x02¼Mü$(Í\xad*àÒvÝÍâ|êÚk±ôÓ\x1cÐâÈÞ@\x86 à\x9f³\x03ËAªáMtDH·SF\x9e8iîß\x0cï\x91&RýZ8ÞÉ\x8f.\x00 úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x8a\x8a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-09-02 10:33:49,884] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-02 10:33:50,082] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93JJ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-09-02 10:33:50,082] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-02 10:33:50,083] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03¤Rÿ2\x19`J¡ÀOñ*\x07\xa0Qyz\x06\x90\x81¸c\x05¢Ô( "ÏÏ\x19- XÜ{\x8dï\x14`\x95Æ\xa0í\x02Ðþ\x0f$¶t\x95À*O}\x90öåw3Ó\x85j\x9a\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x8a\x8a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-09-02 10:33:50,083] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-02 10:33:57,457] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 7996
+[2021-09-02 10:33:57,505] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jq.js
+[2021-09-02 10:33:57,505] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jq.js HTTP/1.1" 404 179
+[2021-09-02 10:33:57,520] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/images/blog/5.jpg
+[2021-09-02 10:33:57,521] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/images/blog/5.jpg HTTP/1.1" 404 179
+[2021-09-02 10:33:57,634] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/fonts/themify.ttf
+[2021-09-02 10:33:57,635] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 179
+[2021-09-02 10:33:57,657] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/favicon.png
+[2021-09-02 10:33:57,657] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/favicon.png HTTP/1.1" 404 179
+[2021-09-02 10:34:00,573] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/bootstrap.min.js.map
+[2021-09-02 10:34:00,574] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js.map HTTP/1.1" 404 179
+[2021-09-02 10:34:02,764] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 7996
+[2021-09-02 10:34:02,795] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/animate.css
+[2021-09-02 10:34:02,797] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/et-lineicons.css
+[2021-09-02 10:34:02,798] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/et-lineicons.css HTTP/1.1" 404 179
+[2021-09-02 10:34:02,799] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/animate.css HTTP/1.1" 404 179
+[2021-09-02 10:34:02,801] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themify-icons.css
+[2021-09-02 10:34:02,804] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/bootstrap.css
+[2021-09-02 10:34:02,805] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jq.js
+[2021-09-02 10:34:02,829] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/modernizr-2.6.2.min.js
+[2021-09-02 10:34:02,830] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/magnific-popup.css
+[2021-09-02 10:34:02,831] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:34:02,832] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themify-icons.css HTTP/1.1" 404 179
+[2021-09-02 10:34:02,833] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/style.css
+[2021-09-02 10:34:02,833] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/modernizr-2.6.2.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:02,834] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jq.js HTTP/1.1" 404 179
+[2021-09-02 10:34:02,834] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/magnific-popup.css HTTP/1.1" 404 179
+[2021-09-02 10:34:02,836] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.easing.1.3.js
+[2021-09-02 10:34:02,838] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.waypoints.min.js
+[2021-09-02 10:34:02,841] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/bootstrap.min.js
+[2021-09-02 10:34:02,841] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/style.css HTTP/1.1" 404 179
+[2021-09-02 10:34:02,842] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.isotope.v3.0.2.js
+[2021-09-02 10:34:02,844] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/imagesloaded.pkgd.min.js
+[2021-09-02 10:34:02,845] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 404 179
+[2021-09-02 10:34:02,846] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:02,847] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/masonry.pkgd.min.js
+[2021-09-02 10:34:02,848] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:02,848] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 404 179
+[2021-09-02 10:34:02,850] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/modernizr-2.6.2.min.js
+[2021-09-02 10:34:02,851] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:02,853] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sticky-kit.min.js
+[2021-09-02 10:34:02,855] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/logo.png
+[2021-09-02 10:34:02,856] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/main.js
+[2021-09-02 10:34:02,858] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.magnific-popup.min.js
+[2021-09-02 10:34:02,858] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:02,858] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/modernizr-2.6.2.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:02,859] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/logo.png HTTP/1.1" 404 179
+[2021-09-02 10:34:02,859] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:02,860] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:02,862] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/slider/1.jpg
+[2021-09-02 10:34:02,862] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/main.js HTTP/1.1" 404 179
+[2021-09-02 10:34:02,863] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/logo-light.png
+[2021-09-02 10:34:02,865] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/slider/1.jpg HTTP/1.1" 404 179
+[2021-09-02 10:34:02,866] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/logo-light.png HTTP/1.1" 404 179
+[2021-09-02 10:34:02,883] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.easing.1.3.js
+[2021-09-02 10:34:02,884] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 404 179
+[2021-09-02 10:34:02,887] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/bootstrap.min.js
+[2021-09-02 10:34:02,888] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:02,891] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.waypoints.min.js
+[2021-09-02 10:34:02,892] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:02,895] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/imagesloaded.pkgd.min.js
+[2021-09-02 10:34:02,895] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:02,900] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.isotope.v3.0.2.js
+[2021-09-02 10:34:02,901] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 404 179
+[2021-09-02 10:34:02,906] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/masonry.pkgd.min.js
+[2021-09-02 10:34:02,907] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:02,910] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.magnific-popup.min.js
+[2021-09-02 10:34:02,910] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:02,914] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sticky-kit.min.js
+[2021-09-02 10:34:02,915] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:02,919] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/main.js
+[2021-09-02 10:34:02,919] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/main.js HTTP/1.1" 404 179
+[2021-09-02 10:34:06,760] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 7996
+[2021-09-02 10:34:06,791] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/animate.css
+[2021-09-02 10:34:06,793] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/et-lineicons.css
+[2021-09-02 10:34:06,795] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themify-icons.css
+[2021-09-02 10:34:06,796] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/bootstrap.css
+[2021-09-02 10:34:06,798] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/style.css
+[2021-09-02 10:34:06,799] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/magnific-popup.css
+[2021-09-02 10:34:06,801] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/animate.css HTTP/1.1" 404 179
+[2021-09-02 10:34:06,801] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themify-icons.css HTTP/1.1" 404 179
+[2021-09-02 10:34:06,801] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/et-lineicons.css HTTP/1.1" 404 179
+[2021-09-02 10:34:06,802] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:34:06,802] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/style.css HTTP/1.1" 404 179
+[2021-09-02 10:34:06,804] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jq.js
+[2021-09-02 10:34:06,805] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/magnific-popup.css HTTP/1.1" 404 179
+[2021-09-02 10:34:06,807] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/modernizr-2.6.2.min.js
+[2021-09-02 10:34:06,809] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.easing.1.3.js
+[2021-09-02 10:34:06,810] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/imagesloaded.pkgd.min.js
+[2021-09-02 10:34:06,812] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/bootstrap.min.js
+[2021-09-02 10:34:06,813] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.waypoints.min.js
+[2021-09-02 10:34:06,814] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jq.js HTTP/1.1" 404 179
+[2021-09-02 10:34:06,815] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/modernizr-2.6.2.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:06,815] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:06,815] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 404 179
+[2021-09-02 10:34:06,818] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/logo.png
+[2021-09-02 10:34:06,818] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:06,819] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:06,822] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.isotope.v3.0.2.js
+[2021-09-02 10:34:06,824] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.magnific-popup.min.js
+[2021-09-02 10:34:06,825] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/masonry.pkgd.min.js
+[2021-09-02 10:34:06,826] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/main.js
+[2021-09-02 10:34:06,827] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sticky-kit.min.js
+[2021-09-02 10:34:06,828] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/logo.png HTTP/1.1" 404 179
+[2021-09-02 10:34:06,828] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 404 179
+[2021-09-02 10:34:06,829] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:06,829] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/main.js HTTP/1.1" 404 179
+[2021-09-02 10:34:06,830] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:06,830] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:06,832] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/imagesloaded.pkgd.min.js
+[2021-09-02 10:34:06,834] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/slider/1.jpg
+[2021-09-02 10:34:06,836] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/logo-light.png
+[2021-09-02 10:34:06,837] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:06,838] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/slider/1.jpg HTTP/1.1" 404 179
+[2021-09-02 10:34:06,838] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/logo-light.png HTTP/1.1" 404 179
+[2021-09-02 10:34:06,843] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.isotope.v3.0.2.js
+[2021-09-02 10:34:06,843] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 404 179
+[2021-09-02 10:34:06,847] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/masonry.pkgd.min.js
+[2021-09-02 10:34:06,848] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:06,853] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.magnific-popup.min.js
+[2021-09-02 10:34:06,854] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:06,859] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sticky-kit.min.js
+[2021-09-02 10:34:06,860] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:06,864] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/main.js
+[2021-09-02 10:34:06,864] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/main.js HTTP/1.1" 404 179
+[2021-09-02 10:34:08,925] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 7996
+[2021-09-02 10:34:08,951] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/animate.css
+[2021-09-02 10:34:08,953] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/et-lineicons.css
+[2021-09-02 10:34:08,954] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themify-icons.css
+[2021-09-02 10:34:08,956] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/bootstrap.css
+[2021-09-02 10:34:08,958] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/style.css
+[2021-09-02 10:34:08,959] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/magnific-popup.css
+[2021-09-02 10:34:08,961] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/et-lineicons.css HTTP/1.1" 404 179
+[2021-09-02 10:34:08,961] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/animate.css HTTP/1.1" 404 179
+[2021-09-02 10:34:08,961] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themify-icons.css HTTP/1.1" 404 179
+[2021-09-02 10:34:08,962] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:34:08,962] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/style.css HTTP/1.1" 404 179
+[2021-09-02 10:34:08,965] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jq.js
+[2021-09-02 10:34:08,965] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/magnific-popup.css HTTP/1.1" 404 179
+[2021-09-02 10:34:08,968] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/bootstrap.min.js
+[2021-09-02 10:34:08,970] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.easing.1.3.js
+[2021-09-02 10:34:08,971] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.waypoints.min.js
+[2021-09-02 10:34:08,972] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/modernizr-2.6.2.min.js
+[2021-09-02 10:34:08,974] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/imagesloaded.pkgd.min.js
+[2021-09-02 10:34:08,975] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jq.js HTTP/1.1" 404 179
+[2021-09-02 10:34:08,975] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:08,976] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 404 179
+[2021-09-02 10:34:08,976] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:08,977] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/modernizr-2.6.2.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:08,979] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/logo.png
+[2021-09-02 10:34:08,979] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:08,982] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.isotope.v3.0.2.js
+[2021-09-02 10:34:08,983] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.magnific-popup.min.js
+[2021-09-02 10:34:08,985] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sticky-kit.min.js
+[2021-09-02 10:34:08,986] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/masonry.pkgd.min.js
+[2021-09-02 10:34:08,988] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/main.js
+[2021-09-02 10:34:08,988] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/logo.png HTTP/1.1" 404 179
+[2021-09-02 10:34:08,988] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 404 179
+[2021-09-02 10:34:08,989] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:08,989] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:08,992] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.easing.1.3.js
+[2021-09-02 10:34:08,992] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:08,993] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/main.js HTTP/1.1" 404 179
+[2021-09-02 10:34:08,994] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/slider/1.jpg
+[2021-09-02 10:34:08,995] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/logo-light.png
+[2021-09-02 10:34:08,997] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 404 179
+[2021-09-02 10:34:08,998] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/slider/1.jpg HTTP/1.1" 404 179
+[2021-09-02 10:34:08,998] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/logo-light.png HTTP/1.1" 404 179
+[2021-09-02 10:34:09,001] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/bootstrap.min.js
+[2021-09-02 10:34:09,001] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:09,006] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.waypoints.min.js
+[2021-09-02 10:34:09,007] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:09,011] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/imagesloaded.pkgd.min.js
+[2021-09-02 10:34:09,012] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:09,016] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.isotope.v3.0.2.js
+[2021-09-02 10:34:09,017] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 404 179
+[2021-09-02 10:34:09,021] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/masonry.pkgd.min.js
+[2021-09-02 10:34:09,021] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:09,025] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.magnific-popup.min.js
+[2021-09-02 10:34:09,025] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:09,030] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sticky-kit.min.js
+[2021-09-02 10:34:09,031] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:09,035] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/main.js
+[2021-09-02 10:34:09,035] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/main.js HTTP/1.1" 404 179
+[2021-09-02 10:34:09,047] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/favicon.png
+[2021-09-02 10:34:09,048] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/favicon.png HTTP/1.1" 404 179
+[2021-09-02 10:34:15,670] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 7996
+[2021-09-02 10:34:15,697] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/animate.css
+[2021-09-02 10:34:15,698] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/et-lineicons.css
+[2021-09-02 10:34:15,700] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themify-icons.css
+[2021-09-02 10:34:15,702] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/bootstrap.css
+[2021-09-02 10:34:15,704] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/magnific-popup.css
+[2021-09-02 10:34:15,705] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/style.css
+[2021-09-02 10:34:15,707] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/animate.css HTTP/1.1" 404 179
+[2021-09-02 10:34:15,707] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/et-lineicons.css HTTP/1.1" 404 179
+[2021-09-02 10:34:15,707] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themify-icons.css HTTP/1.1" 404 179
+[2021-09-02 10:34:15,708] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:34:15,708] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/magnific-popup.css HTTP/1.1" 404 179
+[2021-09-02 10:34:15,711] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jq.js
+[2021-09-02 10:34:15,712] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/style.css HTTP/1.1" 404 179
+[2021-09-02 10:34:15,715] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/modernizr-2.6.2.min.js
+[2021-09-02 10:34:15,717] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.waypoints.min.js
+[2021-09-02 10:34:15,719] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/bootstrap.min.js
+[2021-09-02 10:34:15,721] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.easing.1.3.js
+[2021-09-02 10:34:15,724] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/imagesloaded.pkgd.min.js
+[2021-09-02 10:34:15,724] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jq.js HTTP/1.1" 404 179
+[2021-09-02 10:34:15,724] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/modernizr-2.6.2.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:15,725] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:15,726] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 404 179
+[2021-09-02 10:34:15,726] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:15,729] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/logo.png
+[2021-09-02 10:34:15,729] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:15,732] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.isotope.v3.0.2.js
+[2021-09-02 10:34:15,733] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/logo.png HTTP/1.1" 404 179
+[2021-09-02 10:34:15,735] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/masonry.pkgd.min.js
+[2021-09-02 10:34:15,738] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sticky-kit.min.js
+[2021-09-02 10:34:15,740] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.magnific-popup.min.js
+[2021-09-02 10:34:15,742] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/main.js
+[2021-09-02 10:34:15,744] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/bootstrap.min.js
+[2021-09-02 10:34:15,744] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 404 179
+[2021-09-02 10:34:15,747] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/slider/1.jpg
+[2021-09-02 10:34:15,747] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:15,748] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:15,749] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:15,749] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/main.js HTTP/1.1" 404 179
+[2021-09-02 10:34:15,749] [basehttp.py:75] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 64609)
+
+[2021-09-02 10:34:15,752] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/logo-light.png
+[2021-09-02 10:34:15,752] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:15,753] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/slider/1.jpg HTTP/1.1" 404 179
+[2021-09-02 10:34:15,756] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.waypoints.min.js
+[2021-09-02 10:34:15,757] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/logo-light.png HTTP/1.1" 404 179
+[2021-09-02 10:34:15,757] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:15,762] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/imagesloaded.pkgd.min.js
+[2021-09-02 10:34:15,762] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:15,766] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.isotope.v3.0.2.js
+[2021-09-02 10:34:15,767] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 404 179
+[2021-09-02 10:34:15,771] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/masonry.pkgd.min.js
+[2021-09-02 10:34:15,772] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:15,776] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.magnific-popup.min.js
+[2021-09-02 10:34:15,777] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:15,781] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sticky-kit.min.js
+[2021-09-02 10:34:15,781] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:15,785] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/main.js
+[2021-09-02 10:34:15,785] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/main.js HTTP/1.1" 404 179
+[2021-09-02 10:34:15,800] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/favicon.png
+[2021-09-02 10:34:15,801] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/favicon.png HTTP/1.1" 404 179
+[2021-09-02 10:34:24,875] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 7996
+[2021-09-02 10:34:24,899] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/animate.css
+[2021-09-02 10:34:24,901] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/et-lineicons.css
+[2021-09-02 10:34:24,902] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themify-icons.css
+[2021-09-02 10:34:24,903] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/bootstrap.css
+[2021-09-02 10:34:24,904] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/magnific-popup.css
+[2021-09-02 10:34:24,905] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/style.css
+[2021-09-02 10:34:24,906] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themify-icons.css HTTP/1.1" 404 179
+[2021-09-02 10:34:24,906] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/animate.css HTTP/1.1" 404 179
+[2021-09-02 10:34:24,906] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/et-lineicons.css HTTP/1.1" 404 179
+[2021-09-02 10:34:24,907] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:34:24,909] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jq.js
+[2021-09-02 10:34:24,909] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/style.css HTTP/1.1" 404 179
+[2021-09-02 10:34:24,909] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/magnific-popup.css HTTP/1.1" 404 179
+[2021-09-02 10:34:24,912] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/modernizr-2.6.2.min.js
+[2021-09-02 10:34:24,913] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.waypoints.min.js
+[2021-09-02 10:34:24,914] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/imagesloaded.pkgd.min.js
+[2021-09-02 10:34:24,915] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/bootstrap.min.js
+[2021-09-02 10:34:24,916] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.easing.1.3.js
+[2021-09-02 10:34:24,917] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jq.js HTTP/1.1" 404 179
+[2021-09-02 10:34:24,917] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/modernizr-2.6.2.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:24,918] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:24,919] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:24,920] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.isotope.v3.0.2.js
+[2021-09-02 10:34:24,921] [basehttp.py:75] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 54899)
+
+[2021-09-02 10:34:24,921] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:24,922] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 404 179
+[2021-09-02 10:34:24,924] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/masonry.pkgd.min.js
+[2021-09-02 10:34:24,925] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/logo.png
+[2021-09-02 10:34:24,927] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.magnific-popup.min.js
+[2021-09-02 10:34:24,929] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sticky-kit.min.js
+[2021-09-02 10:34:24,929] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 404 179
+[2021-09-02 10:34:24,930] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/bootstrap.min.js
+[2021-09-02 10:34:24,932] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/slider/1.jpg
+[2021-09-02 10:34:24,932] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:24,932] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/logo.png HTTP/1.1" 404 179
+[2021-09-02 10:34:24,933] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:24,933] [basehttp.py:75] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 51594)
+
+[2021-09-02 10:34:24,933] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:24,935] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:24,936] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/main.js
+[2021-09-02 10:34:24,937] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/slider/1.jpg HTTP/1.1" 404 179
+[2021-09-02 10:34:24,939] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/logo-light.png
+[2021-09-02 10:34:24,940] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.waypoints.min.js
+[2021-09-02 10:34:24,941] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/logo-light.png HTTP/1.1" 404 179
+[2021-09-02 10:34:24,941] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/main.js HTTP/1.1" 404 179
+[2021-09-02 10:34:24,942] [basehttp.py:75] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 50741)
+
+[2021-09-02 10:34:24,942] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:24,945] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/imagesloaded.pkgd.min.js
+[2021-09-02 10:34:24,945] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:24,949] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.isotope.v3.0.2.js
+[2021-09-02 10:34:24,949] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 404 179
+[2021-09-02 10:34:24,952] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/masonry.pkgd.min.js
+[2021-09-02 10:34:24,952] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:24,956] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.magnific-popup.min.js
+[2021-09-02 10:34:24,956] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:24,960] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sticky-kit.min.js
+[2021-09-02 10:34:24,960] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:24,963] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/main.js
+[2021-09-02 10:34:24,963] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/main.js HTTP/1.1" 404 179
+[2021-09-02 10:34:30,123] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 7996
+[2021-09-02 10:34:30,167] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/animate.css
+[2021-09-02 10:34:30,169] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/et-lineicons.css
+[2021-09-02 10:34:30,171] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themify-icons.css
+[2021-09-02 10:34:30,172] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/magnific-popup.css
+[2021-09-02 10:34:30,173] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/bootstrap.css
+[2021-09-02 10:34:30,176] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/style.css
+[2021-09-02 10:34:30,176] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/et-lineicons.css HTTP/1.1" 404 179
+[2021-09-02 10:34:30,176] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/animate.css HTTP/1.1" 404 179
+[2021-09-02 10:34:30,177] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themify-icons.css HTTP/1.1" 404 179
+[2021-09-02 10:34:30,177] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/magnific-popup.css HTTP/1.1" 404 179
+[2021-09-02 10:34:30,178] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:34:30,181] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jq.js
+[2021-09-02 10:34:30,181] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/style.css HTTP/1.1" 404 179
+[2021-09-02 10:34:30,183] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/modernizr-2.6.2.min.js
+[2021-09-02 10:34:30,184] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.waypoints.min.js
+[2021-09-02 10:34:30,185] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/imagesloaded.pkgd.min.js
+[2021-09-02 10:34:30,186] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/bootstrap.min.js
+[2021-09-02 10:34:30,188] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.easing.1.3.js
+[2021-09-02 10:34:30,188] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jq.js HTTP/1.1" 404 179
+[2021-09-02 10:34:30,189] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/modernizr-2.6.2.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:30,190] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:30,190] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:30,192] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.isotope.v3.0.2.js
+[2021-09-02 10:34:30,192] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:30,194] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/masonry.pkgd.min.js
+[2021-09-02 10:34:30,194] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 404 179
+[2021-09-02 10:34:30,195] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.magnific-popup.min.js
+[2021-09-02 10:34:30,196] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/main.js
+[2021-09-02 10:34:30,198] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sticky-kit.min.js
+[2021-09-02 10:34:30,199] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/logo.png
+[2021-09-02 10:34:30,199] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:30,200] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 404 179
+[2021-09-02 10:34:30,200] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:30,200] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/main.js HTTP/1.1" 404 179
+[2021-09-02 10:34:30,201] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:30,201] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/logo.png HTTP/1.1" 404 179
+[2021-09-02 10:34:30,204] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/slider/1.jpg
+[2021-09-02 10:34:30,206] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/logo-light.png
+[2021-09-02 10:34:30,207] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/logo-light.png HTTP/1.1" 404 179
+[2021-09-02 10:34:30,207] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/slider/1.jpg HTTP/1.1" 404 179
+[2021-09-02 10:34:30,237] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/bootstrap.min.js
+[2021-09-02 10:34:30,237] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:30,240] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.waypoints.min.js
+[2021-09-02 10:34:30,240] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:30,243] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/imagesloaded.pkgd.min.js
+[2021-09-02 10:34:30,243] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:30,246] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.isotope.v3.0.2.js
+[2021-09-02 10:34:30,246] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 404 179
+[2021-09-02 10:34:30,249] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/masonry.pkgd.min.js
+[2021-09-02 10:34:30,249] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:30,253] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.magnific-popup.min.js
+[2021-09-02 10:34:30,253] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:30,256] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sticky-kit.min.js
+[2021-09-02 10:34:30,256] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 404 179
+[2021-09-02 10:34:30,259] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/main.js
+[2021-09-02 10:34:30,259] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/main.js HTTP/1.1" 404 179
+[2021-09-02 10:36:10,181] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/animate.css
+[2021-09-02 10:36:10,182] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/et-lineicons.css
+[2021-09-02 10:36:10,183] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themify-icons.css
+[2021-09-02 10:36:10,184] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/bootstrap.css
+[2021-09-02 10:36:10,185] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/magnific-popup.css
+[2021-09-02 10:36:10,186] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/style.css
+[2021-09-02 10:36:10,187] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/animate.css HTTP/1.1" 404 179
+[2021-09-02 10:36:10,188] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/et-lineicons.css HTTP/1.1" 404 179
+[2021-09-02 10:36:10,188] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themify-icons.css HTTP/1.1" 404 179
+[2021-09-02 10:36:10,188] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:36:10,189] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/magnific-popup.css HTTP/1.1" 404 179
+[2021-09-02 10:36:10,189] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/style.css HTTP/1.1" 404 179
+[2021-09-02 10:36:14,905] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 7996
+[2021-09-02 10:36:14,934] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/animate.css
+[2021-09-02 10:36:14,935] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/style.css
+[2021-09-02 10:36:14,937] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themify-icons.css
+[2021-09-02 10:36:14,939] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/et-lineicons.css
+[2021-09-02 10:36:14,940] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/bootstrap.css
+[2021-09-02 10:36:14,941] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/magnific-popup.css
+[2021-09-02 10:36:14,942] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/style.css HTTP/1.1" 404 179
+[2021-09-02 10:36:14,942] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themify-icons.css HTTP/1.1" 404 179
+[2021-09-02 10:36:14,943] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/et-lineicons.css HTTP/1.1" 404 179
+[2021-09-02 10:36:14,943] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/magnific-popup.css HTTP/1.1" 404 179
+[2021-09-02 10:36:14,943] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/animate.css HTTP/1.1" 404 179
+[2021-09-02 10:36:14,943] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:36:14,945] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jq.js
+[2021-09-02 10:36:14,948] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/modernizr-2.6.2.min.js
+[2021-09-02 10:36:14,950] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/imagesloaded.pkgd.min.js
+[2021-09-02 10:36:14,952] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.easing.1.3.js
+[2021-09-02 10:36:14,954] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.waypoints.min.js
+[2021-09-02 10:36:14,956] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/bootstrap.min.js
+[2021-09-02 10:36:14,957] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jq.js HTTP/1.1" 404 179
+[2021-09-02 10:36:14,957] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/modernizr-2.6.2.min.js HTTP/1.1" 404 179
+[2021-09-02 10:36:14,957] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:36:14,957] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 404 179
+[2021-09-02 10:36:14,960] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/logo.png
+[2021-09-02 10:36:14,960] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 404 179
+[2021-09-02 10:36:14,960] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js HTTP/1.1" 404 179
+[2021-09-02 10:36:14,963] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.isotope.v3.0.2.js
+[2021-09-02 10:36:14,965] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sticky-kit.min.js
+[2021-09-02 10:36:14,967] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/main.js
+[2021-09-02 10:36:14,970] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/masonry.pkgd.min.js
+[2021-09-02 10:36:14,971] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.magnific-popup.min.js
+[2021-09-02 10:36:14,971] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/logo.png HTTP/1.1" 404 179
+[2021-09-02 10:36:14,973] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 404 179
+[2021-09-02 10:36:14,973] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/main.js HTTP/1.1" 404 179
+[2021-09-02 10:36:14,973] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 404 179
+[2021-09-02 10:36:14,974] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:36:14,976] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.waypoints.min.js
+[2021-09-02 10:36:14,977] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 404 179
+[2021-09-02 10:36:14,978] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/slider/1.jpg
+[2021-09-02 10:36:14,980] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/logo-light.png
+[2021-09-02 10:36:14,981] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 404 179
+[2021-09-02 10:36:14,981] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/slider/1.jpg HTTP/1.1" 404 179
+[2021-09-02 10:36:14,982] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/logo-light.png HTTP/1.1" 404 179
+[2021-09-02 10:36:14,985] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/imagesloaded.pkgd.min.js
+[2021-09-02 10:36:14,986] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:36:14,989] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.isotope.v3.0.2.js
+[2021-09-02 10:36:14,989] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 404 179
+[2021-09-02 10:36:14,994] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/masonry.pkgd.min.js
+[2021-09-02 10:36:14,994] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:36:14,998] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.magnific-popup.min.js
+[2021-09-02 10:36:14,998] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 404 179
+[2021-09-02 10:36:15,003] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sticky-kit.min.js
+[2021-09-02 10:36:15,003] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 404 179
+[2021-09-02 10:36:15,008] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/main.js
+[2021-09-02 10:36:15,008] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/main.js HTTP/1.1" 404 179
+[2021-09-02 10:36:53,236] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-02 10:36:58,248] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 7996
+[2021-09-02 10:36:58,283] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/animate.css
+[2021-09-02 10:36:58,283] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/et-lineicons.css
+[2021-09-02 10:36:58,285] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themify-icons.css
+[2021-09-02 10:36:58,287] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/bootstrap.css
+[2021-09-02 10:36:58,291] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/magnific-popup.css
+[2021-09-02 10:36:58,291] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/et-lineicons.css HTTP/1.1" 404 179
+[2021-09-02 10:36:58,292] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/animate.css HTTP/1.1" 404 179
+[2021-09-02 10:36:58,292] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themify-icons.css HTTP/1.1" 404 179
+[2021-09-02 10:36:58,295] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/style.css
+[2021-09-02 10:36:58,296] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:36:58,297] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jq.js
+[2021-09-02 10:36:58,299] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/modernizr-2.6.2.min.js
+[2021-09-02 10:36:58,300] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.easing.1.3.js
+[2021-09-02 10:36:58,301] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/magnific-popup.css HTTP/1.1" 404 179
+[2021-09-02 10:36:58,303] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/bootstrap.min.js
+[2021-09-02 10:36:58,303] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/style.css HTTP/1.1" 404 179
+[2021-09-02 10:36:58,304] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jq.js HTTP/1.1" 404 179
+[2021-09-02 10:36:58,305] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/modernizr-2.6.2.min.js HTTP/1.1" 404 179
+[2021-09-02 10:36:58,305] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 404 179
+[2021-09-02 10:36:58,307] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.waypoints.min.js
+[2021-09-02 10:36:58,311] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/imagesloaded.pkgd.min.js
+[2021-09-02 10:36:58,312] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.magnific-popup.min.js
+[2021-09-02 10:36:58,315] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.isotope.v3.0.2.js
+[2021-09-02 10:36:58,315] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js HTTP/1.1" 404 179
+[2021-09-02 10:36:58,316] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/masonry.pkgd.min.js
+[2021-09-02 10:36:58,317] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 404 179
+[2021-09-02 10:36:58,317] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:36:58,318] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 404 179
+[2021-09-02 10:36:58,319] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 404 179
+[2021-09-02 10:36:58,321] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/logo.png
+[2021-09-02 10:36:58,324] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/slider/1.jpg
+[2021-09-02 10:36:58,325] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/logo-light.png
+[2021-09-02 10:36:58,326] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/main.js
+[2021-09-02 10:36:58,327] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:36:58,328] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sticky-kit.min.js
+[2021-09-02 10:36:58,331] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.magnific-popup.min.js
+[2021-09-02 10:36:58,331] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/logo.png HTTP/1.1" 404 179
+[2021-09-02 10:36:58,331] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/slider/1.jpg HTTP/1.1" 404 179
+[2021-09-02 10:36:58,332] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/logo-light.png HTTP/1.1" 404 179
+[2021-09-02 10:36:58,332] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/main.js HTTP/1.1" 404 179
+[2021-09-02 10:36:58,334] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 404 179
+[2021-09-02 10:36:58,335] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 404 179
+[2021-09-02 10:36:58,340] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sticky-kit.min.js
+[2021-09-02 10:36:58,341] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 404 179
+[2021-09-02 10:36:58,345] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/main.js
+[2021-09-02 10:36:58,345] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/main.js HTTP/1.1" 404 179
+[2021-09-02 10:37:23,696] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-02 10:37:30,035] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 200 2623
+[2021-09-02 10:37:30,066] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/base.css
+[2021-09-02 10:37:30,067] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/menu.css
+[2021-09-02 10:37:30,070] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jq.js
+[2021-09-02 10:37:30,070] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/base.css HTTP/1.1" 404 179
+[2021-09-02 10:37:30,072] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/message.js
+[2021-09-02 10:37:30,074] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/adapter.js
+[2021-09-02 10:37:30,075] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/ccajax.js
+[2021-09-02 10:37:30,075] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/menu.css HTTP/1.1" 404 179
+[2021-09-02 10:37:30,076] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jq.js HTTP/1.1" 404 179
+[2021-09-02 10:37:30,077] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/map_index.js
+[2021-09-02 10:37:30,078] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/message.js HTTP/1.1" 404 179
+[2021-09-02 10:37:30,079] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/menu.js
+[2021-09-02 10:37:30,079] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/adapter.js HTTP/1.1" 404 179
+[2021-09-02 10:37:30,080] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/ccajax.js HTTP/1.1" 404 179
+[2021-09-02 10:37:30,081] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/show.png
+[2021-09-02 10:37:30,082] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/obscure.png
+[2021-09-02 10:37:30,083] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/map_index.js HTTP/1.1" 404 179
+[2021-09-02 10:37:30,083] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/menu.js HTTP/1.1" 404 179
+[2021-09-02 10:37:30,085] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/vip.js
+[2021-09-02 10:37:30,087] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/show.png HTTP/1.1" 404 179
+[2021-09-02 10:37:30,088] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/obscure.png HTTP/1.1" 404 179
+[2021-09-02 10:37:30,089] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/vip.js HTTP/1.1" 404 179
+[2021-09-02 10:37:30,275] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/message.js
+[2021-09-02 10:37:30,276] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/message.js HTTP/1.1" 404 179
+[2021-09-02 10:37:30,278] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/ccajax.js
+[2021-09-02 10:37:30,279] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/ccajax.js HTTP/1.1" 404 179
+[2021-09-02 10:37:30,282] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/map_index.js
+[2021-09-02 10:37:30,282] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/map_index.js HTTP/1.1" 404 179
+[2021-09-02 10:37:30,286] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/adapter.js
+[2021-09-02 10:37:30,286] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/adapter.js HTTP/1.1" 404 179
+[2021-09-02 10:37:30,289] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/menu.js
+[2021-09-02 10:37:30,290] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/menu.js HTTP/1.1" 404 179
+[2021-09-02 10:37:30,293] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/vip.js
+[2021-09-02 10:37:30,293] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/vip.js HTTP/1.1" 404 179
+[2021-09-02 10:37:30,428] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-09-02 10:37:30,428] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 179
+[2021-09-02 10:37:32,291] [views.py:26] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Cache-Control': 'max-age=0', 'Sec-Ch-Ua': '"Chromium";v="92", " Not A;Brand";v="99", "Microsoft Edge";v="92"', 'Sec-Ch-Ua-Mobile': '?0', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'csrftoken=itknH1zRVuhQ0u4cXjaJtRqmWNGzgCHK6RN6k0SnyNZ5USPiZpqvJXTfjwZWykaV; sessionid=xubddjpij1bw3b3iz3ipiehm4kvgiome'}；request_body:b'',
+[2021-09-02 10:37:32,298] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6624
+[2021-09-02 10:37:32,321] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/style/components.css
+[2021-09-02 10:37:32,322] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themes.css
+[2021-09-02 10:37:32,323] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/plugins.css
+[2021-09-02 10:37:32,323] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/main.css
+[2021-09-02 10:37:32,324] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/cms_bootstrap.css
+[2021-09-02 10:37:32,325] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/js/JQuery2.1.4.js
+[2021-09-02 10:37:32,326] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/style/components.css HTTP/1.1" 404 179
+[2021-09-02 10:37:32,327] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themes.css HTTP/1.1" 404 179
+[2021-09-02 10:37:32,327] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/plugins.css HTTP/1.1" 404 179
+[2021-09-02 10:37:32,328] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/main.css HTTP/1.1" 404 179
+[2021-09-02 10:37:32,328] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:37:32,329] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/plugins/layer/layer.js
+[2021-09-02 10:37:32,329] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 404 179
+[2021-09-02 10:37:32,332] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 404 179
+[2021-09-02 10:37:32,853] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7339
+[2021-09-02 10:37:32,863] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/style/components.css
+[2021-09-02 10:37:32,864] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/cms_bootstrap.css
+[2021-09-02 10:37:32,865] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/plugins.css
+[2021-09-02 10:37:32,866] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/main.css
+[2021-09-02 10:37:32,868] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themes.css
+[2021-09-02 10:37:32,869] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/sweetalert.css
+[2021-09-02 10:37:32,871] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/style/components.css HTTP/1.1" 404 179
+[2021-09-02 10:37:32,871] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:37:32,872] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/plugins.css HTTP/1.1" 404 179
+[2021-09-02 10:37:32,873] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/main.css HTTP/1.1" 404 179
+[2021-09-02 10:37:32,873] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themes.css HTTP/1.1" 404 179
+[2021-09-02 10:37:32,875] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/js/JQuery2.1.4.js
+[2021-09-02 10:37:32,875] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/sweetalert.css HTTP/1.1" 404 179
+[2021-09-02 10:37:32,876] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/ccajax.js
+[2021-09-02 10:37:32,878] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/message.js
+[2021-09-02 10:37:32,879] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/plugins/layer/layer.js
+[2021-09-02 10:37:32,880] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sweetalert.min.js
+[2021-09-02 10:37:32,881] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/CmUser.js
+[2021-09-02 10:37:32,881] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/ccajax.js HTTP/1.1" 404 179
+[2021-09-02 10:37:32,881] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 404 179
+[2021-09-02 10:37:32,881] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/message.js HTTP/1.1" 404 179
+[2021-09-02 10:37:32,882] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 404 179
+[2021-09-02 10:37:32,883] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/CmUser.js HTTP/1.1" 404 179
+[2021-09-02 10:37:32,883] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sweetalert.min.js HTTP/1.1" 404 179
+[2021-09-02 10:37:35,322] [views.py:26] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Ch-Ua': '"Chromium";v="92", " Not A;Brand";v="99", "Microsoft Edge";v="92"', 'Sec-Ch-Ua-Mobile': '?0', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.84', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6', 'Cookie': 'csrftoken=itknH1zRVuhQ0u4cXjaJtRqmWNGzgCHK6RN6k0SnyNZ5USPiZpqvJXTfjwZWykaV; sessionid=xubddjpij1bw3b3iz3ipiehm4kvgiome'}；request_body:b'',
+[2021-09-02 10:37:35,324] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6624
+[2021-09-02 10:37:35,344] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/style/components.css
+[2021-09-02 10:37:35,345] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/cms_bootstrap.css
+[2021-09-02 10:37:35,346] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themes.css
+[2021-09-02 10:37:35,347] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/js/JQuery2.1.4.js
+[2021-09-02 10:37:35,348] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/main.css
+[2021-09-02 10:37:35,349] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/plugins.css
+[2021-09-02 10:37:35,350] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/style/components.css HTTP/1.1" 404 179
+[2021-09-02 10:37:35,350] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:37:35,351] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themes.css HTTP/1.1" 404 179
+[2021-09-02 10:37:35,351] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 404 179
+[2021-09-02 10:37:35,353] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/plugins/layer/layer.js
+[2021-09-02 10:37:35,353] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/main.css HTTP/1.1" 404 179
+[2021-09-02 10:37:35,354] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/plugins.css HTTP/1.1" 404 179
+[2021-09-02 10:37:35,357] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 404 179
+[2021-09-02 10:37:35,788] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7339
+[2021-09-02 10:37:35,797] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/style/components.css
+[2021-09-02 10:37:35,798] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/cms_bootstrap.css
+[2021-09-02 10:37:35,799] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/plugins.css
+[2021-09-02 10:37:35,801] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/main.css
+[2021-09-02 10:37:35,802] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themes.css
+[2021-09-02 10:37:35,805] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/sweetalert.css
+[2021-09-02 10:37:35,805] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/style/components.css HTTP/1.1" 404 179
+[2021-09-02 10:37:35,806] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:37:35,806] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/plugins.css HTTP/1.1" 404 179
+[2021-09-02 10:37:35,807] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/main.css HTTP/1.1" 404 179
+[2021-09-02 10:37:35,807] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themes.css HTTP/1.1" 404 179
+[2021-09-02 10:37:35,808] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/sweetalert.css HTTP/1.1" 404 179
+[2021-09-02 10:37:35,809] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/js/JQuery2.1.4.js
+[2021-09-02 10:37:35,811] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/ccajax.js
+[2021-09-02 10:37:35,813] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/message.js
+[2021-09-02 10:37:35,814] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/plugins/layer/layer.js
+[2021-09-02 10:37:35,815] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sweetalert.min.js
+[2021-09-02 10:37:35,817] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/CmUser.js
+[2021-09-02 10:37:35,818] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 404 179
+[2021-09-02 10:37:35,818] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/ccajax.js HTTP/1.1" 404 179
+[2021-09-02 10:37:35,819] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 404 179
+[2021-09-02 10:37:35,819] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/message.js HTTP/1.1" 404 179
+[2021-09-02 10:37:35,819] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sweetalert.min.js HTTP/1.1" 404 179
+[2021-09-02 10:37:35,821] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/CmUser.js HTTP/1.1" 404 179
+[2021-09-02 10:37:36,139] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/ccajax.js
+[2021-09-02 10:37:36,140] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/ccajax.js HTTP/1.1" 404 179
+[2021-09-02 10:37:36,142] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/message.js
+[2021-09-02 10:37:36,143] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/message.js HTTP/1.1" 404 179
+[2021-09-02 10:37:36,146] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/component/plugins/layer/layer.js
+[2021-09-02 10:37:36,146] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 404 179
+[2021-09-02 10:37:36,149] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sweetalert.min.js
+[2021-09-02 10:37:36,150] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sweetalert.min.js HTTP/1.1" 404 179
+[2021-09-02 10:37:36,154] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/CmUser.js
+[2021-09-02 10:37:36,154] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/CmUser.js HTTP/1.1" 404 179
+[2021-09-02 10:37:36,442] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-09-02 10:37:36,442] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 179
+[2021-09-02 10:37:38,958] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 7996
+[2021-09-02 10:37:38,983] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/animate.css
+[2021-09-02 10:37:38,984] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/et-lineicons.css
+[2021-09-02 10:37:38,985] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/themify-icons.css
+[2021-09-02 10:37:38,987] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/bootstrap.css
+[2021-09-02 10:37:38,988] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/magnific-popup.css
+[2021-09-02 10:37:38,989] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/css/style.css
+[2021-09-02 10:37:38,990] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/animate.css HTTP/1.1" 404 179
+[2021-09-02 10:37:38,990] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/et-lineicons.css HTTP/1.1" 404 179
+[2021-09-02 10:37:38,991] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/themify-icons.css HTTP/1.1" 404 179
+[2021-09-02 10:37:38,992] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/bootstrap.css HTTP/1.1" 404 179
+[2021-09-02 10:37:38,992] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/magnific-popup.css HTTP/1.1" 404 179
+[2021-09-02 10:37:38,994] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jq.js
+[2021-09-02 10:37:38,994] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/style.css HTTP/1.1" 404 179
+[2021-09-02 10:37:38,997] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/modernizr-2.6.2.min.js
+[2021-09-02 10:37:38,998] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/bootstrap.min.js
+[2021-09-02 10:37:38,999] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.easing.1.3.js
+[2021-09-02 10:37:39,000] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.waypoints.min.js
+[2021-09-02 10:37:39,002] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/imagesloaded.pkgd.min.js
+[2021-09-02 10:37:39,002] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jq.js HTTP/1.1" 404 179
+[2021-09-02 10:37:39,003] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/modernizr-2.6.2.min.js HTTP/1.1" 404 179
+[2021-09-02 10:37:39,004] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js HTTP/1.1" 404 179
+[2021-09-02 10:37:39,004] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 404 179
+[2021-09-02 10:37:39,004] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 404 179
+[2021-09-02 10:37:39,006] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.isotope.v3.0.2.js
+[2021-09-02 10:37:39,006] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:37:39,010] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/masonry.pkgd.min.js
+[2021-09-02 10:37:39,011] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/main.js
+[2021-09-02 10:37:39,012] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/logo.png
+[2021-09-02 10:37:39,013] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/jquery.magnific-popup.min.js
+[2021-09-02 10:37:39,015] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/sticky-kit.min.js
+[2021-09-02 10:37:39,015] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 404 179
+[2021-09-02 10:37:39,016] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 404 179
+[2021-09-02 10:37:39,017] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/main.js HTTP/1.1" 404 179
+[2021-09-02 10:37:39,017] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/logo.png HTTP/1.1" 404 179
+[2021-09-02 10:37:39,018] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 404 179
+[2021-09-02 10:37:39,019] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/slider/1.jpg
+[2021-09-02 10:37:39,020] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 404 179
+[2021-09-02 10:37:39,022] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/logo-light.png
+[2021-09-02 10:37:39,023] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/slider/1.jpg HTTP/1.1" 404 179
+[2021-09-02 10:37:39,024] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/logo-light.png HTTP/1.1" 404 179
+[2021-09-02 10:37:39,029] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/js/main.js
+[2021-09-02 10:37:39,029] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/main.js HTTP/1.1" 404 179
+[2021-09-02 10:37:39,075] [log.py:230] [log:log_response] [WARNING]- Not Found: /static/img/favicon.png
+[2021-09-02 10:37:39,076] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/favicon.png HTTP/1.1" 404 179

@@ -1,0 +1,518 @@
+[2021-07-12 16:49:36,571] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 16:50:05,507] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 16:50:06,414] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 16:50:28,297] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 16:50:29,171] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 16:50:43,432] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 16:50:44,453] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 16:50:49,565] [views.py:27] [views:cms_index] [INFO]- 请求成功！ response_code:response_code；response_headers:response_headers；response_body:response_body
+[2021-07-12 16:50:49,565] [views.py:28] [views:cms_index] [ERROR]- 请求出错：error
+[2021-07-12 16:50:49,576] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6398
+[2021-07-12 16:50:49,634] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2021-07-12 16:50:49,635] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 16:50:49,680] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7391
+[2021-07-12 16:50:49,721] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 16:52:29,668] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 16:52:30,562] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 16:52:40,680] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 16:52:41,576] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 16:52:51,664] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 16:52:52,552] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 16:53:14,264] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 16:53:15,316] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 16:53:20,742] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Ch-Ua': '" Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"', 'Sec-Ch-Ua-Mobile': '?0', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'userId=19310320117; userPW=15328362628wyh; saveMe=true; Token=WSRY3OWTOZWZf4VB5qKN0wP1dHgv9DfV7Y%2ByFsb2GT%2BbdxFmddJpXWswKZ9O%2BkVFZEdkeLaOgP2WUuVStoweyc%2BgrD7MXam0n2sAjCNYD2w96Hu6fLIoVFxTvovCgc99PnSmbgyBIR6iKm0zlGfmsEuFtXovLckFqbVfWQiSRc5eizfcWYD%2BIkJAkTVnGmKAY%2BWEw8O3QWx8Gr48gJ0eQsTFpF8xvLuW%2FFkzXXN0XqI1Bsxrr1V1WOGSdXN1jAon5Jgo5zqCr3zkmLbvrfjscGS1v3Aj7jdw3StDWZLqANohCx0a8FgI75iZBCp4RMxR4%2BA21MjACgc%2FOiBPPWrYAg48YSUWYenIDC6inBYhrM%2FkenytnjgRy0aTcDjD6mqbaV%2FF1owk4ECKHmiWrFHV58bfPEgXKqIxHPcObXymYOMIL8Z13QoAlPdvtIwxQiBvcpe4pPI3IE3BO24JDsds2W5%2B8JzuOP9LoGUr7l7aORlWDCO1yxsZUYp5I9g%2Fh1JHmIl52nVedHOsAldsm8czCR37ChC%2Fq11ohAscqEJjsMdMeqy7j%2B68eleufRse%2B2U9i5xccUIBlr4dB%2FHACX8YsNwqDEuYMCnx3%2B3406HCo%2ByJG0DBvF4xTjDgxuoofFgqVg3khsz2f3SiObI89fk3E4q%2BuXyqLwomvfF7q1BGVE8t9bOIb732DByeH1lOeg94V0JyV28N%2BJgygaXWivAvJqDvLXLeQn5W1qW71JnrIaxsgKZK2iKjioJWlWXjJCBJETa84IAB20W0qG914Oyzha9O6f0fQWgP3Ti87C3TPwEKd2mjH2vV9lO1KwVgAXwyEh9J6nGNJ8LrMo%2FIRYifIoNBiIZmFreiABqsllx92p3ouX111U1POMRqLbKW%2FDI2CHxPzKIS9Ol6r59l9ndeh9EkVX9ubRXISerWczeS3Uj9yxX%2BgJdR6IzK2l%2B%2FGkLY9ZjxQwsG2%2BRN4qVs%2B14AAqkOlQP5v3fCQMMPX8w7JLa4i6fI8X3Mdqh7Yd2kyv2I9rk6KcUPmebpKmR4P%2FzEqX4O5A3%2Fd6XYDx8X9ppBahmQbMOmUZrEzo3tS%2FfdRS6KehiyVlZ9fNVkTczxMAv4xgBC4pm44Q8wDNQUwXPidvZfsxYkGTKNPeEJf05ck4u6o1DAO%2B%2FG7hRsg18bVbybtjUmvS%2BtOAfz9gFCIIILkj8FnAWQy6oo9FwdQ%2BLE6Ao4HPRSWfSMs0M%3D; csrftoken=6L0oH7l9wxPChqXSudZYIntttfVvhhg9QHoomNS8nqckuvRFhPrkYjF2GVvFvHhF; sessionid=kh8tpx6u7ewdkn9a70ldw30rq5xukb03'}；request_body:b'',
+[2021-07-12 16:53:20,761] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6398
+[2021-07-12 16:53:20,791] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/style/components.css HTTP/1.1" 200 9491
+[2021-07-12 16:53:20,793] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themes.css HTTP/1.1" 200 2019
+[2021-07-12 16:53:20,795] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/main.css HTTP/1.1" 200 51284
+[2021-07-12 16:53:20,795] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 200 22081
+[2021-07-12 16:53:20,796] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 200 105029
+[2021-07-12 16:53:20,797] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/plugins.css HTTP/1.1" 200 197714
+[2021-07-12 16:53:20,798] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 200 84355
+[2021-07-12 16:53:20,934] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/theme/default/layer.css?v=3.2.0 HTTP/1.1" 200 14367
+[2021-07-12 16:53:20,942] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 109
+[2021-07-12 16:53:20,944] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.woff HTTP/1.1" 200 103
+[2021-07-12 16:53:20,959] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2021-07-12 16:53:20,959] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 16:53:21,014] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7391
+[2021-07-12 16:53:21,026] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/style/components.css HTTP/1.1" 200 9491
+[2021-07-12 16:53:21,034] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themes.css HTTP/1.1" 200 2019
+[2021-07-12 16:53:21,034] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/sweetalert.css HTTP/1.1" 200 22898
+[2021-07-12 16:53:21,037] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/main.css HTTP/1.1" 200 51284
+[2021-07-12 16:53:21,041] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/message.js HTTP/1.1" 200 3347
+[2021-07-12 16:53:21,041] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 200 84355
+[2021-07-12 16:53:21,041] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/ccajax.js HTTP/1.1" 200 2399
+[2021-07-12 16:53:21,042] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 200 105029
+[2021-07-12 16:53:21,043] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 200 22081
+[2021-07-12 16:53:21,047] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/CmUser.js HTTP/1.1" 200 10561
+[2021-07-12 16:53:21,047] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/sweetalert.min.js HTTP/1.1" 200 16999
+[2021-07-12 16:53:21,048] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/plugins.css HTTP/1.1" 200 197714
+[2021-07-12 16:53:21,140] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/theme/default/layer.css?v=3.2.0 HTTP/1.1" 200 14367
+[2021-07-12 16:53:21,149] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 109
+[2021-07-12 16:53:21,159] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 16:53:21,333] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-07-12 16:53:21,333] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-07-12 16:56:12,645] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 16:56:13,533] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 16:58:07,524] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 16:58:08,432] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 16:58:50,340] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 16:58:51,225] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:01:43,168] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:01:44,118] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:02:37,433] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:02:38,309] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:04:12,482] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:04:13,368] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:04:31,853] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:04:32,819] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:04:33,560] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/administrators/ HTTP/1.1" 200 7157
+[2021-07-12 17:04:33,626] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 17:04:38,430] [views.py:25] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Ch-Ua': '" Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"', 'Sec-Ch-Ua-Mobile': '?0', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'userId=19310320117; userPW=15328362628wyh; saveMe=true; Token=WSRY3OWTOZWZf4VB5qKN0wP1dHgv9DfV7Y%2ByFsb2GT%2BbdxFmddJpXWswKZ9O%2BkVFZEdkeLaOgP2WUuVStoweyc%2BgrD7MXam0n2sAjCNYD2w96Hu6fLIoVFxTvovCgc99PnSmbgyBIR6iKm0zlGfmsEuFtXovLckFqbVfWQiSRc5eizfcWYD%2BIkJAkTVnGmKAY%2BWEw8O3QWx8Gr48gJ0eQsTFpF8xvLuW%2FFkzXXN0XqI1Bsxrr1V1WOGSdXN1jAon5Jgo5zqCr3zkmLbvrfjscGS1v3Aj7jdw3StDWZLqANohCx0a8FgI75iZBCp4RMxR4%2BA21MjACgc%2FOiBPPWrYAg48YSUWYenIDC6inBYhrM%2FkenytnjgRy0aTcDjD6mqbaV%2FF1owk4ECKHmiWrFHV58bfPEgXKqIxHPcObXymYOMIL8Z13QoAlPdvtIwxQiBvcpe4pPI3IE3BO24JDsds2W5%2B8JzuOP9LoGUr7l7aORlWDCO1yxsZUYp5I9g%2Fh1JHmIl52nVedHOsAldsm8czCR37ChC%2Fq11ohAscqEJjsMdMeqy7j%2B68eleufRse%2B2U9i5xccUIBlr4dB%2FHACX8YsNwqDEuYMCnx3%2B3406HCo%2ByJG0DBvF4xTjDgxuoofFgqVg3khsz2f3SiObI89fk3E4q%2BuXyqLwomvfF7q1BGVE8t9bOIb732DByeH1lOeg94V0JyV28N%2BJgygaXWivAvJqDvLXLeQn5W1qW71JnrIaxsgKZK2iKjioJWlWXjJCBJETa84IAB20W0qG914Oyzha9O6f0fQWgP3Ti87C3TPwEKd2mjH2vV9lO1KwVgAXwyEh9J6nGNJ8LrMo%2FIRYifIoNBiIZmFreiABqsllx92p3ouX111U1POMRqLbKW%2FDI2CHxPzKIS9Ol6r59l9ndeh9EkVX9ubRXISerWczeS3Uj9yxX%2BgJdR6IzK2l%2B%2FGkLY9ZjxQwsG2%2BRN4qVs%2B14AAqkOlQP5v3fCQMMPX8w7JLa4i6fI8X3Mdqh7Yd2kyv2I9rk6KcUPmebpKmR4P%2FzEqX4O5A3%2Fd6XYDx8X9ppBahmQbMOmUZrEzo3tS%2FfdRS6KehiyVlZ9fNVkTczxMAv4xgBC4pm44Q8wDNQUwXPidvZfsxYkGTKNPeEJf05ck4u6o1DAO%2B%2FG7hRsg18bVbybtjUmvS%2BtOAfz9gFCIIILkj8FnAWQy6oo9FwdQ%2BLE6Ao4HPRSWfSMs0M%3D; csrftoken=6L0oH7l9wxPChqXSudZYIntttfVvhhg9QHoomNS8nqckuvRFhPrkYjF2GVvFvHhF; sessionid=kh8tpx6u7ewdkn9a70ldw30rq5xukb03'}；request_body:b'',
+[2021-07-12 17:04:38,436] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6398
+[2021-07-12 17:04:38,460] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/style/components.css HTTP/1.1" 200 9491
+[2021-07-12 17:04:38,464] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themes.css HTTP/1.1" 200 2019
+[2021-07-12 17:04:38,465] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/main.css HTTP/1.1" 200 51284
+[2021-07-12 17:04:38,466] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 200 22081
+[2021-07-12 17:04:38,468] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 200 105029
+[2021-07-12 17:04:38,468] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 200 84355
+[2021-07-12 17:04:38,470] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/plugins.css HTTP/1.1" 200 197714
+[2021-07-12 17:04:38,625] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/theme/default/layer.css?v=3.2.0 HTTP/1.1" 200 14367
+[2021-07-12 17:04:38,639] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.woff HTTP/1.1" 200 103
+[2021-07-12 17:04:38,640] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 109
+[2021-07-12 17:04:38,640] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7391
+[2021-07-12 17:04:38,653] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 17:04:38,653] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2021-07-12 17:04:38,662] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/style/components.css HTTP/1.1" 200 9491
+[2021-07-12 17:04:38,664] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themes.css HTTP/1.1" 200 2019
+[2021-07-12 17:04:38,667] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/main.css HTTP/1.1" 200 51284
+[2021-07-12 17:04:38,669] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/sweetalert.css HTTP/1.1" 200 22898
+[2021-07-12 17:04:38,671] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/ccajax.js HTTP/1.1" 200 2399
+[2021-07-12 17:04:38,671] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/message.js HTTP/1.1" 200 3347
+[2021-07-12 17:04:38,673] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 200 105029
+[2021-07-12 17:04:38,676] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 200 84355
+[2021-07-12 17:04:38,678] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 200 22081
+[2021-07-12 17:04:38,679] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/plugins.css HTTP/1.1" 200 197714
+[2021-07-12 17:04:38,679] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/CmUser.js HTTP/1.1" 200 10561
+[2021-07-12 17:04:38,680] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/sweetalert.min.js HTTP/1.1" 200 16999
+[2021-07-12 17:04:38,763] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/theme/default/layer.css?v=3.2.0 HTTP/1.1" 200 14367
+[2021-07-12 17:04:38,770] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 109
+[2021-07-12 17:04:38,780] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 17:04:38,875] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-07-12 17:04:38,876] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-07-12 17:04:40,349] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/administrators/ HTTP/1.1" 200 7157
+[2021-07-12 17:04:40,399] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 17:04:55,486] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 7164
+[2021-07-12 17:04:55,574] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 17:04:58,578] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /cms/user/ HTTP/1.1" 200 42
+[2021-07-12 17:04:58,601] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/send_sms/
+[2021-07-12 17:04:58,602] [basehttp.py:161] [basehttp:log_message] [WARNING]- "POST /cms/send_sms/ HTTP/1.1" 404 5302
+[2021-07-12 17:05:03,146] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/user/
+[2021-07-12 17:05:03,146] [basehttp.py:161] [basehttp:log_message] [WARNING]- "POST /cms/user/ HTTP/1.1" 404 3872
+[2021-07-12 17:05:06,834] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/user/
+[2021-07-12 17:05:06,834] [basehttp.py:161] [basehttp:log_message] [WARNING]- "POST /cms/user/ HTTP/1.1" 404 3872
+[2021-07-12 17:05:41,393] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:05:42,325] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:06:01,761] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:06:02,677] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:06:04,027] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/user/
+[2021-07-12 17:06:04,028] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/user/ HTTP/1.1" 404 3871
+[2021-07-12 17:06:06,267] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/user/
+[2021-07-12 17:06:06,268] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/user/ HTTP/1.1" 404 3871
+[2021-07-12 17:06:06,759] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/user/
+[2021-07-12 17:06:06,759] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/user/ HTTP/1.1" 404 3871
+[2021-07-12 17:06:06,943] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/user/
+[2021-07-12 17:06:06,944] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/user/ HTTP/1.1" 404 3871
+[2021-07-12 17:06:07,131] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/user/
+[2021-07-12 17:06:07,131] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/user/ HTTP/1.1" 404 3871
+[2021-07-12 17:06:07,902] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/user/
+[2021-07-12 17:06:07,902] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/user/ HTTP/1.1" 404 3871
+[2021-07-12 17:06:08,083] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/user/
+[2021-07-12 17:06:08,084] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/user/ HTTP/1.1" 404 3871
+[2021-07-12 17:06:08,265] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/user/
+[2021-07-12 17:06:08,265] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/user/ HTTP/1.1" 404 3871
+[2021-07-12 17:06:08,434] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/user/
+[2021-07-12 17:06:08,434] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/user/ HTTP/1.1" 404 3871
+[2021-07-12 17:06:08,593] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/user/
+[2021-07-12 17:06:08,593] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/user/ HTTP/1.1" 404 3871
+[2021-07-12 17:06:08,752] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/user/
+[2021-07-12 17:06:08,753] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/user/ HTTP/1.1" 404 3871
+[2021-07-12 17:06:08,918] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/user/
+[2021-07-12 17:06:08,918] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/user/ HTTP/1.1" 404 3871
+[2021-07-12 17:06:09,078] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/user/
+[2021-07-12 17:06:09,078] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/user/ HTTP/1.1" 404 3871
+[2021-07-12 17:06:09,266] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/user/
+[2021-07-12 17:06:09,267] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/user/ HTTP/1.1" 404 3871
+[2021-07-12 17:06:09,432] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/user/
+[2021-07-12 17:06:09,433] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/user/ HTTP/1.1" 404 3871
+[2021-07-12 17:06:09,762] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/user/
+[2021-07-12 17:06:09,762] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/user/ HTTP/1.1" 404 3871
+[2021-07-12 17:06:09,931] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/user/
+[2021-07-12 17:06:09,932] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/user/ HTTP/1.1" 404 3871
+[2021-07-12 17:06:10,090] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/user/
+[2021-07-12 17:06:10,090] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/user/ HTTP/1.1" 404 3871
+[2021-07-12 17:06:11,939] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/logs/
+[2021-07-12 17:06:11,939] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/logs/ HTTP/1.1" 404 4040
+[2021-07-12 17:06:13,942] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/webset/
+[2021-07-12 17:06:13,942] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/webset/ HTTP/1.1" 404 3521
+[2021-07-12 17:06:14,404] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/webset/
+[2021-07-12 17:06:14,405] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/webset/ HTTP/1.1" 404 3521
+[2021-07-12 17:06:14,580] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/webset/
+[2021-07-12 17:06:14,580] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/webset/ HTTP/1.1" 404 3521
+[2021-07-12 17:06:23,627] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:06:25,595] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 10177
+[2021-07-12 17:06:25,645] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /media/QQ%E5%9B%BE%E7%89%8720191210222509.jpg HTTP/1.1" 304 0
+[2021-07-12 17:06:25,646] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /media/QQ%E5%9B%BE%E7%89%8720191127203318.jpg HTTP/1.1" 304 0
+[2021-07-12 17:06:25,663] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/images/blog/5.jpg HTTP/1.1" 404 1810
+[2021-07-12 17:06:25,787] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-07-12 17:06:25,807] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/favicon.png HTTP/1.1" 404 1804
+[2021-07-12 17:06:27,703] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/
+[2021-07-12 17:06:27,704] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/ HTTP/1.1" 404 2781
+[2021-07-12 17:06:34,955] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:06:35,870] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:06:36,552] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/
+[2021-07-12 17:06:36,553] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/ HTTP/1.1" 404 2781
+[2021-07-12 17:06:37,841] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/
+[2021-07-12 17:06:37,841] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/ HTTP/1.1" 404 2781
+[2021-07-12 17:06:38,085] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/
+[2021-07-12 17:06:38,085] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/ HTTP/1.1" 404 2781
+[2021-07-12 17:06:38,256] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/
+[2021-07-12 17:06:38,257] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/ HTTP/1.1" 404 2781
+[2021-07-12 17:06:48,034] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:06:49,120] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:06:49,715] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/
+[2021-07-12 17:06:49,716] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/ HTTP/1.1" 404 2781
+[2021-07-12 17:06:49,744] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-07-12 17:06:49,744] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-07-12 17:06:55,872] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 10177
+[2021-07-12 17:06:55,915] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/images/blog/5.jpg HTTP/1.1" 404 1810
+[2021-07-12 17:06:55,955] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-07-12 17:06:55,967] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/favicon.png HTTP/1.1" 404 1804
+[2021-07-12 17:06:57,181] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 302 0
+[2021-07-12 17:06:57,196] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login/?next=/map/map/ HTTP/1.1" 200 2799
+[2021-07-12 17:06:57,215] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/map_auth.js HTTP/1.1" 304 0
+[2021-07-12 17:06:57,219] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/particles.min.js HTTP/1.1" 304 0
+[2021-07-12 17:07:32,960] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:07:33,886] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:08:09,730] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /auth/login/ HTTP/1.1" 200 45
+[2021-07-12 17:08:10,049] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 200 2519
+[2021-07-12 17:08:13,763] [views.py:25] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Sec-Ch-Ua': '" Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'userId=19310320117; userPW=15328362628wyh; saveMe=true; Token=WSRY3OWTOZWZf4VB5qKN0wP1dHgv9DfV7Y%2ByFsb2GT%2BbdxFmddJpXWswKZ9O%2BkVFZEdkeLaOgP2WUuVStoweyc%2BgrD7MXam0n2sAjCNYD2w96Hu6fLIoVFxTvovCgc99PnSmbgyBIR6iKm0zlGfmsEuFtXovLckFqbVfWQiSRc5eizfcWYD%2BIkJAkTVnGmKAY%2BWEw8O3QWx8Gr48gJ0eQsTFpF8xvLuW%2FFkzXXN0XqI1Bsxrr1V1WOGSdXN1jAon5Jgo5zqCr3zkmLbvrfjscGS1v3Aj7jdw3StDWZLqANohCx0a8FgI75iZBCp4RMxR4%2BA21MjACgc%2FOiBPPWrYAg48YSUWYenIDC6inBYhrM%2FkenytnjgRy0aTcDjD6mqbaV%2FF1owk4ECKHmiWrFHV58bfPEgXKqIxHPcObXymYOMIL8Z13QoAlPdvtIwxQiBvcpe4pPI3IE3BO24JDsds2W5%2B8JzuOP9LoGUr7l7aORlWDCO1yxsZUYp5I9g%2Fh1JHmIl52nVedHOsAldsm8czCR37ChC%2Fq11ohAscqEJjsMdMeqy7j%2B68eleufRse%2B2U9i5xccUIBlr4dB%2FHACX8YsNwqDEuYMCnx3%2B3406HCo%2ByJG0DBvF4xTjDgxuoofFgqVg3khsz2f3SiObI89fk3E4q%2BuXyqLwomvfF7q1BGVE8t9bOIb732DByeH1lOeg94V0JyV28N%2BJgygaXWivAvJqDvLXLeQn5W1qW71JnrIaxsgKZK2iKjioJWlWXjJCBJETa84IAB20W0qG914Oyzha9O6f0fQWgP3Ti87C3TPwEKd2mjH2vV9lO1KwVgAXwyEh9J6nGNJ8LrMo%2FIRYifIoNBiIZmFreiABqsllx92p3ouX111U1POMRqLbKW%2FDI2CHxPzKIS9Ol6r59l9ndeh9EkVX9ubRXISerWczeS3Uj9yxX%2BgJdR6IzK2l%2B%2FGkLY9ZjxQwsG2%2BRN4qVs%2B14AAqkOlQP5v3fCQMMPX8w7JLa4i6fI8X3Mdqh7Yd2kyv2I9rk6KcUPmebpKmR4P%2FzEqX4O5A3%2Fd6XYDx8X9ppBahmQbMOmUZrEzo3tS%2FfdRS6KehiyVlZ9fNVkTczxMAv4xgBC4pm44Q8wDNQUwXPidvZfsxYkGTKNPeEJf05ck4u6o1DAO%2B%2FG7hRsg18bVbybtjUmvS%2BtOAfz9gFCIIILkj8FnAWQy6oo9FwdQ%2BLE6Ao4HPRSWfSMs0M%3D; csrftoken=pd2ErPKNMO45StE2P7W3KcfBErMTHaMiGuOWn2erjYLUV1AuBkIOXIXcsNCKEiMw; sessionid=nagn24nfcpsws5uc4d63dsg6uognicrg'}；request_body:b'',
+[2021-07-12 17:08:13,768] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6398
+[2021-07-12 17:08:13,846] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2021-07-12 17:08:13,848] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 17:08:13,881] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7391
+[2021-07-12 17:08:13,919] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 17:08:15,725] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 7121
+[2021-07-12 17:08:15,786] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 17:08:21,213] [views.py:95] [views:post] [INFO]- 请求成功！ 用户:17628508386将17628508386的账户密码！将17628508386:222222修改为17628508386:pbkdf2_sha1$260000$a$X0+JfPLhXAzOKcXaEuAGIoKznD8=
+[2021-07-12 17:08:21,218] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /cms/user/ HTTP/1.1" 200 42
+[2021-07-12 17:08:21,236] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/send_sms/
+[2021-07-12 17:08:21,237] [basehttp.py:161] [basehttp:log_message] [WARNING]- "POST /cms/send_sms/ HTTP/1.1" 404 5302
+[2021-07-12 17:09:00,534] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:09:01,485] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:10:24,619] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:10:25,767] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:11:56,484] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:11:57,371] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:13:36,437] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:13:37,328] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:15:33,682] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:15:34,607] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:16:05,262] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:16:06,152] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:16:59,673] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:17:00,558] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:17:03,096] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:17:04,054] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:17:46,273] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:17:47,389] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:18:00,309] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:18:01,204] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:18:09,879] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:18:10,795] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:18:11,518] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/
+[2021-07-12 17:18:11,518] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/ HTTP/1.1" 404 2781
+[2021-07-12 17:18:11,554] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-07-12 17:18:11,555] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-07-12 17:18:18,219] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 10177
+[2021-07-12 17:18:18,293] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/images/blog/5.jpg HTTP/1.1" 404 1810
+[2021-07-12 17:18:18,325] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js.map HTTP/1.1" 404 1828
+[2021-07-12 17:18:18,360] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-07-12 17:18:18,370] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/favicon.png HTTP/1.1" 404 1804
+[2021-07-12 17:18:19,419] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 302 0
+[2021-07-12 17:18:19,424] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login/?next=/map/map/ HTTP/1.1" 200 2799
+[2021-07-12 17:18:28,826] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /auth/login/ HTTP/1.1" 200 45
+[2021-07-12 17:18:28,846] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 200 2519
+[2021-07-12 17:18:32,450] [views.py:25] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Sec-Ch-Ua': '" Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'userId=19310320117; userPW=15328362628wyh; saveMe=true; Token=WSRY3OWTOZWZf4VB5qKN0wP1dHgv9DfV7Y%2ByFsb2GT%2BbdxFmddJpXWswKZ9O%2BkVFZEdkeLaOgP2WUuVStoweyc%2BgrD7MXam0n2sAjCNYD2w96Hu6fLIoVFxTvovCgc99PnSmbgyBIR6iKm0zlGfmsEuFtXovLckFqbVfWQiSRc5eizfcWYD%2BIkJAkTVnGmKAY%2BWEw8O3QWx8Gr48gJ0eQsTFpF8xvLuW%2FFkzXXN0XqI1Bsxrr1V1WOGSdXN1jAon5Jgo5zqCr3zkmLbvrfjscGS1v3Aj7jdw3StDWZLqANohCx0a8FgI75iZBCp4RMxR4%2BA21MjACgc%2FOiBPPWrYAg48YSUWYenIDC6inBYhrM%2FkenytnjgRy0aTcDjD6mqbaV%2FF1owk4ECKHmiWrFHV58bfPEgXKqIxHPcObXymYOMIL8Z13QoAlPdvtIwxQiBvcpe4pPI3IE3BO24JDsds2W5%2B8JzuOP9LoGUr7l7aORlWDCO1yxsZUYp5I9g%2Fh1JHmIl52nVedHOsAldsm8czCR37ChC%2Fq11ohAscqEJjsMdMeqy7j%2B68eleufRse%2B2U9i5xccUIBlr4dB%2FHACX8YsNwqDEuYMCnx3%2B3406HCo%2ByJG0DBvF4xTjDgxuoofFgqVg3khsz2f3SiObI89fk3E4q%2BuXyqLwomvfF7q1BGVE8t9bOIb732DByeH1lOeg94V0JyV28N%2BJgygaXWivAvJqDvLXLeQn5W1qW71JnrIaxsgKZK2iKjioJWlWXjJCBJETa84IAB20W0qG914Oyzha9O6f0fQWgP3Ti87C3TPwEKd2mjH2vV9lO1KwVgAXwyEh9J6nGNJ8LrMo%2FIRYifIoNBiIZmFreiABqsllx92p3ouX111U1POMRqLbKW%2FDI2CHxPzKIS9Ol6r59l9ndeh9EkVX9ubRXISerWczeS3Uj9yxX%2BgJdR6IzK2l%2B%2FGkLY9ZjxQwsG2%2BRN4qVs%2B14AAqkOlQP5v3fCQMMPX8w7JLa4i6fI8X3Mdqh7Yd2kyv2I9rk6KcUPmebpKmR4P%2FzEqX4O5A3%2Fd6XYDx8X9ppBahmQbMOmUZrEzo3tS%2FfdRS6KehiyVlZ9fNVkTczxMAv4xgBC4pm44Q8wDNQUwXPidvZfsxYkGTKNPeEJf05ck4u6o1DAO%2B%2FG7hRsg18bVbybtjUmvS%2BtOAfz9gFCIIILkj8FnAWQy6oo9FwdQ%2BLE6Ao4HPRSWfSMs0M%3D; csrftoken=9fW84CPMMzz94lGT8MaGOAdaRuzeVK0RfXENZxXVF9szXAzheuqefjfvtoM4CxlQ; sessionid=twc3hpenvnwfgn2a1pk06f2jqmo15kn4'}；request_body:b'',
+[2021-07-12 17:18:32,474] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6398
+[2021-07-12 17:18:32,570] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2021-07-12 17:18:32,572] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 17:18:32,605] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7391
+[2021-07-12 17:18:32,698] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 17:18:42,248] [views.py:120] [views:turn_black] [WARNING]- 请求成功！ 用户:17628508386将17788888888的账户拉黑了！
+[2021-07-12 17:18:42,248] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /cms/turn_black/ HTTP/1.1" 200 42
+[2021-07-12 17:18:44,823] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7396
+[2021-07-12 17:18:44,913] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 17:19:04,079] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/ HTTP/1.1" 200 10115
+[2021-07-12 17:19:04,173] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 17:19:19,901] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/ HTTP/1.1" 200 10115
+[2021-07-12 17:19:19,957] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 17:19:54,318] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/ HTTP/1.1" 200 1542
+[2021-07-12 17:22:33,777] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:22:34,700] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:22:35,451] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/logs/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 25, in decorator
+    return viewfunc(request,*args,**kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 103, in logs
+    with open(settings.BASE_DIR) as fp:
+PermissionError: [Errno 13] Permission denied: 'D:\\pycharm_File\\mandao'
+[2021-07-12 17:22:35,452] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/logs/ HTTP/1.1" 500 80757
+[2021-07-12 17:24:44,695] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:24:45,590] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:24:48,771] [log.py:230] [log:log_response] [WARNING]- Not Found: /logs
+[2021-07-12 17:24:48,771] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /logs HTTP/1.1" 404 2750
+[2021-07-12 17:24:51,134] [log.py:230] [log:log_response] [WARNING]- Not Found: /logs/
+[2021-07-12 17:24:51,135] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /logs/ HTTP/1.1" 404 2753
+[2021-07-12 17:25:36,435] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\mandao\settings.py changed, reloading.
+[2021-07-12 17:25:37,430] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:25:51,688] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\mandao\settings.py changed, reloading.
+[2021-07-12 17:25:52,612] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:25:53,145] [log.py:230] [log:log_response] [WARNING]- Not Found: /logs/
+[2021-07-12 17:25:53,146] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /logs/ HTTP/1.1" 404 2753
+[2021-07-12 17:25:53,171] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-07-12 17:25:53,172] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-07-12 17:26:01,962] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /media HTTP/1.1" 301 0
+[2021-07-12 17:26:01,967] [log.py:230] [log:log_response] [WARNING]- Not Found: /media/
+[2021-07-12 17:26:01,968] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /media/ HTTP/1.1" 404 2912
+[2021-07-12 17:26:13,201] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\mandao\settings.py changed, reloading.
+[2021-07-12 17:26:14,119] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:32:32,656] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:32:33,591] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:32:57,340] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:32:58,229] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:33:02,075] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:33:03,012] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:33:08,982] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:33:10,009] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:35:16,273] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:35:17,426] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:35:21,521] [log.py:230] [log:log_response] [WARNING]- Not Found: /media/
+[2021-07-12 17:35:21,521] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /media/ HTTP/1.1" 404 2912
+[2021-07-12 17:35:23,664] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2021-07-12 17:35:28,174] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/logs/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 25, in decorator
+    return viewfunc(request,*args,**kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 103, in logs
+    print(os.listdir(settings.BASE_DIR,'logs'))
+TypeError: listdir() takes at most 1 argument (2 given)
+[2021-07-12 17:35:28,175] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/logs/ HTTP/1.1" 500 80684
+[2021-07-12 17:35:43,506] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:35:44,411] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:35:45,071] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/logs/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 25, in decorator
+    return viewfunc(request,*args,**kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 104, in logs
+    with open(os.path.join(settings.BASE_DIR, 'logs')) as fp:
+PermissionError: [Errno 13] Permission denied: 'D:\\pycharm_File\\mandao\\logs'
+[2021-07-12 17:35:45,073] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/logs/ HTTP/1.1" 500 80859
+[2021-07-12 17:35:45,262] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/logs/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 25, in decorator
+    return viewfunc(request,*args,**kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 104, in logs
+    with open(os.path.join(settings.BASE_DIR, 'logs')) as fp:
+PermissionError: [Errno 13] Permission denied: 'D:\\pycharm_File\\mandao\\logs'
+[2021-07-12 17:35:45,263] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/logs/ HTTP/1.1" 500 80859
+[2021-07-12 17:36:35,528] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:36:36,486] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:36:37,016] [views.py:25] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Ch-Ua': '" Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"', 'Sec-Ch-Ua-Mobile': '?0', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'userId=19310320117; userPW=15328362628wyh; saveMe=true; Token=WSRY3OWTOZWZf4VB5qKN0wP1dHgv9DfV7Y%2ByFsb2GT%2BbdxFmddJpXWswKZ9O%2BkVFZEdkeLaOgP2WUuVStoweyc%2BgrD7MXam0n2sAjCNYD2w96Hu6fLIoVFxTvovCgc99PnSmbgyBIR6iKm0zlGfmsEuFtXovLckFqbVfWQiSRc5eizfcWYD%2BIkJAkTVnGmKAY%2BWEw8O3QWx8Gr48gJ0eQsTFpF8xvLuW%2FFkzXXN0XqI1Bsxrr1V1WOGSdXN1jAon5Jgo5zqCr3zkmLbvrfjscGS1v3Aj7jdw3StDWZLqANohCx0a8FgI75iZBCp4RMxR4%2BA21MjACgc%2FOiBPPWrYAg48YSUWYenIDC6inBYhrM%2FkenytnjgRy0aTcDjD6mqbaV%2FF1owk4ECKHmiWrFHV58bfPEgXKqIxHPcObXymYOMIL8Z13QoAlPdvtIwxQiBvcpe4pPI3IE3BO24JDsds2W5%2B8JzuOP9LoGUr7l7aORlWDCO1yxsZUYp5I9g%2Fh1JHmIl52nVedHOsAldsm8czCR37ChC%2Fq11ohAscqEJjsMdMeqy7j%2B68eleufRse%2B2U9i5xccUIBlr4dB%2FHACX8YsNwqDEuYMCnx3%2B3406HCo%2ByJG0DBvF4xTjDgxuoofFgqVg3khsz2f3SiObI89fk3E4q%2BuXyqLwomvfF7q1BGVE8t9bOIb732DByeH1lOeg94V0JyV28N%2BJgygaXWivAvJqDvLXLeQn5W1qW71JnrIaxsgKZK2iKjioJWlWXjJCBJETa84IAB20W0qG914Oyzha9O6f0fQWgP3Ti87C3TPwEKd2mjH2vV9lO1KwVgAXwyEh9J6nGNJ8LrMo%2FIRYifIoNBiIZmFreiABqsllx92p3ouX111U1POMRqLbKW%2FDI2CHxPzKIS9Ol6r59l9ndeh9EkVX9ubRXISerWczeS3Uj9yxX%2BgJdR6IzK2l%2B%2FGkLY9ZjxQwsG2%2BRN4qVs%2B14AAqkOlQP5v3fCQMMPX8w7JLa4i6fI8X3Mdqh7Yd2kyv2I9rk6KcUPmebpKmR4P%2FzEqX4O5A3%2Fd6XYDx8X9ppBahmQbMOmUZrEzo3tS%2FfdRS6KehiyVlZ9fNVkTczxMAv4xgBC4pm44Q8wDNQUwXPidvZfsxYkGTKNPeEJf05ck4u6o1DAO%2B%2FG7hRsg18bVbybtjUmvS%2BtOAfz9gFCIIILkj8FnAWQy6oo9FwdQ%2BLE6Ao4HPRSWfSMs0M%3D; csrftoken=9fW84CPMMzz94lGT8MaGOAdaRuzeVK0RfXENZxXVF9szXAzheuqefjfvtoM4CxlQ; sessionid=twc3hpenvnwfgn2a1pk06f2jqmo15kn4'}；request_body:b'',
+[2021-07-12 17:36:37,032] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6398
+[2021-07-12 17:36:37,058] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/style/components.css HTTP/1.1" 200 9491
+[2021-07-12 17:36:37,060] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themes.css HTTP/1.1" 200 2019
+[2021-07-12 17:36:37,064] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/main.css HTTP/1.1" 200 51284
+[2021-07-12 17:36:37,065] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 200 105029
+[2021-07-12 17:36:37,065] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 200 22081
+[2021-07-12 17:36:37,067] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 200 84355
+[2021-07-12 17:36:37,070] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/plugins.css HTTP/1.1" 200 197714
+[2021-07-12 17:36:37,175] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/theme/default/layer.css?v=3.2.0 HTTP/1.1" 200 14367
+[2021-07-12 17:36:37,175] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.woff HTTP/1.1" 200 103
+[2021-07-12 17:36:37,175] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 109
+[2021-07-12 17:36:37,194] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 17:36:37,194] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2021-07-12 17:36:37,243] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7396
+[2021-07-12 17:36:37,260] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/style/components.css HTTP/1.1" 200 9491
+[2021-07-12 17:36:37,266] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themes.css HTTP/1.1" 200 2019
+[2021-07-12 17:36:37,268] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/main.css HTTP/1.1" 200 51284
+[2021-07-12 17:36:37,269] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/sweetalert.css HTTP/1.1" 200 22898
+[2021-07-12 17:36:37,270] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 200 105029
+[2021-07-12 17:36:37,275] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 200 84355
+[2021-07-12 17:36:37,275] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/ccajax.js HTTP/1.1" 200 2399
+[2021-07-12 17:36:37,277] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/message.js HTTP/1.1" 200 3347
+[2021-07-12 17:36:37,278] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/plugins.css HTTP/1.1" 200 197714
+[2021-07-12 17:36:37,280] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/sweetalert.min.js HTTP/1.1" 200 16999
+[2021-07-12 17:36:37,280] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 200 22081
+[2021-07-12 17:36:37,280] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/CmUser.js HTTP/1.1" 200 10561
+[2021-07-12 17:36:37,478] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/theme/default/layer.css?v=3.2.0 HTTP/1.1" 200 14367
+[2021-07-12 17:36:37,483] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 109
+[2021-07-12 17:36:37,492] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 17:36:37,677] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-07-12 17:36:37,678] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-07-12 17:36:39,341] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/logs/
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\pycharm_File\mandao\apps\mdauth\decrators.py", line 25, in decorator
+    return viewfunc(request,*args,**kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 107, in logs
+    with open(os.path.join(settings.BASE_DIR, 'logs')) as fp:
+PermissionError: [Errno 13] Permission denied: 'D:\\pycharm_File\\mandao\\logs'
+[2021-07-12 17:36:39,342] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/logs/ HTTP/1.1" 500 81426
+[2021-07-12 17:37:10,745] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:37:11,699] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:37:12,431] [views.py:25] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Ch-Ua': '" Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"', 'Sec-Ch-Ua-Mobile': '?0', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'userId=19310320117; userPW=15328362628wyh; saveMe=true; Token=WSRY3OWTOZWZf4VB5qKN0wP1dHgv9DfV7Y%2ByFsb2GT%2BbdxFmddJpXWswKZ9O%2BkVFZEdkeLaOgP2WUuVStoweyc%2BgrD7MXam0n2sAjCNYD2w96Hu6fLIoVFxTvovCgc99PnSmbgyBIR6iKm0zlGfmsEuFtXovLckFqbVfWQiSRc5eizfcWYD%2BIkJAkTVnGmKAY%2BWEw8O3QWx8Gr48gJ0eQsTFpF8xvLuW%2FFkzXXN0XqI1Bsxrr1V1WOGSdXN1jAon5Jgo5zqCr3zkmLbvrfjscGS1v3Aj7jdw3StDWZLqANohCx0a8FgI75iZBCp4RMxR4%2BA21MjACgc%2FOiBPPWrYAg48YSUWYenIDC6inBYhrM%2FkenytnjgRy0aTcDjD6mqbaV%2FF1owk4ECKHmiWrFHV58bfPEgXKqIxHPcObXymYOMIL8Z13QoAlPdvtIwxQiBvcpe4pPI3IE3BO24JDsds2W5%2B8JzuOP9LoGUr7l7aORlWDCO1yxsZUYp5I9g%2Fh1JHmIl52nVedHOsAldsm8czCR37ChC%2Fq11ohAscqEJjsMdMeqy7j%2B68eleufRse%2B2U9i5xccUIBlr4dB%2FHACX8YsNwqDEuYMCnx3%2B3406HCo%2ByJG0DBvF4xTjDgxuoofFgqVg3khsz2f3SiObI89fk3E4q%2BuXyqLwomvfF7q1BGVE8t9bOIb732DByeH1lOeg94V0JyV28N%2BJgygaXWivAvJqDvLXLeQn5W1qW71JnrIaxsgKZK2iKjioJWlWXjJCBJETa84IAB20W0qG914Oyzha9O6f0fQWgP3Ti87C3TPwEKd2mjH2vV9lO1KwVgAXwyEh9J6nGNJ8LrMo%2FIRYifIoNBiIZmFreiABqsllx92p3ouX111U1POMRqLbKW%2FDI2CHxPzKIS9Ol6r59l9ndeh9EkVX9ubRXISerWczeS3Uj9yxX%2BgJdR6IzK2l%2B%2FGkLY9ZjxQwsG2%2BRN4qVs%2B14AAqkOlQP5v3fCQMMPX8w7JLa4i6fI8X3Mdqh7Yd2kyv2I9rk6KcUPmebpKmR4P%2FzEqX4O5A3%2Fd6XYDx8X9ppBahmQbMOmUZrEzo3tS%2FfdRS6KehiyVlZ9fNVkTczxMAv4xgBC4pm44Q8wDNQUwXPidvZfsxYkGTKNPeEJf05ck4u6o1DAO%2B%2FG7hRsg18bVbybtjUmvS%2BtOAfz9gFCIIILkj8FnAWQy6oo9FwdQ%2BLE6Ao4HPRSWfSMs0M%3D; csrftoken=9fW84CPMMzz94lGT8MaGOAdaRuzeVK0RfXENZxXVF9szXAzheuqefjfvtoM4CxlQ; sessionid=twc3hpenvnwfgn2a1pk06f2jqmo15kn4'}；request_body:b'',
+[2021-07-12 17:37:12,444] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6398
+[2021-07-12 17:37:12,467] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/style/components.css HTTP/1.1" 200 9491
+[2021-07-12 17:37:12,470] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/main.css HTTP/1.1" 200 51284
+[2021-07-12 17:37:12,472] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themes.css HTTP/1.1" 200 2019
+[2021-07-12 17:37:12,473] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 200 105029
+[2021-07-12 17:37:12,476] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 200 22081
+[2021-07-12 17:37:12,477] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 200 84355
+[2021-07-12 17:37:12,477] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/plugins.css HTTP/1.1" 200 197714
+[2021-07-12 17:37:12,566] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/theme/default/layer.css?v=3.2.0 HTTP/1.1" 200 14367
+[2021-07-12 17:37:12,577] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.woff HTTP/1.1" 200 103
+[2021-07-12 17:37:12,577] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 109
+[2021-07-12 17:37:12,593] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 17:37:12,594] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2021-07-12 17:37:12,640] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7396
+[2021-07-12 17:37:12,658] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/style/components.css HTTP/1.1" 200 9491
+[2021-07-12 17:37:12,661] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themes.css HTTP/1.1" 200 2019
+[2021-07-12 17:37:12,662] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 200 105029
+[2021-07-12 17:37:12,663] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/main.css HTTP/1.1" 200 51284
+[2021-07-12 17:37:12,668] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/sweetalert.css HTTP/1.1" 200 22898
+[2021-07-12 17:37:12,669] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/ccajax.js HTTP/1.1" 200 2399
+[2021-07-12 17:37:12,674] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 200 84355
+[2021-07-12 17:37:12,676] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/message.js HTTP/1.1" 200 3347
+[2021-07-12 17:37:12,678] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/plugins.css HTTP/1.1" 200 197714
+[2021-07-12 17:37:12,678] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/sweetalert.min.js HTTP/1.1" 200 16999
+[2021-07-12 17:37:12,680] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 200 22081
+[2021-07-12 17:37:12,680] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/CmUser.js HTTP/1.1" 200 10561
+[2021-07-12 17:37:12,770] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/theme/default/layer.css?v=3.2.0 HTTP/1.1" 200 14367
+[2021-07-12 17:37:12,776] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 109
+[2021-07-12 17:37:12,787] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 17:37:12,966] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-07-12 17:37:12,966] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-07-12 17:37:13,678] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/ HTTP/1.1" 200 1669
+[2021-07-12 17:37:18,686] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/ HTTP/1.1" 200 1669
+[2021-07-12 17:37:19,188] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/ HTTP/1.1" 200 1669
+[2021-07-12 17:37:19,386] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/ HTTP/1.1" 200 1669
+[2021-07-12 17:37:32,801] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/ HTTP/1.1" 200 1690
+[2021-07-12 17:38:35,014] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:38:35,980] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:39:35,692] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:39:36,574] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:40:10,048] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:40:10,922] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:40:44,535] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:40:45,427] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:41:00,726] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:41:01,618] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:41:46,583] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-07-12 17:41:47,496] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:42:59,160] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\urls.py changed, reloading.
+[2021-07-12 17:43:00,074] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:43:01,802] [views.py:26] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Pragma': 'no-cache', 'Cache-Control': 'no-cache', 'Sec-Ch-Ua': '" Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"', 'Sec-Ch-Ua-Mobile': '?0', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'userId=19310320117; userPW=15328362628wyh; saveMe=true; Token=WSRY3OWTOZWZf4VB5qKN0wP1dHgv9DfV7Y%2ByFsb2GT%2BbdxFmddJpXWswKZ9O%2BkVFZEdkeLaOgP2WUuVStoweyc%2BgrD7MXam0n2sAjCNYD2w96Hu6fLIoVFxTvovCgc99PnSmbgyBIR6iKm0zlGfmsEuFtXovLckFqbVfWQiSRc5eizfcWYD%2BIkJAkTVnGmKAY%2BWEw8O3QWx8Gr48gJ0eQsTFpF8xvLuW%2FFkzXXN0XqI1Bsxrr1V1WOGSdXN1jAon5Jgo5zqCr3zkmLbvrfjscGS1v3Aj7jdw3StDWZLqANohCx0a8FgI75iZBCp4RMxR4%2BA21MjACgc%2FOiBPPWrYAg48YSUWYenIDC6inBYhrM%2FkenytnjgRy0aTcDjD6mqbaV%2FF1owk4ECKHmiWrFHV58bfPEgXKqIxHPcObXymYOMIL8Z13QoAlPdvtIwxQiBvcpe4pPI3IE3BO24JDsds2W5%2B8JzuOP9LoGUr7l7aORlWDCO1yxsZUYp5I9g%2Fh1JHmIl52nVedHOsAldsm8czCR37ChC%2Fq11ohAscqEJjsMdMeqy7j%2B68eleufRse%2B2U9i5xccUIBlr4dB%2FHACX8YsNwqDEuYMCnx3%2B3406HCo%2ByJG0DBvF4xTjDgxuoofFgqVg3khsz2f3SiObI89fk3E4q%2BuXyqLwomvfF7q1BGVE8t9bOIb732DByeH1lOeg94V0JyV28N%2BJgygaXWivAvJqDvLXLeQn5W1qW71JnrIaxsgKZK2iKjioJWlWXjJCBJETa84IAB20W0qG914Oyzha9O6f0fQWgP3Ti87C3TPwEKd2mjH2vV9lO1KwVgAXwyEh9J6nGNJ8LrMo%2FIRYifIoNBiIZmFreiABqsllx92p3ouX111U1POMRqLbKW%2FDI2CHxPzKIS9Ol6r59l9ndeh9EkVX9ubRXISerWczeS3Uj9yxX%2BgJdR6IzK2l%2B%2FGkLY9ZjxQwsG2%2BRN4qVs%2B14AAqkOlQP5v3fCQMMPX8w7JLa4i6fI8X3Mdqh7Yd2kyv2I9rk6KcUPmebpKmR4P%2FzEqX4O5A3%2Fd6XYDx8X9ppBahmQbMOmUZrEzo3tS%2FfdRS6KehiyVlZ9fNVkTczxMAv4xgBC4pm44Q8wDNQUwXPidvZfsxYkGTKNPeEJf05ck4u6o1DAO%2B%2FG7hRsg18bVbybtjUmvS%2BtOAfz9gFCIIILkj8FnAWQy6oo9FwdQ%2BLE6Ao4HPRSWfSMs0M%3D; csrftoken=9fW84CPMMzz94lGT8MaGOAdaRuzeVK0RfXENZxXVF9szXAzheuqefjfvtoM4CxlQ; sessionid=twc3hpenvnwfgn2a1pk06f2jqmo15kn4'}；request_body:b'',
+[2021-07-12 17:43:01,816] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6398
+[2021-07-12 17:43:01,844] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/style/components.css HTTP/1.1" 200 9491
+[2021-07-12 17:43:01,852] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themes.css HTTP/1.1" 200 2019
+[2021-07-12 17:43:01,853] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/main.css HTTP/1.1" 200 51284
+[2021-07-12 17:43:01,854] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 200 22081
+[2021-07-12 17:43:01,856] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 200 105029
+[2021-07-12 17:43:01,858] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 200 84355
+[2021-07-12 17:43:01,860] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/plugins.css HTTP/1.1" 200 197714
+[2021-07-12 17:43:01,993] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/theme/default/layer.css?v=3.2.0 HTTP/1.1" 200 14367
+[2021-07-12 17:43:02,001] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.woff HTTP/1.1" 200 103
+[2021-07-12 17:43:02,003] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 109
+[2021-07-12 17:43:02,015] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 17:43:02,015] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2021-07-12 17:43:02,063] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7396
+[2021-07-12 17:43:02,083] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/style/components.css HTTP/1.1" 200 9491
+[2021-07-12 17:43:02,084] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themes.css HTTP/1.1" 200 2019
+[2021-07-12 17:43:02,088] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/main.css HTTP/1.1" 200 51284
+[2021-07-12 17:43:02,091] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 200 105029
+[2021-07-12 17:43:02,091] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/message.js HTTP/1.1" 200 3347
+[2021-07-12 17:43:02,093] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/sweetalert.css HTTP/1.1" 200 22898
+[2021-07-12 17:43:02,091] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/ccajax.js HTTP/1.1" 200 2399
+[2021-07-12 17:43:02,094] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 200 22081
+[2021-07-12 17:43:02,095] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/plugins.css HTTP/1.1" 200 197714
+[2021-07-12 17:43:02,099] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 200 84355
+[2021-07-12 17:43:02,100] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/sweetalert.min.js HTTP/1.1" 200 16999
+[2021-07-12 17:43:02,101] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/CmUser.js HTTP/1.1" 200 10561
+[2021-07-12 17:43:02,180] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/theme/default/layer.css?v=3.2.0 HTTP/1.1" 200 14367
+[2021-07-12 17:43:02,188] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 109
+[2021-07-12 17:43:02,195] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 17:43:02,316] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-07-12 17:43:02,317] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-07-12 17:43:04,085] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/ HTTP/1.1" 200 1804
+[2021-07-12 17:43:05,338] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/download_logs/info-2021-07-12.log
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: download_logs() got an unexpected keyword argument 'filname'
+[2021-07-12 17:43:05,339] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /cms/download_logs/info-2021-07-12.log HTTP/1.1" 500 73702
+[2021-07-12 17:43:20,779] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\urls.py changed, reloading.
+[2021-07-12 17:43:21,733] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:43:22,708] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/ HTTP/1.1" 200 1804
+[2021-07-12 17:43:24,028] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/download_logs/info-2021-07-12.log HTTP/1.1" 200 17571
+[2021-07-12 17:52:23,170] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-07-12 17:52:24,821] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 10177
+[2021-07-12 17:52:24,891] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/images/blog/5.jpg HTTP/1.1" 404 1810
+[2021-07-12 17:52:25,004] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-07-12 17:52:25,019] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/favicon.png HTTP/1.1" 404 1804
+[2021-07-12 17:52:29,000] [views.py:26] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Purpose': 'prefetch', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Sec-Ch-Ua': '" Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'userId=19310320117; userPW=15328362628wyh; saveMe=true; Token=WSRY3OWTOZWZf4VB5qKN0wP1dHgv9DfV7Y%2ByFsb2GT%2BbdxFmddJpXWswKZ9O%2BkVFZEdkeLaOgP2WUuVStoweyc%2BgrD7MXam0n2sAjCNYD2w96Hu6fLIoVFxTvovCgc99PnSmbgyBIR6iKm0zlGfmsEuFtXovLckFqbVfWQiSRc5eizfcWYD%2BIkJAkTVnGmKAY%2BWEw8O3QWx8Gr48gJ0eQsTFpF8xvLuW%2FFkzXXN0XqI1Bsxrr1V1WOGSdXN1jAon5Jgo5zqCr3zkmLbvrfjscGS1v3Aj7jdw3StDWZLqANohCx0a8FgI75iZBCp4RMxR4%2BA21MjACgc%2FOiBPPWrYAg48YSUWYenIDC6inBYhrM%2FkenytnjgRy0aTcDjD6mqbaV%2FF1owk4ECKHmiWrFHV58bfPEgXKqIxHPcObXymYOMIL8Z13QoAlPdvtIwxQiBvcpe4pPI3IE3BO24JDsds2W5%2B8JzuOP9LoGUr7l7aORlWDCO1yxsZUYp5I9g%2Fh1JHmIl52nVedHOsAldsm8czCR37ChC%2Fq11ohAscqEJjsMdMeqy7j%2B68eleufRse%2B2U9i5xccUIBlr4dB%2FHACX8YsNwqDEuYMCnx3%2B3406HCo%2ByJG0DBvF4xTjDgxuoofFgqVg3khsz2f3SiObI89fk3E4q%2BuXyqLwomvfF7q1BGVE8t9bOIb732DByeH1lOeg94V0JyV28N%2BJgygaXWivAvJqDvLXLeQn5W1qW71JnrIaxsgKZK2iKjioJWlWXjJCBJETa84IAB20W0qG914Oyzha9O6f0fQWgP3Ti87C3TPwEKd2mjH2vV9lO1KwVgAXwyEh9J6nGNJ8LrMo%2FIRYifIoNBiIZmFreiABqsllx92p3ouX111U1POMRqLbKW%2FDI2CHxPzKIS9Ol6r59l9ndeh9EkVX9ubRXISerWczeS3Uj9yxX%2BgJdR6IzK2l%2B%2FGkLY9ZjxQwsG2%2BRN4qVs%2B14AAqkOlQP5v3fCQMMPX8w7JLa4i6fI8X3Mdqh7Yd2kyv2I9rk6KcUPmebpKmR4P%2FzEqX4O5A3%2Fd6XYDx8X9ppBahmQbMOmUZrEzo3tS%2FfdRS6KehiyVlZ9fNVkTczxMAv4xgBC4pm44Q8wDNQUwXPidvZfsxYkGTKNPeEJf05ck4u6o1DAO%2B%2FG7hRsg18bVbybtjUmvS%2BtOAfz9gFCIIILkj8FnAWQy6oo9FwdQ%2BLE6Ao4HPRSWfSMs0M%3D; csrftoken=9fW84CPMMzz94lGT8MaGOAdaRuzeVK0RfXENZxXVF9szXAzheuqefjfvtoM4CxlQ; sessionid=twc3hpenvnwfgn2a1pk06f2jqmo15kn4'}；request_body:b'',
+[2021-07-12 17:52:29,006] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6398
+[2021-07-12 17:52:29,587] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2021-07-12 17:52:29,588] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 17:52:29,615] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7396
+[2021-07-12 17:52:29,655] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 17:52:32,994] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/creat_admin/ HTTP/1.1" 200 3333
+[2021-07-12 17:52:33,039] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 18:15:56,032] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 200 2519
+[2021-07-12 18:15:56,812] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-07-12 18:15:56,812] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-07-12 18:16:00,365] [views.py:26] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Purpose': 'prefetch', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Sec-Ch-Ua': '" Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"', 'Sec-Ch-Ua-Mobile': '?0', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'userId=19310320117; userPW=15328362628wyh; saveMe=true; Token=WSRY3OWTOZWZf4VB5qKN0wP1dHgv9DfV7Y%2ByFsb2GT%2BbdxFmddJpXWswKZ9O%2BkVFZEdkeLaOgP2WUuVStoweyc%2BgrD7MXam0n2sAjCNYD2w96Hu6fLIoVFxTvovCgc99PnSmbgyBIR6iKm0zlGfmsEuFtXovLckFqbVfWQiSRc5eizfcWYD%2BIkJAkTVnGmKAY%2BWEw8O3QWx8Gr48gJ0eQsTFpF8xvLuW%2FFkzXXN0XqI1Bsxrr1V1WOGSdXN1jAon5Jgo5zqCr3zkmLbvrfjscGS1v3Aj7jdw3StDWZLqANohCx0a8FgI75iZBCp4RMxR4%2BA21MjACgc%2FOiBPPWrYAg48YSUWYenIDC6inBYhrM%2FkenytnjgRy0aTcDjD6mqbaV%2FF1owk4ECKHmiWrFHV58bfPEgXKqIxHPcObXymYOMIL8Z13QoAlPdvtIwxQiBvcpe4pPI3IE3BO24JDsds2W5%2B8JzuOP9LoGUr7l7aORlWDCO1yxsZUYp5I9g%2Fh1JHmIl52nVedHOsAldsm8czCR37ChC%2Fq11ohAscqEJjsMdMeqy7j%2B68eleufRse%2B2U9i5xccUIBlr4dB%2FHACX8YsNwqDEuYMCnx3%2B3406HCo%2ByJG0DBvF4xTjDgxuoofFgqVg3khsz2f3SiObI89fk3E4q%2BuXyqLwomvfF7q1BGVE8t9bOIb732DByeH1lOeg94V0JyV28N%2BJgygaXWivAvJqDvLXLeQn5W1qW71JnrIaxsgKZK2iKjioJWlWXjJCBJETa84IAB20W0qG914Oyzha9O6f0fQWgP3Ti87C3TPwEKd2mjH2vV9lO1KwVgAXwyEh9J6nGNJ8LrMo%2FIRYifIoNBiIZmFreiABqsllx92p3ouX111U1POMRqLbKW%2FDI2CHxPzKIS9Ol6r59l9ndeh9EkVX9ubRXISerWczeS3Uj9yxX%2BgJdR6IzK2l%2B%2FGkLY9ZjxQwsG2%2BRN4qVs%2B14AAqkOlQP5v3fCQMMPX8w7JLa4i6fI8X3Mdqh7Yd2kyv2I9rk6KcUPmebpKmR4P%2FzEqX4O5A3%2Fd6XYDx8X9ppBahmQbMOmUZrEzo3tS%2FfdRS6KehiyVlZ9fNVkTczxMAv4xgBC4pm44Q8wDNQUwXPidvZfsxYkGTKNPeEJf05ck4u6o1DAO%2B%2FG7hRsg18bVbybtjUmvS%2BtOAfz9gFCIIILkj8FnAWQy6oo9FwdQ%2BLE6Ao4HPRSWfSMs0M%3D; csrftoken=9fW84CPMMzz94lGT8MaGOAdaRuzeVK0RfXENZxXVF9szXAzheuqefjfvtoM4CxlQ; sessionid=twc3hpenvnwfgn2a1pk06f2jqmo15kn4'}；request_body:b'',
+[2021-07-12 18:16:00,369] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6398
+[2021-07-12 18:16:00,830] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7396
+[2021-07-12 18:16:00,857] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2021-07-12 18:16:00,859] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 18:16:03,980] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 7164
+[2021-07-12 18:16:04,028] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 18:16:08,378] [views.py:96] [views:post] [INFO]- 请求成功！ 用户:17628508386将17628508386的账户密码！将17628508386:pbkdf2_sha1$260000$a$X0+JfPLhXAzOKcXaEuAGIoKznD8=修改为17628508386:222222
+[2021-07-12 18:16:08,383] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /cms/user/ HTTP/1.1" 200 42
+[2021-07-12 18:16:09,357] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /cms/send_sms/ HTTP/1.1" 200 42
+[2021-07-12 18:16:09,371] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 7164
+[2021-07-12 18:16:09,412] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-07-12 18:16:10,777] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/ HTTP/1.1" 200 1804
+[2021-07-12 18:16:15,319] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/download_logs/info-2021-07-12.log HTTP/1.1" 200 22605

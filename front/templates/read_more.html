@@ -1,0 +1,96 @@
+{% extends 'base_index.html' %}
+{% block content %}
+
+
+   <!-- Post -->
+   <div class="adco-section-padding mb-90">
+    <div class="container-fluid">
+     <div class="row">
+      <div class="col-md-12">
+       <span class="heading-meta style-1">Blog</span>
+       <h2 class="adco-post-heading animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">{{ news.title }}</h2>
+      </div>
+     </div>
+     <div class="row">
+      <div class="col-md-12 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+       <img src="{{ news.thumbnail }}" class="img-fluid mb-30" alt="" />
+      </div>
+     </div>
+     <div class="row">
+      <div class="col-md-12 mb-60 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+       <p>{{ news.content }}</p>
+        </div>
+     </div>
+            <hr />
+          <h2>评论区</h2>
+    <div class="comment">
+        <ul class="comment-list">
+                        {% for comment in news.comments.all %}
+                            <li>
+                                <div class="comment-info">
+                                    <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1528129845916&di=536993042d5223862f8c4ab157ba6e72&imgtype=0&src=http%3A%2F%2Fpic1.ipadown.com%2Fimgs%2F201206120933354195.jpg" alt="" class="avatar">
+                                    <span class="author">{{ comment.author.username }}</span>
+                                    <span class="pub-time">{{ comment.pub_time }}</span>
+                                </div>
+                                <p class="comment-content">{{ comment.content }}</p>
+                            </li>
+                        {% endfor %}
+                    </ul>
+            <hr />
+    </div>
+     <div class="row">
+      <!-- Comment -->
+      <div class="col-md-6 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+       <div class="adco-post-comment-wrap">
+
+        <div class="adco-user-content">
+         <h3>{{ news.author.username }}</h3>
+         <p><span>{{ news.time }}</span></p>
+         <p>{{ news.desc }}</p>
+         <a href="#">Reply<i class="ti-back-left"></i></a>
+        </div>
+       </div>
+      </div>
+
+      <!-- Contact Form -->
+
+      <div class="col-md-5 animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">
+       <div class="adco-details-block">
+        <h3 class="adco-details-title">评论</h3>
+       </div>
+       <div class="adco-contact-form row">
+           {% csrf_token %}
+        <div class="col-sm-12">
+         <div class="ee-form-component">
+          <textarea data-newsid="{{ news.id }}" name="message" id="message" cols="40" rows="4" class="ee-input" placeholder="评论 *" required=""></textarea>
+         </div>
+        </div>
+        <div class="col-sm-12">
+         <button class="comment-btn" >评论!</button>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+
+
+{% endblock %}
+{% block script %}
+    <script src="{% static 'js/ccajax.js' %}"></script>
+    <script src="{% static 'js/message.js' %}"></script>
+    <script src="{% static 'js/template-web.js' %}"></script>
+    <script src="{% static 'js/comment.js' %}"></script>
+<script id="comment-item" type="text/html">
+{% verbatim %}
+<li>
+    <div class="comment-info">
+        <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1528129845916&di=536993042d5223862f8c4ab157ba6e72&imgtype=0&src=http%3A%2F%2Fpic1.ipadown.com%2Fimgs%2F201206120933354195.jpg" alt="" class="avatar">
+        <span class="author">{{ comment.author.username }}</span>
+        <span class="pub-time">{{ comment.pub_time }}</span>
+    </div>
+    <p class="comment-content">{{ comment.content }}</p>
+</li>
+{% endverbatim %}
+</script>
+{% endblock %}

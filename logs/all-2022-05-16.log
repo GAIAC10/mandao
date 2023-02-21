@@ -1,0 +1,73 @@
+[2022-05-16 19:41:17,009] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-05-16 19:41:29,794] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 6077
+[2022-05-16 19:41:30,129] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2022-05-16 19:41:30,594] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/favicon.png HTTP/1.1" 404 1804
+[2022-05-16 19:43:56,418] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js.map HTTP/1.1" 404 1828
+[2022-05-16 19:43:56,425] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 6077
+[2022-05-16 19:43:56,779] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js.map HTTP/1.1" 404 1828
+[2022-05-16 19:43:56,788] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2022-05-16 19:44:02,678] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 6077
+[2022-05-16 19:44:02,958] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2022-05-16 19:44:03,011] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js.map HTTP/1.1" 404 1828
+[2022-05-16 19:44:14,394] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 6077
+[2022-05-16 19:44:14,780] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2022-05-16 19:44:14,780] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js.map HTTP/1.1" 404 1828
+[2022-05-16 19:53:54,376] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-05-16 19:53:57,009] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 3185
+[2022-05-16 19:53:57,231] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2022-05-16 19:55:42,761] [views.py:32] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '" Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7,en-US;q=0.6', 'Cookie': 'csrftoken=G22H6duY2gDYdHekegt2iaOYyurVwJlSHQ5K8eUSvaIV83CWC9GRh0lDKYdWxXo5; sessionid=4tt9hca7xdwc2e6l7dj8ij2yseky1bk5'}；request_body:b'',
+[2022-05-16 19:55:42,767] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 7229
+[2022-05-16 19:55:42,988] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2022-05-16 19:55:43,035] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 4672
+[2022-05-16 19:55:43,576] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/ccajax.js HTTP/1.1" 200 2399
+[2022-05-16 19:55:43,579] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/message.js HTTP/1.1" 200 3347
+[2022-05-16 19:55:43,889] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-16 19:55:43,919] [log.py:224] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2022-05-16 19:55:43,920] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2770
+[2022-05-16 19:57:35,840] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 3185
+[2022-05-16 19:57:36,027] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2022-05-16 19:57:44,426] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\1\mandao\apps\mdmain\views.py changed, reloading.
+[2022-05-16 19:57:45,713] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-05-16 19:57:46,163] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 6077
+[2022-05-16 19:57:46,361] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2022-05-16 19:57:53,210] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 6077
+[2022-05-16 19:57:53,445] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2022-05-16 20:10:43,407] [log.py:224] [log:log_response] [WARNING]- Not Found: /admain/upload
+[2022-05-16 20:10:43,407] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /admain/upload HTTP/1.1" 404 2776
+[2022-05-16 20:11:10,350] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /mdmain/upload HTTP/1.1" 301 0
+[2022-05-16 20:11:10,490] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /mdmain/upload/
+Traceback (most recent call last):
+  File "F:\envs\djangos\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "F:\envs\djangos\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\Project_Python\1\mandao\apps\mdmain\views.py", line 58, in upload
+    with open(os.path.join(settings.MEDIA_ROOT,file.name), 'wb') as f:
+AttributeError: 'NoneType' object has no attribute 'name'
+[2022-05-16 20:11:10,491] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /mdmain/upload/ HTTP/1.1" 500 70531
+[2022-05-16 20:13:10,362] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\1\mandao\apps\cms\models.py changed, reloading.
+[2022-05-16 20:13:11,651] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-05-16 20:13:52,064] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\1\mandao\apps\mdmain\views.py changed, reloading.
+[2022-05-16 20:13:53,597] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-05-16 20:13:54,123] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /mdmain/upload/
+Traceback (most recent call last):
+  File "F:\envs\djangos\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "F:\envs\djangos\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\Project_Python\1\mandao\apps\mdmain\views.py", line 58, in upload
+    with open(os.path.join(settings.MEDIA_ROOT,file.name), 'wb') as f:
+AttributeError: 'NoneType' object has no attribute 'name'
+[2022-05-16 20:13:54,124] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /mdmain/upload/ HTTP/1.1" 500 70668
+[2022-05-16 20:13:55,716] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 5621
+[2022-05-16 20:13:55,955] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/contact.js HTTP/1.1" 200 1099
+[2022-05-16 20:13:56,120] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2022-05-16 20:14:43,860] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /mdmain/contact/ HTTP/1.1" 200 42
+[2022-05-16 20:16:13,540] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\1\mandao\apps\mdmain\views.py changed, reloading.
+[2022-05-16 20:16:14,914] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-05-16 20:16:54,550] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\1\mandao\apps\mdmain\forms.py changed, reloading.
+[2022-05-16 20:16:55,930] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-05-16 20:26:51,874] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\1\mandao\apps\mdmain\views.py changed, reloading.
+[2022-05-16 20:26:53,543] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-05-16 20:28:53,446] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\1\mandao\apps\mdmain\views.py changed, reloading.
+[2022-05-16 20:28:54,788] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader

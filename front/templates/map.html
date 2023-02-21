@@ -1,0 +1,15 @@
+{% extends 'map_index.html' %}
+{% block script %}
+<script src="http://webapi.amap.com/maps?v=1.4.0&key=28c1398621fce6c09a012e205fead809&callback=init"></script>
+<script>
+
+</script>
+<script type="text/javascript">
+    window.init = function(){
+        var map = new AMap.Map('container', {
+           center:[117.000923,36.675807],
+           zoom:15,
+        });
+    }
+</script>
+    {% endblock %}

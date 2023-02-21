@@ -1,0 +1,28 @@
+[2021-09-01 08:28:09,807] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-01 08:28:14,183] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x99ÑúQeJÛÅ=\x9a¶]¤P\x9aYn\x0e/\x97<o\x13\x1c\x84=Ù¤\\\x81o± rÃíNÜ¤Û°×ÝÔÍ¯\x9bSÈÍ\x07ñ\x9fã+·\x04xþh\x9e#UàÄ\x00 úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93jj\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-09-01 08:28:14,183] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-01 08:28:14,185] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03½¢W°ª!X\x0f{r\x1f±ð\x01C\x83\x1b\x04*½Fj\x08\x9ah\x9c2Ê\x9bY)Ë ùÓ\x1f«1ÞÕÿ\x86$\x08å\x0fÊÖ¬:t\x83\x89\x9bØ5ï\x94Úø½ç¯\x90M\x00 ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93JJ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-09-01 08:28:14,185] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-01 08:28:33,103] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x032\r£7[p\x0f\x84é\\¹6¿R®hCa£÷\x0f\x13¸Þ\x19Q6\x11nµÙ\x9e s°p\x0cÓ&\x85\x17\x13¸M\x86\x047WÎâ®¸³ü\x19*\x93!u\x7f\x15áP/\x02\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x9a\x9a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-09-01 08:28:33,104] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-01 08:28:33,105] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03o\x0bk\x1c/qÏAÝ6>(ú\x1d)®I°LE;¾äâ\x1f\x1a\té\x0e¼\x83Ã /¿ðÄx¼\x81eno·\x93¤ô\râ·ñxW09\rËre»bõ\x85w`\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93úú\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-09-01 08:28:33,105] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-09-01 08:28:51,902] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 10578
+[2021-09-01 08:28:52,074] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/images/blog/5.jpg HTTP/1.1" 404 1810
+[2021-09-01 08:28:52,096] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-09-01 08:28:52,126] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/favicon.png HTTP/1.1" 404 1804
+[2021-09-01 08:28:59,516] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /mdmain/detail/1/ HTTP/1.1" 200 19183
+[2021-09-01 08:28:59,603] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-09-01 08:29:31,895] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/js/bootstrap.min.js.map HTTP/1.1" 404 1828
+[2021-09-01 08:33:37,196] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 200 2421
+[2021-09-01 08:33:38,076] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-09-01 08:33:38,076] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-09-01 10:29:35,614] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-01 10:29:42,603] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 10578
+[2021-09-01 10:29:42,680] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/images/blog/5.jpg HTTP/1.1" 404 1810
+[2021-09-01 10:29:42,800] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-09-01 10:29:42,830] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/favicon.png HTTP/1.1" 404 1804

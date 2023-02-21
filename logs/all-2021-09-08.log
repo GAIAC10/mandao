@@ -1,0 +1,189 @@
+[2021-09-08 19:51:21,085] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-08 19:51:30,696] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 13226
+[2021-09-08 19:51:30,723] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/et-lineicons.css HTTP/1.1" 304 0
+[2021-09-08 19:51:30,724] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/animate.css HTTP/1.1" 304 0
+[2021-09-08 19:51:30,725] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themify-icons.css HTTP/1.1" 304 0
+[2021-09-08 19:51:30,726] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/magnific-popup.css HTTP/1.1" 304 0
+[2021-09-08 19:51:30,728] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/style.css HTTP/1.1" 304 0
+[2021-09-08 19:51:30,729] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+[2021-09-08 19:51:30,736] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+[2021-09-08 19:51:30,736] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 304 0
+[2021-09-08 19:51:30,737] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/modernizr-2.6.2.min.js HTTP/1.1" 304 0
+[2021-09-08 19:51:30,737] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jq.js HTTP/1.1" 304 0
+[2021-09-08 19:51:30,738] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 304 0
+[2021-09-08 19:51:30,738] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 304 0
+[2021-09-08 19:51:30,741] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 304 0
+[2021-09-08 19:51:30,742] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 304 0
+[2021-09-08 19:51:30,749] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 304 0
+[2021-09-08 19:51:30,749] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/main.js HTTP/1.1" 304 0
+[2021-09-08 19:51:30,750] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/logo.png HTTP/1.1" 304 0
+[2021-09-08 19:51:30,750] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 304 0
+[2021-09-08 19:51:30,750] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/slider/1.jpg HTTP/1.1" 304 0
+[2021-09-08 19:51:30,756] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/logo-light.png HTTP/1.1" 304 0
+[2021-09-08 19:51:30,769] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /media/timgJZZU1D7L.jpg HTTP/1.1" 200 69199
+[2021-09-08 19:51:30,777] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /media/QQ%E5%9B%BE%E7%89%8720191118222249.jpg HTTP/1.1" 200 79058
+[2021-09-08 19:51:30,783] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /media/timg.jpg HTTP/1.1" 200 62642
+[2021-09-08 19:51:30,822] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/images/blog/5.jpg HTTP/1.1" 404 1810
+[2021-09-08 19:51:30,839] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/fonts/themify.woff HTTP/1.1" 304 0
+[2021-09-08 19:51:30,895] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-09-08 19:51:30,907] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/favicon.png HTTP/1.1" 404 1804
+[2021-09-08 19:51:37,102] [log.py:230] [log:log_response] [WARNING]- Not Found: /xma
+[2021-09-08 19:51:37,102] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /xma HTTP/1.1" 404 2747
+[2021-09-08 19:51:37,144] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-09-08 19:51:37,144] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-09-08 19:51:41,898] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217; userId=19310320117; userPW=15328362628wyh; saveMe=true; Token=WSRY3OWTOZWZf4VB5qKN082h04l%2FEhfCgs9LJsg7JXwfOUCpKaJMqiP4EXfrjioVj%2BpsKylxcE5vPJTuXabfQw8mCf8Ys%2FJaVXsWQqUToV6o77%2FVjQJeSY%2Bdzz9Nee7cU6rrha1Sf93OPy8h5aJHyrJ6%2BXaG3XLh%2Fbrol1YcCAWI7tysUg4EtgOHBi9N%2Bib8wykkPzWQEsVK4VzGE6X3AF578wIo43OTvDV6FtnwKuHcQ7liaZDMD1xTmG3mVFLGbal8ujsgd9eRyWYhQaNd%2FTogxsC%2FubUkaxCKtLeYmIEXhwg59A1%2FUZH6UFD6ss3sqFweGGnIrn3AlIpK3E27xOL%2F37nAwyeSJmkFtLrlSQdr04QBHtqtt6iTilAPFLdspXb7eXHX1mbliGRg%2BY9lHd0GyBEknjTfm0P9VWRoTioYijHfzK1w%2FnGokzWDb87dwiSmfNzN%2FtSLesMXM3Y1DFuwsXP%2BXjsIGFw5337QwZtbMS9SoELnHKyeHyuGBPNo5XMS3zhCH5ozvP2Wmj85KHp0e3Up%2FNutEZL6S2LuhpSuDG1zd0DvEG2w8yN87BMHIaJrNHisvESUzTGeO4YIn7W0zlQeRjdrkArkDubRtFFxBqtAG9%2Fdskwf5FoZHkyVcGiZqoH0VnCD6eGdbttEu4XuyUzkhiFfXAhJseMXu%2BmPc7JlYVc7%2F3Oa2aVa%2FHAnKt6xYcDHd%2FlHvC0xIJw%2FygIufJHlHaoIsmpnETF0UBiag0yJe5%2Fsaw03E9%2BiaWI4AXQqeqNIm823ni4czicXxQDdcR%2FPeO%2F6tikLMJPQ4705gJFGvi5hqjV7LIzOv5fmY%2FMys47uo%2FaOrL1F78pP12pp5qrITV5Qpg30yKiOjNuF2u0ttT%2Fp3l16CuiKai5IyYxzhfoyssysfnSOa4SVISvbIba6i6be90WxqlHp2GjX1c7ruoTGrmOiuMwPmGrbTPGq%2Bsu%2FDE8XzA3q8bhNCGWbaRI0%2FgoikFiQbu1VnNv4rCUvw4JzIzd2AZ99OOardjr6PZ3Jv2Vq%2B80yAsfa4ZVC999ivfE3RJ51GE09Ryu5UygsCbXCzwkEaaxqk%2F%2BT6lsF8mTigHRUxSzln2WsglZD68a5j3dWZyytNeI3mLEa%2Bzofj0NhYcYB5Ki7%2FE3zJrHF7B%2BZqT4Yw9Nb48itwpInL8FLDBQKL0QujtLbCaCekkj60YkN0ol%2BtHvVKzDMqyO0WboXMpU%3D'}；request_body:b'',
+[2021-09-08 19:51:41,939] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6627
+[2021-09-08 19:51:41,964] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 304 0
+[2021-09-08 19:51:41,964] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/main.css HTTP/1.1" 304 0
+[2021-09-08 19:51:41,965] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/style/components.css HTTP/1.1" 304 0
+[2021-09-08 19:51:41,966] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themes.css HTTP/1.1" 304 0
+[2021-09-08 19:51:41,967] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/plugins.css HTTP/1.1" 304 0
+[2021-09-08 19:51:41,968] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 304 0
+[2021-09-08 19:51:41,968] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 304 0
+[2021-09-08 19:51:41,987] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/theme/default/layer.css?v=3.2.0 HTTP/1.1" 304 0
+[2021-09-08 19:51:42,014] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 304 0
+[2021-09-08 19:51:42,014] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.woff HTTP/1.1" 304 0
+[2021-09-08 19:51:42,027] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-08 19:51:42,028] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2021-09-08 19:51:42,708] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7207
+[2021-09-08 19:51:42,721] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/CmUser.js HTTP/1.1" 304 0
+[2021-09-08 19:51:42,721] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/ccajax.js HTTP/1.1" 304 0
+[2021-09-08 19:51:42,721] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/sweetalert.min.js HTTP/1.1" 304 0
+[2021-09-08 19:51:42,721] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/sweetalert.css HTTP/1.1" 304 0
+[2021-09-08 19:51:42,721] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/message.js HTTP/1.1" 304 0
+[2021-09-08 19:51:42,777] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-08 19:51:45,454] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/administrators/ HTTP/1.1" 200 9146
+[2021-09-08 19:51:45,504] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-08 19:51:46,316] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/creat_admin/ HTTP/1.1" 200 3333
+[2021-09-08 19:51:46,364] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-08 19:52:24,058] [views.py:307] [views:post] [INFO]- 用户17628508386修改了一位职员的权限88888888888，修改为None
+[2021-09-08 19:52:24,059] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /cms/creat_admin/ HTTP/1.1" 200 42
+[2021-09-08 19:55:52,626] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-08 19:55:53,993] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-08 19:55:56,711] [views.py:307] [views:post] [INFO]- 用户17628508386修改了一位职员的权限88888888888，修改为auth.Group.None
+[2021-09-08 19:55:56,712] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /cms/creat_admin/ HTTP/1.1" 200 42
+[2021-09-08 19:56:05,417] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-08 19:56:06,500] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-08 19:56:08,933] [views.py:307] [views:post] [INFO]- 用户17628508386修改了一位职员的权限88888888888，修改为<QuerySet [<Group: 管理员>]>
+[2021-09-08 19:56:08,934] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /cms/creat_admin/ HTTP/1.1" 200 42
+[2021-09-08 19:56:30,282] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-08 19:56:31,574] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-08 19:59:54,529] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-08 19:59:55,502] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-08 20:00:05,628] [log.py:230] [log:log_response] [ERROR]- Internal Server Error: /cms/creat_admin/
+Traceback (most recent call last):
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 307, in post
+    logger.info("用户{}修改了一位职员的权限{}，修改为{}".format(request.user, user.telephone,user.groups.all().name))
+AttributeError: 'QuerySet' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\Envs\mandao\lib\site-packages\django\db\backends\mysql\base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "D:\Envs\mandao\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "D:\Envs\mandao\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "D:\Envs\mandao\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.IntegrityError: (1062, "Duplicate entry '88888888888' for key 'mdauth_user.telephone'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\Envs\mandao\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\pycharm_File\mandao\apps\cms\views.py", line 310, in post
+    user = User.objects.create(username=username,telephone=telephone,password=password)
+  File "D:\Envs\mandao\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\db\models\query.py", line 453, in create
+    obj.save(force_insert=True, using=self.db)
+  File "D:\Envs\mandao\lib\site-packages\django\contrib\auth\base_user.py", line 67, in save
+    super().save(*args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\db\models\base.py", line 727, in save
+    force_update=force_update, update_fields=update_fields)
+  File "D:\Envs\mandao\lib\site-packages\django\db\models\base.py", line 765, in save_base
+    force_update, using, update_fields,
+  File "D:\Envs\mandao\lib\site-packages\django\db\models\base.py", line 868, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "D:\Envs\mandao\lib\site-packages\django\db\models\base.py", line 908, in _do_insert
+    using=using, raw=raw,
+  File "D:\Envs\mandao\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\Envs\mandao\lib\site-packages\django\db\models\query.py", line 1270, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "D:\Envs\mandao\lib\site-packages\django\db\models\sql\compiler.py", line 1416, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\Envs\mandao\lib\site-packages\django\db\backends\utils.py", line 98, in execute
+    return super().execute(sql, params)
+  File "D:\Envs\mandao\lib\site-packages\django\db\backends\utils.py", line 66, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "D:\Envs\mandao\lib\site-packages\django\db\backends\utils.py", line 75, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\Envs\mandao\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\Envs\mandao\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\Envs\mandao\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\Envs\mandao\lib\site-packages\django\db\backends\mysql\base.py", line 73, in execute
+    return self.cursor.execute(query, args)
+  File "D:\Envs\mandao\lib\site-packages\MySQLdb\cursors.py", line 206, in execute
+    res = self._query(query)
+  File "D:\Envs\mandao\lib\site-packages\MySQLdb\cursors.py", line 319, in _query
+    db.query(q)
+  File "D:\Envs\mandao\lib\site-packages\MySQLdb\connections.py", line 259, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry '88888888888' for key 'mdauth_user.telephone'")
+[2021-09-08 20:00:05,634] [basehttp.py:161] [basehttp:log_message] [ERROR]- "POST /cms/creat_admin/ HTTP/1.1" 500 225149
+[2021-09-08 20:00:24,854] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-08 20:00:25,899] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-08 20:00:27,996] [views.py:307] [views:post] [INFO]- 用户17628508386修改了一位职员的权限88888888888，修改为管理员
+[2021-09-08 20:00:27,997] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /cms/creat_admin/ HTTP/1.1" 200 42
+[2021-09-08 20:00:52,781] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\apps\cms\views.py changed, reloading.
+[2021-09-08 20:00:53,771] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-09-08 20:00:56,148] [views.py:307] [views:post] [INFO]- 用户17628508386修改了一位职员的权限88888888888，修改为管理员
+[2021-09-08 20:00:56,150] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /cms/creat_admin/ HTTP/1.1" 200 42
+[2021-09-08 20:01:15,032] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/creat_admin/ HTTP/1.1" 200 3333
+[2021-09-08 20:01:15,094] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-08 20:01:29,243] [views.py:307] [views:post] [INFO]- 用户17628508386修改了一位职员的权限88888888888，修改为管理员
+[2021-09-08 20:01:29,243] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /cms/creat_admin/ HTTP/1.1" 200 42
+[2021-09-08 20:01:36,414] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/persons/ HTTP/1.1" 200 4240
+[2021-09-08 20:01:36,478] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-08 20:01:46,068] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 8164
+[2021-09-08 20:01:46,117] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-08 20:01:52,095] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/ HTTP/1.1" 200 4594
+[2021-09-08 20:02:05,516] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/message/ HTTP/1.1" 200 6452
+[2021-09-08 20:02:05,562] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-08 20:04:06,386] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 13226
+[2021-09-08 20:04:06,444] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/images/blog/5.jpg HTTP/1.1" 404 1810
+[2021-09-08 20:04:06,483] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-09-08 20:04:09,475] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 200 2421
+[2021-09-08 20:04:09,498] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/map_index.js HTTP/1.1" 200 2221
+[2021-09-08 20:04:09,503] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/vip.js HTTP/1.1" 200 47
+[2021-09-08 20:04:09,504] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/adapter.js HTTP/1.1" 200 376
+[2021-09-08 20:04:09,785] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/obscure.png HTTP/1.1" 200 3922
+[2021-09-08 20:04:09,785] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/base.css HTTP/1.1" 200 1214
+[2021-09-08 20:04:09,785] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/menu.css HTTP/1.1" 200 3879
+[2021-09-08 20:04:09,788] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/menu.js HTTP/1.1" 200 1971
+[2021-09-08 20:04:09,795] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/show.png HTTP/1.1" 200 5063
+[2021-09-08 20:04:16,570] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 200 2421
+[2021-09-08 20:04:18,715] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /mdmain/contact/ HTTP/1.1" 200 5621
+[2021-09-08 20:04:18,736] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/contact.js HTTP/1.1" 304 0
+[2021-09-08 20:04:18,778] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-09-08 20:04:22,445] [views.py:27] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/mdmain/contact/', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9', 'Cookie': 'csrftoken=5wCbaSaoWIEwDjfvmfblYV0ZxnXML9pdCVSW6l0B444gdPt9MGU44LTB3yFDG1oP; sessionid=641wdjrkgzs68gbjw8imojbd3hz6y217; userId=19310320117; userPW=15328362628wyh; saveMe=true; Token=WSRY3OWTOZWZf4VB5qKN082h04l%2FEhfCgs9LJsg7JXwfOUCpKaJMqiP4EXfrjioVj%2BpsKylxcE5vPJTuXabfQw8mCf8Ys%2FJaVXsWQqUToV6o77%2FVjQJeSY%2Bdzz9Nee7cU6rrha1Sf93OPy8h5aJHyrJ6%2BXaG3XLh%2Fbrol1YcCAWI7tysUg4EtgOHBi9N%2Bib8wykkPzWQEsVK4VzGE6X3AF578wIo43OTvDV6FtnwKuHcQ7liaZDMD1xTmG3mVFLGbal8ujsgd9eRyWYhQaNd%2FTogxsC%2FubUkaxCKtLeYmIEXhwg59A1%2FUZH6UFD6ss3sqFweGGnIrn3AlIpK3E27xOL%2F37nAwyeSJmkFtLrlSQdr04QBHtqtt6iTilAPFLdspXb7eXHX1mbliGRg%2BY9lHd0GyBEknjTfm0P9VWRoTioYijHfzK1w%2FnGokzWDb87dwiSmfNzN%2FtSLesMXM3Y1DFuwsXP%2BXjsIGFw5337QwZtbMS9SoELnHKyeHyuGBPNo5XMS3zhCH5ozvP2Wmj85KHp0e3Up%2FNutEZL6S2LuhpSuDG1zd0DvEG2w8yN87BMHIaJrNHisvESUzTGeO4YIn7W0zlQeRjdrkArkDubRtFFxBqtAG9%2Fdskwf5FoZHkyVcGiZqoH0VnCD6eGdbttEu4XuyUzkhiFfXAhJseMXu%2BmPc7JlYVc7%2F3Oa2aVa%2FHAnKt6xYcDHd%2FlHvC0xIJw%2FygIufJHlHaoIsmpnETF0UBiag0yJe5%2Fsaw03E9%2BiaWI4AXQqeqNIm823ni4czicXxQDdcR%2FPeO%2F6tikLMJPQ4705gJFGvi5hqjV7LIzOv5fmY%2FMys47uo%2FaOrL1F78pP12pp5qrITV5Qpg30yKiOjNuF2u0ttT%2Fp3l16CuiKai5IyYxzhfoyssysfnSOa4SVISvbIba6i6be90WxqlHp2GjX1c7ruoTGrmOiuMwPmGrbTPGq%2Bsu%2FDE8XzA3q8bhNCGWbaRI0%2FgoikFiQbu1VnNv4rCUvw4JzIzd2AZ99OOardjr6PZ3Jv2Vq%2B80yAsfa4ZVC999ivfE3RJ51GE09Ryu5UygsCbXCzwkEaaxqk%2F%2BT6lsF8mTigHRUxSzln2WsglZD68a5j3dWZyytNeI3mLEa%2Bzofj0NhYcYB5Ki7%2FE3zJrHF7B%2BZqT4Yw9Nb48itwpInL8FLDBQKL0QujtLbCaCekkj60YkN0ol%2BtHvVKzDMqyO0WboXMpU%3D'}；request_body:b'',
+[2021-09-08 20:04:22,462] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 6627
+[2021-09-08 20:04:22,518] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2021-09-08 20:04:22,518] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2021-09-08 20:04:23,279] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 7207
+[2021-09-08 20:04:23,334] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902

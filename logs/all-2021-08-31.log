@@ -1,0 +1,724 @@
+[2021-08-31 12:02:45,390] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-08-31 12:02:52,897] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 301 0
+[2021-08-31 12:02:52,947] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\xad\x7fä4\x1e\x05\x7fXïâF\x92ºÔ*\x06i5\x1f\x0b¤\x03\r\x9fÙÃ\x92C\x18\x7fØ½ \xadÝ\x85.hÇUÊ7Õ\x07\x04¹î4îxñ\x92¡e\x93ü\xa0Â¨ÒãiìÐÇ\x00 \x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ZZ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:02:52,947] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:02:52,968] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x15>¦`u½\\Õ$\x85ó¾\x1dèÛý«]\x83\tjXÑ2\x85Q¢±^b§\x9f Ü!\x9bÖ§\x87î\x93«û5\x13dç-=«,òJ\x9dz\x175n1Ó¢4¼\x06')
+[2021-08-31 12:02:52,969] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:02:54,426] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ªNB(yfñ\x06#ö\x04V·|e\x94ç,ä\x90öï¢%Ñ\x05)\x92Õû\x1cs d¸:\x0bhDty'=æzù`b\x9c}EßBv\x8es{\x1aØ\x15Y\x1d+J\x81\x00 ")
+[2021-08-31 12:02:54,426] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:02:54,427] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03üýÏq\x92v\x9cÙ©ùhnú\x7fÃ\t\x01tÀHQ)tpÆ\x8b|x»ç\r\x9d \x04\x1b³}j\x1f!\x000\x0bÅív\x05\x0bþêÀRcÔ\\¡6µ\x01U\x7f\x04ÛPV\x00 ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93**\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:02:54,427] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:02:54,428] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ß\x97\x1b¹\x86\x00\x1aP²PÑÖsfHý\xa0Ùf\x8ey\x90\x06Bg&Ó\x85n}\x02\x0b \x01õÃÏÅ,8åJÞ\x1dùT?CørÔ.Ê\x93\x7fòÈ<2å\x02qºá_\x00"zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:02:54,428] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:02:54,429] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03>Iôû:?û\x85(-w~ö\x08÷XmQ~qgVõ\x9b;U¦\x1c\x91tÉ\x1e `\x91ù\x05¡ëAB\x9cÂ\x89â¢ÿ«[?9X]ÑQS9}öWÌ\x89\x00\x87*\x00"\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:02:54,429] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:28,501] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\mandao\settings.py changed, reloading.
+[2021-08-31 12:03:29,611] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-08-31 12:03:30,248] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x032\x80ôêK\x8bG`\x99\x1aä\x9f\x9d\x15Ð¢\x16´ùîbj>Â÷\x82°\x86\x90p*X ÜM©%wT ¤&\x12ÿ\x82¡ú\x93]U?µD\xad|ø\x0bþå\x15\x15«\x93½0\x00 ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x9a\x9a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:03:30,248] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:30,250] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03E\x97_Ô¾ÄfP\x9fèé-Ä>Ê;zÞ5!\x8d\x8eèe°]\x17\x0f¤\x1cÑ\x8c !]¸"\x98È\x95tðAm^\x88Áãn¸ý\x05?\x10AV\x92\x1fC"\x1c¥B\x99¿\x00 ::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93zz\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:03:30,250] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:30,251] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x11áô9°\x83/\x85RøÕõ¥nKH\x9fx\'ÉÎ\'\x8eãW5þÕ\x98\x1e\x8d# Û°Ï\xa0\x8b[8\x13Òl\x14>ÅðÓ|Wt\x07\x99\x19Ìû(\x94c;ú\x9eº\x00ü\x00"')
+[2021-08-31 12:03:30,251] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:30,252] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ð)\x00\x17/²·Ú4\x80Aéº\x04K')
+[2021-08-31 12:03:30,252] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:30,930] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x035Ãäá\x9d\x90Pé\x1ciræÄR%\x8b\x13\x91+\x15;~²Ü3ðo\x0f%\x10A/ Õ\x18è=ä\x86\t\x99\x08Ù2pb¬\x1a'\x8f\x9b¶ø\x1e[Ç(\x17¬\xadr\x89Ôìw\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93")
+[2021-08-31 12:03:30,931] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:30,931] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Ò}\x86\\Ñ\x18Úè\x7fÚônïÂpÊ\x80ôr\x96\x90ì\x05S\x9dÞ\x8d6+`\x0b/ \x92ç/å±B\x8c$Ã$ëÀú><3ª\x06þ=\x19&Q³~è\x92\x80Ey§Ð\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x8a\x8a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:03:30,931] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:30,933] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Sc\x11ÝVnÂæ+Ûi\x15R')
+[2021-08-31 12:03:30,933] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:30,934] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x04\x9b\x8a¨*')
+[2021-08-31 12:03:30,934] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:37,819] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-08-31 12:03:39,912] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Ee\x9a2)Ý\x80\x8a\x88áè{©¤ax$o\x8f¶j\x8d\x9f\x16)ã\x93Ê_=P¼ ©\x83¯gms 6\x9eÑ\x1a\x1dGb\x81QZ\x05\x8c\x9b\x80Iß;\x03Ö¦:\x1dØFd\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x1a\x1a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:03:39,912] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:39,912] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03B\x8a\x87 íoÍç%·ü]ìCó¢`ä¯¬JÔ³Ò\x11\x82[ôm\x90ÈÒ X\rçq76tDÀ\x88A=Út¦ñ\x91n14)\tßCDÁÄ\x9a\x9a\x88\x86P\x00 \x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ÚÚ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:03:39,913] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:39,914] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('ÐU)\x8d=÷\x01\x99vâk\x86[*×\x89¯\x01¶Ê¬üÝÅ¥\x15¾D\x13ý\x91\x00"zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:03:39,915] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03>)ÈETÖ¬ðK`í§At\x07(×»àº|')
+[2021-08-31 12:03:39,915] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:39,915] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:40,673] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ú8áé°B\x16ÕÜSkq\x88\x908)îI<\x01ª²`5\x8dÉ¸\\>d\x82À ²¤b4àCZ\x92\xad³®\x81\x10\x00ºH¤eÔU?cË©\x94Y¦Î\x14\x1d\x1e"\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x8a\x8a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:03:40,674] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ÔIÊCx}{¬ã¹a²\x8bo¯\x92uÎ½ÍO·\x90÷\x01\x05\x95\x83\x83\x1f\x89\x11 ¾¢\x0f 1r7ßS\x97Ç¬\x9fmð\x95ëOü\x9eð÷U\x83Í\x95æ\x8dÔ.\x8e¤\x00 úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x1a\x1a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:03:40,674] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:40,674] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:40,676] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x039FÅ\x8f\x05æ,b\x9d¾\x1dx6S³\x07Ú´ª\x12îIÁ\x07&Nv'8\x9ee½ \x83/9)[Ìíòi6\x0f¸V Æ/ü£\x9dJ")
+[2021-08-31 12:03:40,676] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03¢p\x08Çù#\x1fx©#\x7fÎ\x0fô\x12<\x8aÕ·xéMp3¡Á2ø\x01\x92Qâ vê£Æ\x1f÷\x90HÒ\x16\x7fs)Ç')
+[2021-08-31 12:03:40,676] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:40,677] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:41,028] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03õ4Gôw\x1e\x050³\x86¡\x9d§1\\\x05±ü\x9c\x89¦Ï<YÒ\x9c\x1eG\x1búÔ_ õ³K}S\x91T'¯É0ý\x8c\x0f\x13²V4\x83ÐÅæØã*»\\×v-'\x7f\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93jj\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00")
+[2021-08-31 12:03:41,028] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03U\x89¤°êåzPB\x0c0\x0fâ\x13gt?ÜÜÌ6Ð\x9cGû\x9fµ\x17Dñ\x9b\x0f »U,b\x01>]\x1e±*~')
+[2021-08-31 12:03:41,029] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:41,029] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:41,030] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03/\x1d&,q\x85;V\x13åvYG`Kè\x17\x00ÏUQvü\x1aµ;\x13\x08ØÐ\xa0ÿ ±zü*ó\x96ìán\x13üÉò\x9c\x1d\x05Æú÷s\x93;x±\x84ÿÓp3\x96\x0e\x1a\x00"\x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:03:41,030] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03©\x90ø\xa0\x823ú±Þ$*\t\x80fîçJQ¡¥£2\x18\x8bµx|\x87¡\x00\x93° \x1aivÐÃP¶\x9e\x8eyÖßyYs*z\x1b,(K{Gí\x15øå^þ\x9a\x7f½\x00"::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:03:41,031] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:41,031] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:41,245] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('0rtuº')
+[2021-08-31 12:03:41,245] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Ly>$´\x19È\x06\x9bq\x87éÉ$Ð{¸\x1f[ü\x191É*5\x1b=¯\x92\x0e"ª \x82~\x03\x87Cgµ\tîLçÈÑ=\x92Hã\x80DyÔ:a\x16q@«+ó\x8f¸,\x00 ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93JJ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:03:41,246] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:41,246] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:41,248] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Ì\x0b\x8cÁÂ0%IÊ¤;9\x88±³D+\x94\x89\x93²K¦5\x02RÉ\x95\x08\x16ô\x0f \x82-\x91/\x96â8:7m\x0b\x08ëkZ¥ K\x16¬i\rú\r#\x9c\x19÷\x9a1Å0\x00"ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:03:41,248] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x036\x82*\x18-?Ë\x97<Ü7&\x06Ò_\x19îRÃ\x9cîa\x1eÝ4\x11\x8e\t\x80>\x89æ q\\¹`\x0eØgv\rz\x97à\x9d~\x98?+¶Àä\x95ª·o µ¬ô\x07Gþ\x9d\x00"\x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:03:41,249] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:41,249] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:41,421] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ãZI\x88\x92M\x95sÚ©å&À2¶P\x12ÅTk;\x9c?ÅÑæÃ{\x9f\x99\x05\x1c 9$\x1d\x14\x8f=\x8a\x07\x1f=GQáþ\x96\x81hvÙeõM\x0fK\x805À©\x9b|Õ|\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ªª\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:03:41,421] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:41,422] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03¹¶\x1bj\x98\x01-\x80sb®\xa0X\\¥\x86\x8b[Ý\x91xöP,à±wÏ\x89Þbà ãa÷\x81w\x1e·\x18\t\x14àBpàÉÜÍôÓôÐLVP<æ\x8aÉG"õ\x81\x00 ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ZZ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:03:41,422] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:41,423] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ã¾\x9dä§å\x19¦\x99óÀ¤\xadçûO¥\x94k²\\¶ÈLäù§½¶\x9cÈ\x8e \x9d\x96ÏÑð@)\x86\x94Â_\x8b1³sRµ\xa0\x01\x81Ó\x9e;Æ\x1cäßçjî¨\x0f\x00"úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:03:41,423] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('8õ¬\x8bEÀ')
+[2021-08-31 12:03:41,423] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:41,424] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:41,588] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Èüc\x7fh\x86JtÕ\x8c}Â\x14y ä8/\xad¯¡ÉcÞ³;\x97tÖ\x04Ì] ´Få\x00Ë\x90\x96\x1ag\x13È\tß«B^`uÞòõy\x9a½®&t¼eHÈÎ\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93êê\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:03:41,589] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:41,589] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ÜÁ\x08_\x00ëí\x9e\x8a\x91¥0XGÒ¯\x92\x14\x9b\x1eXPJ\x91%\x87\x00Ü4\x997\x1c º\x8fÀ%ò,C\x9c£°Àn\x81fI¤\týõ\x10Í®\x90`Jãr\x04T\x02sõ\x00 JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x8a\x8a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:03:41,590] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:41,590] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03;*L\x9d-U¨tùbÚS¿Í)\x1càã\x01\x9b\xad\x0b<¶ç!¨?T§4ú Ø\x07 ÿ³8G£·\x04\x0cLÞ\r¡\x99?N+\x95£\x15LD\x15ldSM\x18\x8b\x9a\x00"êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:03:41,590] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:41,591] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('/\x9agÉï¢³"ß\x00"')
+[2021-08-31 12:03:41,591] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:41,745] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03eUÀ-f÷ë\t¼\x034äAz\x94Ug)\x8d\x18aÿájP\xadÞÚÊ4\x8f\x9e !ÅN¦\x06Rþe\x92&B\x18¬i[[\x95åPß«\tÎôþ\x0bú\x8e<\x1f\x90ã\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x8a\x8a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:03:41,745] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x19\x7fÞv?\x13¹¦ß=vU¾\rÉt-vî$2å½®¡öa«#©ÃH iÍf©íµûm\x85\x9aa\x1cãõNK%\x84\x14..Îü\x8aEkÊ\x7f\x03^2c\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x1a\x1a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:03:41,746] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:41,746] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:41,747] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x8dÕ~ºëÕ÷b\x16\x92\x86\x91')
+[2021-08-31 12:03:41,747] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:41,747] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03d\x98\x85w¿¨ç®\x95\x9a´rf\x8a[fÞl\x08À\x7fU~\'f3è\x92ÃÒ\x10È \x06x\x86¹èª²Ö\x90PÏÓL¥\x06\x13ü«\x83\x1b4;¨ú0\x85¥^\x04\xad®n\x00"úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:03:41,748] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:54,336] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-08-31 12:03:57,085] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03xIÏ[¥\x02`»¹Ò{`óÖ\x89§Ô¶Ü\x94<x\x08\x86D\x8bà\x11@ÂÊ¶ bN'á\x83 Í\x07Î<\x1e\x0cLæªÚqw¶\x1f×ø\x85ÌH\x98bÅ%ÛÀ\x00\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ÚÚ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00")
+[2021-08-31 12:03:57,085] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:57,087] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03LHÌ\x1a\x0c?Ë¥\x7fò\x7fÎI#\x8f³¡Â·§\x84\x95Ó\xa0À*³\x17äsÿ¡ M\x1b\x86ü\x15Ã\x84÷?DµMË\x07PhÙ\x08\x80\x00k\x0b\x89°\x05Oi@y\x9b!j\x00"êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:03:57,087] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:59,301] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03¤\x1bn°|±¨cëûú°&@c÷¸ípLË¦º2|Ï¨\x1dx¸Î¾ W,Ú#\x88 tª+¢,g)©\x9cµ+Ü°*ò~>FPIâ¼{ÑÞ\x14\x00 ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93**\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:03:59,302] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Ù\x94TxÆÚ©\x15)h¡ðíð.\x05½{Ì,\rr@@âÎ/×É7W\x9f -k\x19¶ÊL\r\x8b÷)É×¡\x1a]\x8d\x0e\x12\x1f{E\xadåa\x0fn³æ\x030¤Î\x00 \x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x1a\x1a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:03:59,302] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:59,302] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:59,304] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('!Uzó\'E}!ßY\x17ÂQúÞ{ÜÚ÷Dõ\x06}lGÇ\x80å\x8e#\x8c\x05\x00"\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:03:59,305] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('[l\x83\\9q\x86\x04\x8cäÓd\x89Ä\x7fn\x8fó<&.\x98ÃÙ\x1at\x16a\x16\x99\x91n\x00"ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:03:59,305] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:59,305] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:59,475] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03èøÜa½ß{\x1bsÜÉ\x0eÁ~rö)õ\x81\x8f&¶v3\x06\x19\x03\x17\x06Tf\x90 écòN&\x03\x84ºÌ;\x07·.fZÖ\x9cÇ\rß%Þ;ÓÈ\x0c|¬\x94Ó\x08j\x00 ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93JJ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:03:59,475] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:59,476] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x92We\x87l\x07uBß}³&Ù¼òá\x03Æ\x88\xadÿ?K²/\x05\x8fQ4$\x8fÂ r\x1d\x81ÜqmFväæDó3o\x8bL\x91>Ï{í$ÅX¿ï\x0e"Úöúë\x00 JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x8a\x8a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:03:59,476] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:59,476] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03 Ñ\x8dj6\x9cþhÃ\x17±\x0eMtîùuòV8Úù~f\x13\x88fÓ-Ý[m ¶\x0c Ùè\x13\x8b¸FÜ¤\x1bÅ{ú~ûÙ\x96§¯LPKÞ0Ìø|\x92/¯\x00"zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:03:59,477] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:59,477] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03|ÑÉlï&\x10óvÓ\x12òÒ¬!\x82×\x02\x95\x94Ð;f(Ì\x91\x06Í¼²bé xý\xad\x1e\x1cÒÓ6\x86~\x1câè\x14pl>\x07ö\x8dÿ/Hp0¼\x9b\x04T\x8f©K\x00"êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:03:59,477] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:59,643] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x07\x95h¶\x844XÌ\x96½õ\xadók`xÒlT\x81`\x0cÐ½ýY\x1båô»\x1aÔ \\ñ\x07å;\x92\x8eµ\x1e\x00y^Ö\x9e!Â'¯(7\x15\x1cF!,G2t\rXeä\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93**\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00")
+[2021-08-31 12:03:59,644] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:59,644] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('\x94£ÌÜg\x81')
+[2021-08-31 12:03:59,644] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:59,645] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03@\x0f\x11Â\x19%\x83äSX\x9c\x01Z\x86Ûy\tî$È\x96È8\x1e¢Å\x7fSåSè¤ ¿KR+ðé\x8fõC\x1dÉ\x95Â\x95¨!Ä&cy6hÏ\x87¹çàÃWùsó\x00"::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:03:59,645] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:59,646] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ÕÍ1¥Ïìt[áC\xa0\x90j÷\x18\x8e\x87×Øû\x0c\x01çE\xa0\x05\x14ba_\x95î d9³ÍïFÍë\x95\'/§.UVÇ\x93ú\x05²M£3\x1e\x97\x89ÐÁ]\x00\x91\x04\x00"ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:03:59,646] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:59,808] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('xÉë\x03T\x81ß¶ô®¶\x06')
+[2021-08-31 12:03:59,808] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03¿ãúc\x12^Æ¥÷ÂK<i\x0bëù3Ú\x81Ã¼»\x94&a÷lx/kp0 \x01\x15kã·ôSU\x8a\x00éë\x12\x1cJ`u\x13\x8a\x90?7\x9aôRu\x89\x82éßê\x9e\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93jj\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:03:59,808] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:59,809] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:59,810] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03?><fÈ´>\x0ch\r¼\x97&\x97ÃjÑR#8\x01\x85æ\x0cX×\x13b*Òb\x13 ªÁûÈúó\x06Cn\x8cjWkÅ$|\x00\x02\x13úe\x18\x06½\r~\x92ÅJ\x91¸ú\x00"êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:03:59,811] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:59,811] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ã\x82GX\x98=è\xa00\x99\x00-É\x16\x9a\x93\x94}e\x11ZR\x8d\x03\x8e%p/0\x12qË \x0b^\x16Ú&hþ+f`!ÞÉ¸µ¢Fú¥\thé\x1få\x07\x15¿Bîï\x1dÿ\x00"ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:03:59,811] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:59,968] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93')
+[2021-08-31 12:03:59,969] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:59,969] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ûÚÇ7eL(}·>s\x9cè\x9c\x8c\x00Ç\x96ëÌ[×\x8eO\\\x0f_A=R¤ô Ð\x89(\x84ît¯9¤lU\x96o<j\x8f©ª,Î\x88i¥\x99Y;\\\x07 Û¯µ\x00 \x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ÊÊ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:03:59,970] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:59,970] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03PzïÆ~ÿ(ÈS:t|Ó\x1eÝ\x9eZT\tuo\x0bÌh)[tµ5»çÀ V`\x15\x1d\x0cAÂÇ\x00ßÎ¢J¢N¿¢\x84ð\x0fPObc\x97\'0Sdwî\x83\x00"JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:03:59,971] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03lÀæþ\x08f\x9b«\x03Ö_È\x9byRô!Ô\\®#J2¦¥çç±\x04ó"O')
+[2021-08-31 12:03:59,971] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:03:59,971] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:00,155] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('Ê2\x8còuO÷Èx[íÚ\x84')
+[2021-08-31 12:04:00,155] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:00,156] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ÊÊ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:04:00,156] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:00,157] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03õ\x05L&!«Õô\tÒ\x03©l\x8e:Þ\x1dÍä\x03Æ¥oÀë\x9f§£áóò\x9f V\x8döC¹6E\x19<sr\x82\x1bç\x9d¿\x98\x88\x9fp\x13Ù\x9aªV¨7ªk\x0cb£\x00"ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:04:00,158] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:00,158] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('£O\x08E\x84d´ú¥¬Kã$ç\x03\x00"**\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:04:00,158] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:00,340] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ZÐô|fN6ÙoásÐ>¸\x98±¹\\Õ¦\rÎª&Ø¹Ók\x8aÐ×\x1d \x92/Oíb!\x08sq!âµ;Ò¶'ô\x8d\x99þö!ì\x10\x93=\x02,\x8d(©\x0c\x00 úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ÚÚ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00")
+[2021-08-31 12:04:00,340] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:00,341] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93zz\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:04:00,341] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:00,342] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('TÛ87\x8fË5&5õÒù\x92S\x867\x9dk¿:\x00Ð\x82Å¢\x84×íÒþN1\x00"êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:04:00,343] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('ÚÀÏ¥p\x06TQÕ\\æßeÿÕÃ8Ú\x00"\x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:04:00,343] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:00,343] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:00,523] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x81î]üwef¦]ÁÚÈ\x81Z¸a\x91$2_¼æ\x8eäC]dYÇÂ\x90: \x06\x1eû\x11Q\x14¤X,\x18ßYË\x8e\x14\x9f\x19»ÛâàÙåüèù\x90ø-\x8dÍJ\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93**\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:04:00,524] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:00,524] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03õ=8Ô7,òÊñi\x04\x14\x98')
+[2021-08-31 12:04:00,524] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:00,526] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x1fIT?e\x8f·².Ûð*è\x7fJ\x11bø\x86éàï\x824\x1cµ%ê~MÙ¥ ß\x0e')
+[2021-08-31 12:04:00,526] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:00,526] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03X\x8b\x1c©óÐv(\x0cI®ÄB".¤\x1f°â\x1a\x90\x02³\x9b\x8e{h\x92ÿÀ¼f BßOÛ\x0c\x10ê/Üw\x96n\x9fÃüd8Û}º$+å8tü\x9c\x8e4÷ÎE\x00"**\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:04:00,526] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:00,696] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Q;÷x\x95zí\xad\t\x90;\x87vK\x96\x83\x8f\x00\x947Ghû²\x16PéË\x15\x0e\x9d\x9e \x8e"ýüp"Q6½ÂG©Ì$å\x8e¹\x1eÇ}_!ÃýOÒ# ù©(.\x00 ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93êê\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:04:00,697] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:00,697] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Å\x94Øñe\x18j-z|ÿµ¶F\x13\\\x08\x0b*Æ\x0b\x94QRª¤láÎo\x0b\x12 w/èxËº3\x9d6&1\x9f\x0c]\x9dµ;³«>\x8a\x8a>)Á·á\x0e\x8d2O&\x00 ::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x9a\x9a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:04:00,697] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:00,699] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03JËGÎ±Ö¶Nü¶z\x9aQåß\x0fP\x16¤²\x87¥\x95×[ `ñÃBÃè \x1eE{\x8bÉ¶ø%Êí¿\x95\x98Q=\x03ÿâ\x8eûlí\x8c\x96\x8b¤÷?u\t\x8f4\x00"úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:04:00,699] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x0c+PÄã}í^DN=W\x87íã7øÒ¤Ñ\x17\x04\x15!+H¹\x04\x8fK\x0be \x9c´\x9aL¶\x86\x9dlÆ\x87\x0fX4ò¾Y»Èn\x0b\rÞ3\x18\x0bh\'Ê:Ñuõ\x00"ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:04:00,699] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:00,699] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:00,875] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x083BZpå\x85\x82\x8b,Ú\x8a \x8b\x91á\xad#u\x90\x88IÍ\x90ðdW*d©.2 Ý\x7fyRÇ"À`NèUÒ0«[\x8a2¢¢\x99\x93{\x0b´øú_\x1aþ\x94GÒ\x00 **\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x9a\x9a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:04:00,875] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:00,876] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ïº>Ïü\x7fË\x19{ÙK\x08yr\tí\x8bæÌ\x96\xad\x11Q\x0f\x9aYÊ7TP>\x1b »¿6S¹ÊçmÏ\x9f\x94\x06\x97ÊÛ,F<aÕÍc0°ÄÀïJè\x8e\x00Y\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x8a\x8a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:04:00,876] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:00,877] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x02ª\x1eíøÔ¯æ\x97{¬°©vF\x179w(\x8e\x8a\x9e´ý"{\x1eéôo5\x85 \x06w!R\x08\x16\x7fð\x8bÝù/\x01\x0bñ¡(©w+A\x05D\x83¹qÜ)µ\x1bf¡\x00"zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:04:00,877] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:00,877] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ú\x9eNèYÛ÷¥àtg\x84RMøq\x03ð\'Ø\x95\x05ÅáçÑÊ0¯,1g §>Ò¸³\x7f>§£ú§"÷\x0c\tÝh_Q¯t\x85ßVK°\x8d}QS{\x0b\x00"ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:04:00,878] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:20,052] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\mandao\settings.py changed, reloading.
+[2021-08-31 12:04:21,006] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-08-31 12:04:21,646] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03/0E®\x1b\x8b:©N<1Ñ\\¤$\x00\x18Ã'\x1fI&Ûáz\x9d\x0bz¸i%b \x14¡:L\x0f[þã\x07VÊÎ8\x02\rá\xa0n")
+[2021-08-31 12:04:21,647] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:21,648] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Wmýù.Ð§)dÿÙ\x82¾§T{\x061\x14d\x1a\x84`+\x056:e1q\x93· \x99î{\x82\x91í\x87é±¼n\x85M^a<\x04a\x10\x01®\x04L,\x08ãh\x14\x9b«ò\x7f\x00 ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ZZ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:04:21,648] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:21,648] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('Öh\x91Ò\x82Ø,\x96ª©ùÐTÕº»À\x19ïC*ï\x00"ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:04:21,648] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:21,649] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('²b@¥"¥\x08zõÜæ\x12ú{ö<Ed×\x02Ö\x90Båv\x00`\x12¡ë\x00"jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:04:21,649] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:21,897] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03D³\x02#\x0fD\x8co·/ûB0î\x91ß¼xFaxòOÕìÈµ°\x1dÔño Á>´6Ê~<0¤¼W0»e\x85¿eÄ\x8a}<\x10\x95ów&ºñ³à\x0e\x13\x00 \x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93zz\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:04:21,898] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:21,899] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03vC\x0f\x12þÍ±·;þ÷Ô©¤Vû#«Fù\x8b9Jü33(xÚ\x1d\x8bO §ë\x83+J/\x0f\x19\x1eÙÄI\x18Ï\x81ù\t»ÆªÝ³Û\x8f\x1b\x85Ý!>}<A\x00"::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:04:21,900] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:22,501] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ú[/½De\x91'0O±S{Ì3#\x83nyÛ\x13\x11¹\x08òþ=@1?Éa ßP×(6µ\x05\r(\x9e\x92gEìMç\x919%øØ®sÄÃhâí\x8c\x8dÃ!\x00 \x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ÊÊ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00")
+[2021-08-31 12:04:22,501] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:22,502] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Â\x98\x15ÈÛÝÊú&Ã§\td\x90zÌ®\x86\x0cøÆ\x94ÇqSjEaÅíô\x0f ÿì©\x86\x96°\x82:þ)')
+[2021-08-31 12:04:22,502] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:22,504] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Ò=\x95Bþ¿¦0\x81;V¦ø¦\x99t\x1aÈ\x1cÔG-\x00cB\x90\x1e\x89µw\x8d\x07 Ó"ÓfgX&A´\x16\x91\x0f3\x1c\x9c\x1f\x993ÿ,°\x1f\x8b\x8eµ¦\x8b\x03\x17\x0fÏ\x94\x00"ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:04:22,504] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:22,504] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03È\x8edÞrQ]\x85÷Õ\xa0à\x02ü¾\x069Q½µ\x13¼\x81§zÙLï¦Å¢) "\x1cR\x9b¶å«,\x7f\xa0\x87¯ÓEÛ\r\x97ï\x18¦x\\ÆH3£jGfu°X\x00"::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:04:22,505] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:23,029] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x02¢®]ÐP\x96&ä\x8bÝP?\x11\x99\x83©\xa0\x9f¿"U HUpéø¬¸¡\x1d w\xad\x9bØ\x967\x7f³æbBwU·\t\x85\x1dú\x93³*¡ù;H;¼/Þeíö\x00 ')
+[2021-08-31 12:04:23,029] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03%Í%Ü:â\x85'%\x82ÑøYºL\x9aûñ°u\x8e<3ñdÕ\x08bEªÃ2 1øñdò¥§FNØ\x96M×g!ÓU\x94m\x03¤l\x92lF\x9d¾\x17\x99û;å\x00 ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ZZ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00")
+[2021-08-31 12:04:23,029] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:23,030] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:23,031] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('ïÎ\x8bkø¸3mWVq\x02óG\x0ev\x00"\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:04:23,032] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:23,032] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('Sö')
+[2021-08-31 12:04:23,033] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:27,226] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-08-31 12:04:27,812] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03b¾¬\x9cÊYkfì6\x928Ô\x84"\x91=×Ï£B-A¨\x12³\x9e\x8cò\x11\x94\x17')
+[2021-08-31 12:04:27,812] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:27,813] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Æè\x90°K')
+[2021-08-31 12:04:27,814] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:28,063] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x9d\x83')
+[2021-08-31 12:04:28,063] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03åÊ{\x12¯\x97Q^::\x8aR½ã\x1dÖ\x9fæ,(ix2w\x8d Ý\x0b\x83Î½Q Ó<Òãn¶\x9bb\x96bÇ\x1fQ\x92Qsÿ%\x9círüUÑoì\x8cYq{þy\x00 ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93jj\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:04:28,063] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:28,063] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:28,064] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version (';\x97(½k¶Ç¨Sº\x14Td*\x10\x8aØÕ¦\x17<Ú\x00"ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:04:28,065] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x81\\\x1952AÄ\\\x13³5¿\x91Â\x86.ã7Ç\x8b32o2\x1bõ,Ê\x95_Eå \x81\t!ù\x17¨ä\t\x10©{´VÊHdt\xad¹¥!ôÚ\x8eLí½ÌÁ\x07fq\x00"ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:04:28,065] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:28,065] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:28,810] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x1cºb4ó\x17\x90E;¨h\x0b»ö\x8f4¢úðg\x1bñÀ\x8e\x89+\x14°vKÆ\x19 \x87{Û\x17N\xa0©Áë\x8b\x9f\x93')
+[2021-08-31 12:04:28,810] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:28,811] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ÜÈcxxß÷@¨\x89\x04f\x85ªÓçl\x1d°õ\x8dVAÑþ\x9b;\x92\x05²Ru |>À¸,`\x8dt\x19;í<)¾\x8aU\x03ï?l\x80ÆWB½¦ò\x94úIÀ\x04\x00 êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x9a\x9a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:04:28,811] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:28,812] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('wû\x08;Ñÿ\x8bySù*K\x00"')
+[2021-08-31 12:04:28,812] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:28,813] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03°\x1d±»®fT×/\x8e°Ø\x0fûc\x10·\x9d¾\xa0\x83¿ô¾#hà\x90Å\x13ß( \x9b-ùjÛh>\x1a¤.ár.ûûv×\x00SPá\x16cy\x868p¦æ\x08\x03\x9a\x00"zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:04:28,813] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:29,376] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Ð\x10¦ßA\x823×\x10o7µZ\x06ôÑÔÑBµ\x95\x19gF\x11t\x01\x9b\x87Æóâ |Gçûþº[ÊTJÂçµ"?ðOéMW\x87Å\xa0¼¸ÿö\x16l\x0f\x07]\x00 \x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ªª\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:04:29,376] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:29,377] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03úó§R\x13¼Ò\x19\x0fÞ\x99Ô=^wå\x93\x00\x02ãJÉðM\xa0\x11d/¼\x03\x03Ê Ç>Ð´\tQ¬\x08\x0cø\x1at6-\rÇL¤\x98rQ\x9dÒ\x92&E»°4\x1b\x8d\x83\x00 ::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x8a\x8a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:04:29,377] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:29,378] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ï\x92jÅ\\EC\x02À{\x84\x9c-ü\x82:r\x07\x8d7q@UÔ\x9eìÒE6ïÛÃ')
+[2021-08-31 12:04:29,378] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:29,379] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ÆÁÂYÄ\x1d`®Pós¶ù\x05ék¤3=ða\x0cªÇ\x86hÕFÃ¢³¤ òÉ±Á$\x0bÁòác¯¯ãX\x80\x07<J\x81´\x0b×6å\x9a\x0f\x1fP\x03¿j\x96\x00"ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:04:29,379] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:04:46,664] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\mandao\settings.py changed, reloading.
+[2021-08-31 12:04:47,677] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-08-31 12:05:44,129] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-08-31 12:05:46,409] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x1a\x149tÎZ½=6óÿ\x07\r+5¤|µÕåMÉÇ®QÑg¯_"Èó \x88Y\x19¸D{ór$¿?V·mòH\x9aKuÙ®¶k$\x9bÖ1\x04\x121\x1a\x97\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ºº\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:05:46,410] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:05:46,410] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ËO¨ø¿ûLÃ]$»ÜlJO\\m\x1cAIù±b3¬\x9eo¬\x96ä\x15X 0iÆ¿\x88\x96××³g\x8b\x07£_&\x96Åâ»2\x0eIV`\x07O+Ø\x1e(\tò\x00 JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93JJ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:05:46,411] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:05:46,412] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ÝFð\x94iÈ¶\x1a½¥!Å(§ûç\x85âÑ-ð\x8aõ\x04O\x8eì\x1d\x80ð?Ç ÞaAÉ;Î\x15s')
+[2021-08-31 12:05:46,412] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:05:46,412] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x17p\x9f¼sß\x19\x1eç½(\x163ªiñô®\x88ó^)ëÐ\x9b\x1c÷Ë¤8\x17Ò z\x8e,øVT\x17')
+[2021-08-31 12:05:46,413] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:05:50,324] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03H(åû\x86\x83h\x81Òô\x8c#\x02ÄË\x96\x14¹,>JY±\x9b>H\x86\t{TU¦ \x0f#\'&Ø\x01è\x98\x1d\x0cO%`¦àÉ\x03÷Ïàu"\\NÊ"Å°\x9cÁ\x06¼\x00 JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93úú\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:05:50,325] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:05:50,326] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('-í\x93gN#@ï\x01k\x04òØ¹øåâ*\'\x9db×8A\x98ºÿ¡|¬^\x9c\x00"ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:05:50,326] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:05:53,824] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03²\x82f\x89ë\x00ä\x94\x84\x97`ï\x9eè1ùKÓ\x05Å0±^h\x94X\x85\x8c\x0b\x12á\x98 ën,ãC\x8aÜ¦ËÍ¹9\x01\x94Û\x84\x81\x99\x16}\x05j')
+[2021-08-31 12:05:53,824] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:05:53,824] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03^vã/6@Ì}*@ÑiÃS°&Ê«h¼\x9b8_´^$\x85ä\x88Y®\x90 $É¿\x11µ\x1e\x80q\x8f\x98&Ú\x9cZçMbäúØU.²ßáyÃ~â´½ó\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93JJ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:05:53,825] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:05:53,826] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('\x94ëô\x87>\x95\x86.\x05·/ü{»\x05\x10\x19\x17"')
+[2021-08-31 12:05:53,826] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x031*\x98Óä\x18\x08q1O·\x18·xÖ$¶G\x1d3uæZíïÐw~Ã\x1b\x1b\x9c \x95\x88Mç \x1fQãHÆKò\x84/\x9aaÆo\x16')
+[2021-08-31 12:05:53,827] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:05:53,827] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:05:57,874] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03*[ñ\x83,õ\x93P\x16ª\x00¥\x9eN\x02h\x98ån\x17pì\x9b\x1eA¸DF\x9a\x1b^h ¹,j5ÓúàIÓµ`.\x16úù\x16GM¾\x0c²)H¿\x07Zð\x9cÿ°|\x93\x00 ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x9a\x9a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:05:57,874] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:05:57,876] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x034o»ë_§\x15\x82É\x80£hÙ\x02Mö±z!\x0e9 %h©OÚ&éD\x0bG \x9bì\x00Ð;\x07À7îó8P|\x1d+3\x15\x1bÜrDæ\x92¤\x89\x15Q\x94$\x98§\x92\x00"êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:05:57,876] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:06:01,688] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03¶\x0cïb½\x99\x8f¤\x8fZ`\x084\t\x1bh³/\x86Í\x0bÍÎì\x14ç5ÁÖ\x0b|7 m\x8d#\tøÂ\x9eeÁZ\x15`\x0b\x03IqEQüùkËÛ%¦i\x04\x8c¢_ñO\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93úú\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:06:01,689] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:06:01,690] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03?ãD>\x92÷õ>§?\x146\x8cõ³0T\x15¦5\x0f\x141\x95ÙçM{¬F6½ ´\x13tº$»[\tS\x8bh\x9a\x94pBy\x86\x18¼IÛsø×óÍ\x80\x85ø|\x83f\x00"')
+[2021-08-31 12:06:01,690] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:06:07,411] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03°\x18Á´xýÒÝ3\x91\x811\x931\x82\x98Ø*ÖøRÖmôßgZ{HøV¤ >\x90íî\x92EØ-I\x1aÌ:\x14í(5Z¶4È\x80\x0f×t\xa0ºìï\x95ô`A\x00 ::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ªª\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:06:07,411] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:06:07,413] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('¨')
+[2021-08-31 12:06:07,413] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:06:29,327] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-08-31 12:06:41,058] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-08-31 12:06:42,336] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ô{âÍ~\x06\x11d\x9d1\x02\x8c0¶½»W\x9634ñt\x93M\x03luØãtwú')
+[2021-08-31 12:06:42,338] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:06:42,340] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03+l&w@È«\x1a\x16w\x03~\x87ÅsÖáÈÑõnÍ\x1c\x0f×\xa0v÷üô\x8dH \x06\x8a#Üûñ\x1d|Ú\x91dÜÙ\x1aØ\x19.þõVê\x0f\x1bb\x1fô\x98ïÂkÔÀ\x00"\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:06:42,340] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:06:51,672] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms HTTP/1.1" 301 0
+[2021-08-31 12:06:51,822] [log.py:230] [log:log_response] [WARNING]- Not Found: /cms/
+[2021-08-31 12:06:51,822] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /cms/ HTTP/1.1" 404 2781
+[2021-08-31 12:06:51,891] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-08-31 12:06:51,892] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-08-31 12:06:56,923] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x84ÝöotêpúFGyÉ\tR\x01ï2\x1e2\r@älZq\tæå\x8c¢ËÓ \x95¦(\x1e¢A\x82;_9K¥[\x0e¶i*\rX\x06À"ö=º(ÌÜÙ\'ç£\x00 ')
+[2021-08-31 12:06:56,923] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:06:56,925] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03!\x98Õy\x024\x9a»ð¹ÞâÙ\x9d\x91\x9aÓÉ{ò]\x1bà\x98\x88Í·uÊ²;² 5Q\x1dô \x84Z\x9fR:äü±?û@ÕçX3÷Å©Å¯\x01b\x19þ\x96èÃ\x00"ÊÊ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:06:56,926] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:16,253] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-08-31 12:11:20,450] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x87´Õ¥<!F<.ÆT8U*F\x7f~]m%\x99Lß\x8a\x83µd£\x88ÜKô ]J\x07CãÛ6#\x9d³ä\x93_|)Ågµ@«\x1dÒyKc^ç0QÜ2\x10\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93úú\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:11:20,450] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:20,451] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03xSl\x9a\x1c4Qt\x9ex(\x03\x9cPÐ[%\x11\x1cüÀß|ò´;7|x`\x95å \x88\x9b;*ÿK\x89æ\\\x01_\x9aÝT6\x80_7\x1d\x81ÂÓUu\x83º\x08\x05ø±ß\x02\x00"ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:11:20,452] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:29,616] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\mandao\settings.py changed, reloading.
+[2021-08-31 12:11:30,800] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-08-31 12:11:53,891] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-08-31 12:11:55,418] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('\x1aa=\x80p=\x00')
+[2021-08-31 12:11:55,419] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:55,420] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ðkµTÅir#ïU\\)²×Éù\x89Û¡]u\x85ß¨Ù\x14ö\x83 \x82\x06â lüÔúðýÈ4;\x8b\x0fó\rSÝ\x11Ã\x9f¢!ðÆó\x12\x82DúT\x08c"\x8d\x00"jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:11:55,421] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:56,951] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('"')
+[2021-08-31 12:11:56,952] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x035\x83v\x19çs\x9d\x90T9]°Õ{Tj¤\x10¬ºp\x90È\x17\x8a4')
+[2021-08-31 12:11:56,952] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:56,952] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:56,954] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('Åï¼ÃL8Îì\x06\x06\x01\x9ar\x92\x1a¬[\x06³VªH\x82{\x8b\x863\x8e\x92uKp\x00"\x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:11:56,954] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03X«?8ð\x1bDj\x9c{\x00ö\x02ÒRq²#¬:\x1c\x829õÊ\x97|"bïÿþ \x1a¿\x16\x809²\x9f\x93s\x96Û&£ \x86b]à\x85·´Õ_\x83\x8fSâI\x97\x84ö_\x00"ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:11:56,954] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:56,955] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,121] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x00\x15u\x8eúë*a\x02\x95£\x84¾VDÎ\\ÐTø¨\x8d\x17O³ôÇ¥È¿\x94\xa0 é$Ð\x03É¤\x0f_@ÿHN\x01ãÇ5ð_\x03é±ý\x1c²[ OÒ\x9e \x16\x9f\x00 ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x8a\x8a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:11:57,121] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Æ8ÍíÉÝéû/Ü\x89{O\x9f\x0b§\x0bðÓ/;örd\x84\x04\x0e\x8a¨ù\x87@ OÆ®\x9e{Z\x1c\x9fÄ\x1aö\x0cS\x0c¼ohédÏ³\x12¿Nlç\x98Ù\x05é\x98H\x00 \x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x1a\x1a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:11:57,121] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,122] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,123] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ÿ£\x0bW\t^_I\xa0\x85OÇ\x99\x80µ\x13=Î#>|~ôXo\x9d»÷z¢\'í /½ù\x9cé\x0e×õ\x84\x82@±Us&\x9an\x12\x99\x9fó\x9fÖ×\x9c¤XÖ\x9dýê\x9a\x00"jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:11:57,123] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03_\x97á(kÛëb\x00\x81L\x0c\x92#BO\x07\x0bLÞHÓ«`{<\x94\\\x94}Tý \x8eÆ5^´\x1fò«h$N\x03çl\r8Í!Ü\x8a¦\x04\x10¨È¤]¤p\x19Æ\x88\x00"zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:11:57,123] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,124] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,286] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03@\x00¬«i|]\x12cF^\x89´et\x96\x11²j³)²\x01ËE2\x19®î§´, \x03Ú5l\x8dzÌ'Mÿ\x13á\x88Khß·jøS²=\x0e&õ\x1dù\x92í¤i \x00 úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x1a\x1a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00")
+[2021-08-31 12:11:57,286] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03i\x03Ó\x00jù£§ÔîÄ»\x828Î²]]ñ\x12\x8b$£{Û,3\x0eôbxú \xadÉ{2\t\x05JEÃ\x14\x0f\x02^\x94¦\x96\x83\x92.¢¦P\x01 ;½i3B\x8d:Å\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ÚÚ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:11:57,286] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,286] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,288] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03êz\tmPwá¾g\x8eúN.ÿâ\x9bôFð(&\x02ýÆ\x88\x1c\x15ä\x16è\x97\x0c \x91¶",Z^Ð\x94\x07S\\;\x15%Ç\x80¢(Vé¿Ý\x9d\'¯ß\x00eßïs\x92\x00"ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:11:57,289] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,289] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03*k \x9a°^Å$ç¬Á\x1aë°øJ~\x1d\x99÷Á©>\x89\x89×¥[&¬+ú ÑÕ\x9f\x8b©I[lé1º\x86!=lhJ)¼ÇJ;$kUÇð\x80æ\x1f\x1d/\x00"')
+[2021-08-31 12:11:57,290] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,448] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Ñ7T*ºh89D\x81ÐbóâòeI6³\x87¾¨\x81*\x04\x16¤©')
+[2021-08-31 12:11:57,448] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,449] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x12\x87\x98þe\x92\x93\x98\x8agä?ßð\x11±\x86ü´(.\x94?³ß\x96\x89\x9f(¢(Û '±k\x85\x00»\x0f\x1dåñð\\\x88ø\x0eÒ=\x93î[nl\x87fÔ\x9bð^!Ô\xadÍ\x00 ")
+[2021-08-31 12:11:57,449] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,450] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03')
+[2021-08-31 12:11:57,450] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,451] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\t\x00\x8aAGÓ\x8b5C)\'ãQ¶ûaÂÀd\t\x0c/ê\x05\x93\x10ýD£®ày ½\x17S\x04X\x07Æñé\x15óçRötª(\x96©\x9c\x05u\x0f2°}\xad~{êrP\x00"::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:11:57,451] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,590] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03')
+[2021-08-31 12:11:57,591] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,591] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03}ê\x1eÊ°¶8>fxdÊÂùYL\x14K}ÿÃq"~ú!\x84\x10Â£\x92\x94 \x01HÁe\x96hb3¼µ\x88\x1a\x1dym¶¨\x10\x8bn\x10ðrezw\x8fÙÜ³}Á\x00 ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ÚÚ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:11:57,591] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,592] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03bø\x0b>^\x1a¹âÖal_\x12Z`\x82\x08Ï>-ùtñ@\x9dUµÎ9\x95»\x1c q%!Ýñ´ÁLX\x170ï\x1e\x87\x08;g"ê;³¹L\x883íq6º´$V\x00"ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:11:57,593] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\\r\x10')
+[2021-08-31 12:11:57,593] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,593] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,719] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03æ¹k\x0b¤í£ßÂâï#\x0cýØ\x91SEkÛË÷|i\x9bÒßµÑÔß\x9a s¥Ì×\xad·\x83\x9egO\x96\x8dý»â\x90(Åì\x92Big\x85G\x86\x86ÓJM\x89W\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93jj\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:11:57,720] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x16\x17è\x93XE27å\x11jÌ\x81"RÁ¤\x8e@C\x17\x9aú2^\xad¹\x1e?Î)Ê \x84yL\x96¹#áôñS\x95"ð¾\x9f\x9e\x13&eºU>HFHÓMc:e%Ñ\x00 \x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ªª\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:11:57,720] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,720] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,722] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ÆM2þ3Ëù\x83rÔ\x82=mQX\x84/Å´\x0f¹gÁ\x84s\x9cnJ\x87ä;" \x99Új\x00\x1d"Ì\x80\x19ÎÐÙç\x94§C\x86XZìÁ\x85\x0cÒTS"\x82\x0c¿&Ö\x00"ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:11:57,722] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x08Á\x8d\r\x93lÊ>.ÀàbÈw|\xa0\x0cÕ(Ví0¦\x81©ÿm¿S\x1a1) ·øÚû\x10|j1÷::\x01Ë\x1a\x89>#¬<\x83@\x96>')
+[2021-08-31 12:11:57,722] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,723] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,863] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x9a\x87U~6L8v\x14*%wbÿ#\x87×\x865£5îy\x97ÎÃëç\x05²r\x8a \x01:"\x80þ\x8eÉMãý\x0f×~à)\rúzõ\x7fO \x85nYè\x9b\x98½S\x12I\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x9a\x9a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:11:57,863] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,864] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ÿ*\x19eñ|Òû¶\x95ù\x1fÞ\x12ô\x9b1M[é,[\x93¿<Òh\x1c\x83;$% wòæ2ôíççµÐ\x99\x0c_\x13\x7fxV¼qw/XH\x0cM\x1c*§OÎ\t\x98\x00 ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93')
+[2021-08-31 12:11:57,864] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,865] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03vñ:É\x0f\x1bõÚZÀE\x04êï\x9f/ä\x8fË²e¸L\x10µü\x83\x00z3Ap \x94×\x85!\x85§\x98K\x15º2À#DZM´f\x8c3')
+[2021-08-31 12:11:57,866] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,866] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ýl\x19(\x18/\x02%OO\x97Ä²C\x07\x05Z\x04(÷¿\x0b¿éÈ\x88\x8b\xa0\x88\x83$9 ½X\x93ùG ¼\x14f;^\x08\x92@Al+)\x0cê}\xad\x13\x0bÀü6fß\x1d`µ\x00"JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:11:57,866] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,998] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('\x08\x0f')
+[2021-08-31 12:11:57,998] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:57,999] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ÿí\x08\x92¯\x17{(\x99=á\x99³ÍNi\x9d\x04\x93\x08Ûhµ6ùâú¦ýä.\x14 VJ\x91Ç\x194î\x1c¬<ó\x0fWõ\x17E£¨ò\x00\x9eçó\x87\x84P[\x8f?&,@\x00 \x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93JJ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:11:57,999] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:58,000] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('7ly%ú³x¢\x87\x07\x03\x8e`ß\x01\x8f\x00"JJ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:11:58,000] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:11:58,000] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ÈÍÐ\x92Q\'\x1ff\x1dÙùryx÷_\x1d0j¦ÒÇ!\x1f²Ì\x8a»§ä\x1dC \x14w0\x95¦4å\x17L\x8fþÜ(ÓA2¸0\x1f¥Åæ¯ë(¦\x93Ãx¸\x06í\x00"jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:11:58,001] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:12:00,544] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x0bö\x9b\x873J<¡?\x8e|+G\x80é{jÄ\x90\x12T®\x7fxb}×¢ºéÇ\x08 \x10CÌ\x08\x12.¶ÁW²Ñz\x81dþ\x9cõ\x83¤ÌT¶\x93zD\x93P9%/ì\\\x00 \x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ÚÚ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:12:00,545] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:12:00,547] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03º¸t]Ñ:æ\x93ü\x92i\x80K'C\x83¢+kÿ\x975´ý\x91\x8eÐ\x06\x03Ñ\x8c±")
+[2021-08-31 12:12:00,548] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:12:11,574] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login HTTP/1.1" 301 0
+[2021-08-31 12:12:11,664] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login/ HTTP/1.1" 200 2799
+[2021-08-31 12:12:11,705] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/map_style.css HTTP/1.1" 200 3413
+[2021-08-31 12:12:11,708] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/reset.css HTTP/1.1" 200 1030
+[2021-08-31 12:12:11,715] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/ccajax.js HTTP/1.1" 200 2399
+[2021-08-31 12:12:11,716] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/message.js HTTP/1.1" 200 3347
+[2021-08-31 12:12:11,725] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/map_auth.js HTTP/1.1" 200 1585
+[2021-08-31 12:12:11,752] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/particles.min.js HTTP/1.1" 200 23358
+[2021-08-31 12:12:11,761] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jq.js HTTP/1.1" 200 86927
+[2021-08-31 12:12:11,770] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/app.js HTTP/1.1" 200 1139
+[2021-08-31 12:12:11,774] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/name.png HTTP/1.1" 200 5102
+[2021-08-31 12:12:11,786] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/password.png HTTP/1.1" 200 3859
+[2021-08-31 12:12:11,796] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/bg.jpg HTTP/1.1" 200 51002
+[2021-08-31 12:12:33,105] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login/ HTTP/1.1" 200 2799
+[2021-08-31 12:12:33,125] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/message.js HTTP/1.1" 200 3347
+[2021-08-31 12:12:33,126] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/map_auth.js HTTP/1.1" 200 1585
+[2021-08-31 12:12:33,126] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/ccajax.js HTTP/1.1" 200 2399
+[2021-08-31 12:12:33,127] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/map_style.css HTTP/1.1" 200 3413
+[2021-08-31 12:12:33,128] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/reset.css HTTP/1.1" 200 1030
+[2021-08-31 12:12:33,128] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jq.js HTTP/1.1" 200 86927
+[2021-08-31 12:12:33,145] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/particles.min.js HTTP/1.1" 200 23358
+[2021-08-31 12:12:33,145] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/password.png HTTP/1.1" 200 3859
+[2021-08-31 12:12:33,146] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/app.js HTTP/1.1" 200 1139
+[2021-08-31 12:12:33,147] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/name.png HTTP/1.1" 200 5102
+[2021-08-31 12:12:33,153] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/bg.jpg HTTP/1.1" 200 51002
+[2021-08-31 12:12:33,166] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-08-31 12:12:33,167] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-08-31 12:12:34,324] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03i\x8e×\x13\x03à\x05\x96£\x1aPB¡Gÿ¹|E1ájÀ\x8c\xa0hö\x99\x81¿@}o mwéÝaäñl©\x1aX/qô¹\x1aÝ·\x16ââ¯:°a"á:\x9b´úW\x00 úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93JJ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:12:34,324] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03(\xadüÿì;n.1èº{n\x8fÃ¦¤Â\t\x07O^h«ñútVþåz¯ Å¡\x0eÜ\x95T\x9b\x88\x8aÝNwRl&\x9f\x15\x95¨}\x8c¹\x92iü\x96RP\x8d\x0e/é\x00 ªª\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93::\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:12:34,324] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:12:34,325] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:12:34,326] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03&Ì\x1cÈÑç¼j\x9e3G¹Õ£Q\x90râ\x9f:Ý?\x03Ä\x10\x9b²º¸\x80\x86\x1e K\x1e\x1dæO»GMxaKWl\x8alt9x¢ýÙ¨¦\xa0\xad¥Ä]mÓhÄ\x00"::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:12:34,326] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:12:34,327] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03(D\x98')
+[2021-08-31 12:12:34,327] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:12:35,022] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ÐXáj|XÚT\x83<NT\x9a%cL\x8b\x8da'\x84\x12\x9b\x83\x84Ô^\x87ñ¤\x98, q\x02é@\rÈ|N\x9f\x9c\x05\x1e\x07p½¦\x00¸é´V¤\x0f!ì¢\xa0º\x8af¼Ú\x00 \x8a\x8a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93zz\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00")
+[2021-08-31 12:12:35,023] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:12:35,023] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03¾P6w\x82öéªm\x08Z½¹ß\rgÁ't\x1c#Ç\x84oÛøÄANE\x05Ù \x8d³úb\x08m\x9b\x06\xa0vL\x14Pâ$\x85\x9b~xÖÿV\x02©_ã¶.\x99oà]\x00 **\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93::\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00")
+[2021-08-31 12:12:35,024] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:12:35,025] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x90]\x0b[K\x17éÔVP\x8e\x10\x98f"Ï\xa0õ¨M3\x02ðÝ\x95x\xa0òü\x03,\x83 H\x90£5c\x90\x97ði\x12â\x07?ÏÆ\x1a±öÓ\x8d{æWr\x1ef\x90\x97\x7fÒé\x05\x00"::\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:12:35,025] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:12:35,025] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('Ïþqµå:\x91éEçF³\x8a&\x87ä\x1b]z|/eôà¿Ö\x7fØÃ|\x14Z\x00"ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:12:35,025] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:12:35,282] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x039m\x17§\xad\x19@\x13ÈÔ\x1aö'ö¯\x8eK\x10y\x9e\x17\x14mT2ã±Õ=$\x85R \x9a/öZõây^\x81Ý\x18ªää\x10û\x94\x82.&ÿÂ`\x8c\x8bVïò%«©\t\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ºº\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00")
+[2021-08-31 12:12:35,283] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:12:35,283] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Ý:BÞhkê\x10Øßß\t)#U¢\tz\x10\\ÿã\x90~í\x9cÂø\x9b,ä\x83 !®\x11òS\x94A\x97sa¡ª¦\x1eFõ\xa0¿\x055=®ÀI\x91O¯\x0bD\x91â~\x00 \x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93::\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:12:35,284] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:12:35,285] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03mn/ÓÂY\x02\x98!\\\x9dQY\x94\'ÈÚV\x0fõ¾õÑNÝ¸åxÕ×Ú\x1c \x11kB9\r\x8c9 Áyëç_8%ß\x87Ì\x07~Ä[®¥\x9d¡Ô:Âé\x91\x97\x00"ÚÚ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:12:35,286] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Ô\x96ð\x037Ê½±Í\x1f/ió\x07é\x91óüú\x0bü¶\x15\rF1\x9dÈÔç*ò ®\x18N½Zß\x86Ûwk\x96l_ãtR?×à~\x13WBX#]ðýç\x90Lþ\x00"úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:12:35,286] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:12:35,286] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:12:38,063] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x032[\x17ãÈYÌO\x0e®L5\x9f©\x01X\x1cÝ\x8e\r´!»1\x06\x00\x9c\x91N~Sã \x85BZ\x08¤\x9e\x1f}´è»Å+ÿ^];:hC\x02vÑ{¹')
+[2021-08-31 12:12:38,064] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:12:38,065] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x90ÌË\xadËc\x96Å·Em\x9cØ¥èá\x8b\x01-k\x9f-«R¹¢SÜ6U2»')
+[2021-08-31 12:12:38,066] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:12:54,606] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Ê:ÓÙö\x16àÒ°÷<\x9aýQR"ËÎËªó\x05©¥\x98Ì¸\x05wB\x0c\x14 £:\x8b¢âè¾\x1d<\x9b|Ð½Ü\x1fkï?Æéû\x10w@ci\x04Ñ\x90º0(\x00 jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93JJ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:12:54,607] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:12:54,607] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03©6¡¤ÈnR\x0e\x139W\x17Õ\x99\x0c¢ý4_xå(\x87;i¶ô\x17ö\x19\x90\x04 ±ä0·-Å\x9cü%\x9fÓ\x14ÅÖlçR£XÉÂCÄTs+5Ki«×,\x00 êê\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ÊÊ\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:12:54,607] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:12:54,609] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03¦\x9eJTc\x0eð÷¥ÃÓ')
+[2021-08-31 12:12:54,609] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:12:54,610] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03àÞ-¯\x8b\xa0©ògZ\x97·¶ô\x85âúÀfä\x866\x08æ¶E\x0eì\x8aÇ\x80\x9d ·\x8dxÿÚiÑ õ\x95\x1e0-\x13\x9a\x17Q¹¢\x04\x0c\x8dÂÑræï\x18J¼<\x06\x00"\x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[2021-08-31 12:12:54,610] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:12:58,301] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Ú\x14T\x91PíàñC\x15À±Å\x1fGOG-W\x9b\x05èî\x92?èl\x7fÅäø¯ l06¥BîDAoãI¶D\x17Ö"M!Õ\x1a«\x15¤z\x89\x00ýØ\x9eI¢\x81\x00 **\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93**\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[2021-08-31 12:12:58,301] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:12:58,303] [basehttp.py:161] [basehttp:log_message] [INFO]- code 400, message Bad request version ('UÀí\x18?Ç6')
+[2021-08-31 12:12:58,303] [basehttp.py:144] [basehttp:log_message] [ERROR]- You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[2021-08-31 12:14:01,730] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 10048
+[2021-08-31 12:14:01,767] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/animate.css HTTP/1.1" 304 0
+[2021-08-31 12:14:01,768] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/et-lineicons.css HTTP/1.1" 304 0
+[2021-08-31 12:14:01,769] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themify-icons.css HTTP/1.1" 304 0
+[2021-08-31 12:14:01,771] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/magnific-popup.css HTTP/1.1" 304 0
+[2021-08-31 12:14:01,775] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 304 0
+[2021-08-31 12:14:01,775] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/bootstrap.css HTTP/1.1" 304 0
+[2021-08-31 12:14:01,775] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jq.js HTTP/1.1" 304 0
+[2021-08-31 12:14:01,776] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/style.css HTTP/1.1" 304 0
+[2021-08-31 12:14:01,776] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/bootstrap.min.js HTTP/1.1" 304 0
+[2021-08-31 12:14:01,776] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/modernizr-2.6.2.min.js HTTP/1.1" 304 0
+[2021-08-31 12:14:01,780] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 304 0
+[2021-08-31 12:14:01,785] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 304 0
+[2021-08-31 12:14:01,786] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 304 0
+[2021-08-31 12:14:01,786] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 304 0
+[2021-08-31 12:14:01,786] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 304 0
+[2021-08-31 12:14:01,787] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/main.js HTTP/1.1" 304 0
+[2021-08-31 12:14:01,788] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 304 0
+[2021-08-31 12:14:01,795] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/slider/1.jpg HTTP/1.1" 304 0
+[2021-08-31 12:14:01,795] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/logo.png HTTP/1.1" 304 0
+[2021-08-31 12:14:01,795] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /media/QQ%E5%9B%BE%E7%89%8720191127203318.jpg HTTP/1.1" 304 0
+[2021-08-31 12:14:01,796] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/logo-light.png HTTP/1.1" 304 0
+[2021-08-31 12:14:01,796] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /media/QQ%E5%9B%BE%E7%89%8720191210222509.jpg HTTP/1.1" 304 0
+[2021-08-31 12:14:01,899] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/fonts/themify.woff HTTP/1.1" 304 0
+[2021-08-31 12:14:01,906] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-08-31 12:14:02,003] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/images/blog/5.jpg HTTP/1.1" 404 1810
+[2021-08-31 12:14:02,114] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/favicon.png HTTP/1.1" 404 1804
+[2021-08-31 13:32:58,198] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-08-31 13:33:02,849] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /mdmain/contact/ HTTP/1.1" 200 5632
+[2021-08-31 13:33:02,889] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/ccajax.js HTTP/1.1" 304 0
+[2021-08-31 13:33:02,890] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/message.js HTTP/1.1" 304 0
+[2021-08-31 13:33:02,904] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/contact.js HTTP/1.1" 200 1099
+[2021-08-31 13:33:02,952] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-08-31 13:33:08,336] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 302 0
+[2021-08-31 13:33:08,341] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login/?next=/map/map/ HTTP/1.1" 200 2799
+[2021-08-31 13:33:08,363] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/reset.css HTTP/1.1" 304 0
+[2021-08-31 13:33:08,364] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/map_style.css HTTP/1.1" 304 0
+[2021-08-31 13:33:08,365] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/map_auth.js HTTP/1.1" 304 0
+[2021-08-31 13:33:08,368] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/particles.min.js HTTP/1.1" 304 0
+[2021-08-31 13:33:08,376] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/app.js HTTP/1.1" 304 0
+[2021-08-31 13:33:08,376] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/name.png HTTP/1.1" 304 0
+[2021-08-31 13:33:08,377] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/password.png HTTP/1.1" 304 0
+[2021-08-31 13:33:08,380] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/bg.jpg HTTP/1.1" 304 0
+[2021-08-31 13:33:08,477] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-08-31 13:33:08,477] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-08-31 13:33:17,763] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 10048
+[2021-08-31 13:33:17,796] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/images/blog/5.jpg HTTP/1.1" 404 1810
+[2021-08-31 13:33:17,823] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-08-31 13:34:01,699] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /mdmain/detail/1/ HTTP/1.1" 200 19183
+[2021-08-31 13:34:01,742] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/comment.js HTTP/1.1" 200 1169
+[2021-08-31 13:34:01,761] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/template-web.js HTTP/1.1" 200 16570
+[2021-08-31 13:34:01,777] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-08-31 13:35:59,721] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- D:\pycharm_File\mandao\mandao\settings.py changed, reloading.
+[2021-08-31 13:36:00,677] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-08-31 13:36:33,034] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 302 0
+[2021-08-31 13:36:33,044] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login/?next=/map/map/ HTTP/1.1" 200 2799
+[2021-08-31 13:36:39,506] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /auth/login/ HTTP/1.1" 200 45
+[2021-08-31 13:36:39,575] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 200 2421
+[2021-08-31 13:36:39,597] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/menu.css HTTP/1.1" 304 0
+[2021-08-31 13:36:39,599] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/base.css HTTP/1.1" 304 0
+[2021-08-31 13:36:39,607] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/map_index.js HTTP/1.1" 304 0
+[2021-08-31 13:36:39,608] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/menu.js HTTP/1.1" 304 0
+[2021-08-31 13:36:39,608] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/obscure.png HTTP/1.1" 304 0
+[2021-08-31 13:36:39,608] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/adapter.js HTTP/1.1" 304 0
+[2021-08-31 13:36:39,609] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/show.png HTTP/1.1" 304 0
+[2021-08-31 13:36:39,612] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/vip.js HTTP/1.1" 200 47
+[2021-08-31 13:36:56,965] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /map/search_x_y/ HTTP/1.1" 200 58
+[2021-08-31 13:37:04,091] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /mdmain/choose/ HTTP/1.1" 200 8795
+[2021-08-31 13:39:40,296] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /mdmain/detail/1/ HTTP/1.1" 200 19183
+[2021-08-31 13:39:40,379] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-08-31 13:41:36,867] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 10578
+[2021-08-31 13:41:37,179] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/et-lineicons.css HTTP/1.1" 200 5238
+[2021-08-31 13:41:37,181] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jq.js HTTP/1.1" 200 86927
+[2021-08-31 13:41:37,192] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/style.css HTTP/1.1" 200 30435
+[2021-08-31 13:41:37,210] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themify-icons.css HTTP/1.1" 200 13837
+[2021-08-31 13:41:37,221] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/magnific-popup.css HTTP/1.1" 200 5924
+[2021-08-31 13:41:37,222] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/modernizr-2.6.2.min.js HTTP/1.1" 200 15022
+[2021-08-31 13:41:37,233] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/animate.css HTTP/1.1" 200 55686
+[2021-08-31 13:41:37,246] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 200 3601
+[2021-08-31 13:41:37,250] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/bootstrap.min.js HTTP/1.1" 200 51039
+[2021-08-31 13:41:37,264] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 200 34585
+[2021-08-31 13:41:37,271] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 200 21652
+[2021-08-31 13:41:37,278] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 200 24032
+[2021-08-31 13:41:37,287] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 200 5437
+[2021-08-31 13:41:37,288] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 200 8786
+[2021-08-31 13:41:37,288] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/logo.png HTTP/1.1" 200 9679
+[2021-08-31 13:41:37,299] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/bootstrap.css HTTP/1.1" 200 140783
+[2021-08-31 13:41:37,328] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /media/QQ%E5%9B%BE%E7%89%8720191210222509.jpg HTTP/1.1" 200 1100
+[2021-08-31 13:41:37,328] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 200 3200
+[2021-08-31 13:41:37,329] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/main.js HTTP/1.1" 200 2215
+[2021-08-31 13:41:37,330] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /media/QQ%E5%9B%BE%E7%89%8720191127203318.jpg HTTP/1.1" 200 28209
+[2021-08-31 13:41:37,334] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/logo-light.png HTTP/1.1" 200 9779
+[2021-08-31 13:41:37,335] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/slider/1.jpg HTTP/1.1" 200 413951
+[2021-08-31 13:41:37,402] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/images/blog/5.jpg HTTP/1.1" 404 1810
+[2021-08-31 13:41:37,406] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/fonts/themify.woff HTTP/1.1" 200 72
+[2021-08-31 13:41:37,436] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-08-31 13:41:37,628] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/favicon.png HTTP/1.1" 404 1804
+[2021-08-31 13:41:39,554] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /mdmain/detail/2/ HTTP/1.1" 200 6078
+[2021-08-31 13:41:39,623] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-08-31 13:45:21,357] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-08-31 13:45:21,358] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2771
+[2021-08-31 13:45:32,487] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /mdmain/contact/ HTTP/1.1" 200 5632
+[2021-08-31 13:45:32,555] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2021-08-31 13:45:34,067] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 200 2421

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <title>{{user}}</title>
+
+  <!--rem适配js-->
+  <link rel="stylesheet" href="{% static 'css/base.css' %}" />
+
+  <!--初始化文件-->
+  <link rel="stylesheet" href="{% static 'css/menu.css' %}" />
+</head>
+<body style="background: #282c3a;">
+<div class="main-container" style="overflow: hidden;display: inline;">
+    <div class="map" style="height: 900px;width: 1000px;margin:0;padding:0;float: right">
+        <div id='container' style="height: 100%;width: 100%;margin:0;padding:0;"></div>
+    </div>
+    <div class="sidebar" style="float: left">
+  <!--主样式-->
+  <div id="menu">
+   <!--隐藏菜单-->
+   <div id="ensconce">
+    <h2><img src="{% static 'img/show.png' %}" alt="" /> 猿hoMe</h2>
+   </div>
+   <!--显示菜单-->
+   <div id="open">
+    <div class="navH">
+      猿HoMe
+     <span><img class="obscure" src="{% static 'img/obscure.png' %}" alt="" /></span>
+    </div>
+    <div class="navBox">
+     <ul>
+
+      <li><h2 class="obtain">位置相关<i></i></h2>
+       <div class="secondary">
+        <h3 class="search">查询当前位置</h3>
+       </div></li>
+
+      <li><h2 class="obtain">当前状态<i></i></h2>
+       <div class="secondary">
+           {% if user.is_fall %}
+           <h3>已摔倒</h3>
+               {% else %}
+                   <h3>一切平安</h3>
+           {% endif %}
+       </div></li>
+
+        {% if user.is_fall %}
+             <li><h2 class="obtain">报警状态<i></i></h2>
+       <div class="secondary">
+           {% if user.is_call  %}
+               <h3>已报警,紧急联系人为:{{ user.harry_telephone }}</h3>
+           {% else %}
+               <h3>未报警,手动报警请点击</h3>
+           {% endif %}
+       </div></li>
+        {% endif %}
+
+     <li><h2 class="obtain" id="set_telephone" data-uid="{{ user.uid }}">设置紧急联系人<i></i></h2>
+
+     <li><h2 class="obtain"><a href="{% url 'mdmain:choose' %}">药物相关</a><i></i></h2>
+
+     <li><h2 class="obtain vipbtn">会员服务<i></i></h2>
+
+     </ul>
+    </div>
+   </div>
+  </div>
+
+    <script src="{% static 'js/jq.js' %}"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <script src="{% static 'js/message.js' %}"></script>
+    <script src="{% static 'js/ccajax.js' %}"></script>
+    <script src="{% static 'js/map_index.js' %}"></script>
+        <script src="{% static 'js/adapter.js' %}"></script>
+  <script src="{% static 'js/menu.js' %}"></script>
+  <script src="{% static 'js/vip.js' %}"></script>
+  <!--控制js-->
+  <!--下面是无用代码-->
+    </div>
+</div>
+{% block content %}
+
+{% endblock %}
+</body>
+{% block script %}
+
+{% endblock %}
+</html>

@@ -1,0 +1,149 @@
+{% extends 'cms/controlpanel_base.html' %}
+{% block content %}
+<div id="body">
+        <ol class="breadcrumb">
+            <li class="active"><a href="#">系统</a></li>
+            <li>管理员列表</li>
+        </ol>
+        <div class="barboxs">
+
+            <button class="btn btn-success pull-left " data-toggle="modal" data-target="#myModal" title="" data-placement="right" data-original-title="添加管理员">
+                <i class="fa fa-pencil-square-o"></i>
+            </button>
+
+        </div>
+        <div class="tablebox">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th class="text-center">ID</th>
+                        <th>真实姓名</th>
+                        <th>管理员账号</th>
+                        <th>管理员密码</th>
+                        <th>管理员类型</th>
+                        <th>管理员状态</th>
+                        <th>创建时间</th>
+                        {% if user.is_superuser %}
+                        <th class="text-center" width="85"><i class="fa fa-bolt"></i> 操作</th>
+                        {% endif %}
+
+                    </tr>
+                </thead>
+                <tbody>
+
+            {% for useri in contacts.object_list %}
+                <tr>
+                        <td class="cell-small text-center">{{useri.uid}}</td>
+                        <td>{{useri.username}}</td>
+                        <td>{{useri.telephone}}</td>
+                        <td>{{ useri.password }}</td>
+                        <td>超级管理员</td>
+                    {% if useri.is_active %}
+                    <td><span class="label label-success">正常</span></td>
+                        {% else %}
+                        <td><span class="label label-success">禁用</span></td>
+                    {% endif %}
+                        <td>{{ useri.data_joined }}</td>
+
+                        {% if user.is_superuser %}
+                         <td class="text-center">
+                            <div class="btn-group">
+                                <a href="javascript:void(0)" class="btn btn-xs btn-info"><i class="iconfont icon-bianji" data-uid="{{ useri.uid }}"></i></a>
+                                <a href="javascript:void(0)" class="btn btn-xs btn-danger"><i class="iconfont icon-chahao2"></i></a>
+                            </div>
+                        </td>
+                            {% endif %}
+                    </tr>
+            {% endfor %}
+                </tbody>
+            </table>
+        </div>
+
+        <div class="fy">
+            <ul class="pagination">
+{#                <li><a href="javascript:void(0)">上一页</a></li>#}
+{#                <li><a href="javascript:void(0)">1</a></li>#}
+{#                <li><a href="javascript:void(0)">2</a></li>#}
+{#                <li><a href="javascript:void(0)">3</a></li>#}
+{#                <li><a href="javascript:void(0)">下一页</a></li>#}
+                {% include 'base/fenye.html' %}
+            </ul>
+        </div>
+    </div>
+
+
+    <!-- 000 -->
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+            <h4 class="modal-title" id="myModalLabel">添加管理员</h4>
+            </div>
+            <div class="modal-body">
+
+                    <div class="form-group">
+                    <label for="exampleInputEmail1">真实姓名</label>
+                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="请输入">
+                </div>
+
+
+                <div class="form-group">
+                    <label for="exampleInputEmail1">管理员名称</label>
+                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="请输入">
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputEmail1">管理员密码</label>
+                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="请输入">
+                </div>
+
+                <div class="form-group  ">
+                    <label for="exampleInputEmail1">管理员状态</label>
+                    <div>
+                        <label class="radio-inline" for="example-radio-inline1">
+                            <input type="radio" id="example-radio-inline1" name="example-radios-inline" value="option1">
+                            正常 
+                        </label>
+                        <label class="radio-inline" for="example-radio-inline1">
+                            <input type="radio" id="example-radio-inline1" name="example-radios-inline" value="option1">
+                            禁用
+                        </label>
+                    </div>
+                </div>
+
+                <div class="form-group mb0 ">
+                    <label for="exampleInputEmail1">管理员类型</label>
+                    <div>
+                        <label class="radio-inline" for="example-radio-inline1">
+                            <input type="radio" id="example-radio-inline1" name="example-radios-inline" value="option1">
+                            超管 
+                        </label>
+                        <label class="radio-inline" for="example-radio-inline1">
+                            <input type="radio" id="example-radio-inline1" name="example-radios-inline" value="option1">
+                            普管
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-danger" data-dismiss="modal">取消</button>
+                <button class="btn btn-success">创建</button>
+            </div>
+        </div>
+        </div>
+    </div>
+
+  <!-- 000 -->
+      <!-- /* // ****222后台页面定制，设计QQ：951252660 */ -->
+    <script>
+        $('.dropdown-toggle').dropdown();
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+
+    </script>
+
+{% endblock %}

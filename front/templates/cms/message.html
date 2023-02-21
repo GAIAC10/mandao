@@ -1,0 +1,115 @@
+{% extends 'cms/controlpanel_base.html' %}
+{% block content %}
+    <div id="body">
+        <ol class="breadcrumb">
+            <li class="active"><a href="#">系统</a></li>
+            <li>留言列表</li>
+        </ol>
+        <div class="barboxs">
+
+            <button class="btn btn-danger pull-left " data-toggle="tooltip" title="" data-placement="right" data-original-title="清空留言"><i class="fa fa-trash-o"></i></button>
+
+
+            <div class="leftbox">
+
+                <div class="liselect">
+                    <select id="val_skill" name="val_skill" class="form-control ">
+                        <option value="">查阅状态</option>
+                        <option value="已读">已读</option>
+                        <option value="未读">未读</option>
+                    </select>
+                </div>
+
+                <div class="ml10">
+                    <div class="input-group date input-datepicker mtb0">
+                        <input type="text" id="date" placeholder="请选择时间段" name="date" class="form-control cursorpointer" readonly="readonly" lay-key="1">
+                        <span class="input-group-addon"><i class="fa fa-calendar"></i></span>
+                    </div>
+                </div>
+
+                <button class="btn btn-success"><i class="fa fa-search"></i></button>
+            </div>
+        </div>
+        <div class="tablebox">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th class="text-center" width="50"><input type="checkbox" id="check5-all" name="check5-all">
+                        </th>
+                        <th class="text-center">ID</th>
+                        <th>留言人</th>
+                        <th>姓名</th>
+                        <th>手机号码</th>
+                        <th>内容</th>
+                        <th>查阅状态</th>
+                        <th>日期</th>
+                        <th class="text-center" width="60"><i class="fa fa-bolt"></i> 操作</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for comment in contacts %}
+                             <tr>
+                        <td class="text-center"><input type="checkbox" id="check5-td1" name="check5-td1">
+                        </td>
+                        <td class="cell-small text-center">{{comment.comment.first.uid}}</td>
+                                 {% if comment.comment.first.is_vip %}
+                                     <td>会员客户</td>
+                                     {% else %}
+                                       <td>普通游客</td>
+                                 {% endif %}
+
+                        <td>{{comment.comment.first.username}}</td>
+                        <td>{{comment.comment.first.telephone}}</td>
+                        <td>{{comment.content}}</td>
+                             {% if comment.is_read %}
+                             <td><span class="label label-success">以读</span></td>
+                                 {% else %}
+                                 <td><span class="label label-danger">未读</span></td>
+                             {% endif %}
+                        <td>{{ comment.last_login }}</td>
+
+                        <td class="text-center">
+                            <div class="btn-group">
+                                <a href="javascript:void(0)" class="btn btn-xs btn-info"><i class="fa fa-globe"></i></a>
+                                <a href="javascript:void(0)" class="btn btn-xs btn-danger"><i class="fa fa-trash-o"></i></a>
+                            </div>
+                        </td>
+                    </tr>
+                {% endfor %}
+
+
+
+
+
+                </tbody>
+            </table>
+        </div>
+
+        <div class="fy">
+            <ul class="pagination">
+                {% include 'base/fenye.html' %}
+            </ul>
+        </div>
+    </div>
+
+
+    <!-- 000 -->
+
+    <!-- Modal -->
+
+
+  <!-- 000 -->
+    <script>
+        $('.dropdown-toggle').dropdown();
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        });
+        //日期范围
+        laydate.render({
+        elem: '#date'
+        ,range: true,
+        theme:"#5cb85c"
+        });
+    </script>
+
+{% endblock %}

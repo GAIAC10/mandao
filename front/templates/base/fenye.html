@@ -1,0 +1,33 @@
+{% if contacts.has_previous %}
+                    <li><a href="?p={{ contacts.previous_page_number }}">上一页</a></li>
+                {% endif %}
+{#                {% for pg in contacts.paginator.page_range %}#}
+{#                    {% if contacts.number == pg %}#}
+{#                        <li class="active"><a href="javascript:void(0)">{{pg}}</a></li>#}
+{##}
+{#                        {% else %}#}
+{#                            <li><a href="?p={{ pg }}">{{ pg }}</a></li>#}
+{#                    {% endif %}#}
+{##}
+{#                {% endfor %}#}
+                {% if left_has_more %}
+                    <li><a href="?p=1">1</a></li>
+                    <li><a href="javascript:void(0);">...</a></li>
+
+                {% endif %}
+            {% for left_page in left_pages %}
+                <li><a href="?p={{ left_page }}">{{ left_page }}</a></li>
+            {% endfor %}
+{#            当前页面#}
+            <li class="active"><a href="javascript:void(0)">{{current_page}}</a></li>
+            {% for right_page in right_pages %}
+                <li><a href="?p={{ right_page }}">{{ right_page }}</a></li>
+            {% endfor %}
+
+                {% if right_has_more %}
+                    <li><a href="javascript:void(0);">...</a></li>
+                 <li><a href="?p=1">{{nums_pages}}</a></li>
+                {% endif %}
+            {% if contacts.has_next %}
+                <li><a href="?p={{ contacts.next_page_number }}">下一页</a></li>
+            {% endif %}

@@ -1,0 +1,5 @@
+[2023-02-21 19:57:24,500] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-02-21 19:57:26,475] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 8900
+[2023-02-21 19:57:26,493] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/ccajax.js HTTP/1.1" 200 2399
+[2023-02-21 19:57:26,495] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jq.js HTTP/1.1" 200 86927
+[2023-02-21 19:57:26,496] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/message.js HTTP/1.1" 200 3347

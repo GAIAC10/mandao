@@ -1,0 +1,64 @@
+{% extends 'cms/controlpanel_base.html' %}
+{% block content %}
+  <div id="body">
+        <ol class="breadcrumb">
+            <li class="active"><a href="#">系统</a></li>
+            <li>创建管理员</li>
+        </ol>
+        <div class="tabli">
+            <span>基本信息</span>
+        </div>
+
+        <div class="tabbody">
+            <div class="bodyli active">
+                <!-- ///// -->
+                <div class="inputbox">
+
+
+                </div>
+                <!-- ///// -->
+                <div class="inputbox">
+                    <span class="title">真实姓名</span>
+                    <div class="inputright">
+                        <input type="text" name="username" class="form-control input-sm">
+                    </div>
+                </div>
+                <!-- ///// -->
+
+                 <!-- ///// -->
+                 <div class="inputbox">
+                    <span class="title">管理员账号</span>
+                    <div class="inputright">
+                        <input type="text" name="telephone" class="form-control input-sm">
+                    </div>
+                </div>
+
+                <!-- ///// -->
+                <div class="inputbox">
+                    <span class="title">管理员密码</span>
+                    <div class="inputright">
+                       <input type="text" name="password" class="form-control input-sm">
+                    </div>
+                </div>
+
+                <div class="inputbox">
+                    <span class="title">管理员类型</span>
+                    <div class="inputright">
+                        <select  id="creat_admin" onchange="">
+   			<option>---请选择---</option>
+            {% for group in groups %}
+                <option value="{{ group.pk }}">{{ group.name }}</option>
+            {% endfor %}
+
+   	</select>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="tbfooter">
+            <button class="btn btn-success create_admin"><i class="fa fa-floppy-o"></i> 创建用户</button>
+        </div>
+    </div>
+{% endblock %}

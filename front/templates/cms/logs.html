@@ -1,0 +1,27 @@
+{% extends 'cms/controlpanel_base.html' %}
+{% block content %}
+<div id="body">
+
+    {% for downloads_list in contacts %}
+        <p><a href="{% url 'cms:download_logs' downloads_list  %}">{{ downloads_list }}</a></p>
+    {% endfor %}
+<div class="fy">
+            <ul class="pagination">
+                {% include 'base/fenye.html' %}
+            </ul>
+        </div>
+    <script>
+        $('.dropdown-toggle').dropdown();
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        });
+
+        //日期范围
+        laydate.render({
+        elem: '#date'
+        ,range: true,
+        theme:"#5cb85c"
+        });
+    </script>
+</div>
+{% endblock %}

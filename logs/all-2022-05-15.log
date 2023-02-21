@@ -1,0 +1,200 @@
+[2022-05-15 20:20:50,569] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-05-15 20:21:21,168] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\1\mandao\mandao\__init__.py changed, reloading.
+[2022-05-15 20:21:22,001] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-05-15 20:21:39,617] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\1\mandao\mandao\__init__.py changed, reloading.
+[2022-05-15 20:21:40,227] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-05-15 20:21:41,727] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-05-15 20:22:19,569] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-05-15 20:22:41,411] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-05-15 20:23:15,063] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\1\mandao\mandao\settings.py changed, reloading.
+[2022-05-15 20:23:15,771] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-05-15 20:23:19,223] [autoreload.py:251] [autoreload:trigger_reload] [INFO]- F:\Project_Python\1\mandao\mandao\settings.py changed, reloading.
+[2022-05-15 20:23:19,982] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-05-15 20:24:21,296] [autoreload.py:637] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2022-05-15 20:24:23,114] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 5999
+[2022-05-15 20:24:23,131] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/et-lineicons.css HTTP/1.1" 200 5238
+[2022-05-15 20:24:23,138] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themify-icons.css HTTP/1.1" 200 13837
+[2022-05-15 20:24:23,139] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/animate.css HTTP/1.1" 200 55686
+[2022-05-15 20:24:23,141] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/magnific-popup.css HTTP/1.1" 200 5924
+[2022-05-15 20:24:23,141] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/style.css HTTP/1.1" 200 30435
+[2022-05-15 20:24:23,144] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/bootstrap.css HTTP/1.1" 200 140783
+[2022-05-15 20:24:23,233] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/imagesloaded.pkgd.min.js HTTP/1.1" 200 5437
+[2022-05-15 20:24:23,233] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 200 3601
+[2022-05-15 20:24:23,234] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/modernizr-2.6.2.min.js HTTP/1.1" 200 15022
+[2022-05-15 20:24:23,234] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 200 8786
+[2022-05-15 20:24:23,236] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/bootstrap.min.js HTTP/1.1" 200 51039
+[2022-05-15 20:24:23,236] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jq.js HTTP/1.1" 200 86927
+[2022-05-15 20:24:23,246] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/main.js HTTP/1.1" 200 2215
+[2022-05-15 20:24:23,247] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/sticky-kit.min.js HTTP/1.1" 200 3200
+[2022-05-15 20:24:23,247] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/logo.png HTTP/1.1" 200 9679
+[2022-05-15 20:24:23,248] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/masonry.pkgd.min.js HTTP/1.1" 200 24032
+[2022-05-15 20:24:23,248] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 200 21652
+[2022-05-15 20:24:23,249] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jquery.isotope.v3.0.2.js HTTP/1.1" 200 34585
+[2022-05-15 20:24:23,256] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/logo-light.png HTTP/1.1" 200 9779
+[2022-05-15 20:24:23,259] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/slider/1.jpg HTTP/1.1" 200 413951
+[2022-05-15 20:24:23,544] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/fonts/themify.woff HTTP/1.1" 200 72
+[2022-05-15 20:24:23,584] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2022-05-15 20:24:23,828] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/favicon.png HTTP/1.1" 404 1804
+[2022-05-15 20:24:26,844] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 302 0
+[2022-05-15 20:24:26,851] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /auth/login/?next=/map/map/ HTTP/1.1" 200 2799
+[2022-05-15 20:24:26,869] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/message.js HTTP/1.1" 200 3347
+[2022-05-15 20:24:26,869] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/ccajax.js HTTP/1.1" 200 2399
+[2022-05-15 20:24:26,870] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/map_style.css HTTP/1.1" 200 3413
+[2022-05-15 20:24:26,870] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/reset.css HTTP/1.1" 200 1030
+[2022-05-15 20:24:26,870] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/map_auth.js HTTP/1.1" 200 1575
+[2022-05-15 20:24:26,909] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/app.js HTTP/1.1" 200 1139
+[2022-05-15 20:24:26,909] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/particles.min.js HTTP/1.1" 200 23358
+[2022-05-15 20:24:26,915] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/password.png HTTP/1.1" 200 3859
+[2022-05-15 20:24:26,915] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/name.png HTTP/1.1" 200 5102
+[2022-05-15 20:24:26,919] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/bg.jpg HTTP/1.1" 200 51002
+[2022-05-15 20:24:27,111] [log.py:224] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2022-05-15 20:24:27,112] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2770
+[2022-05-15 20:25:24,150] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /auth/login/ HTTP/1.1" 200 45
+[2022-05-15 20:26:14,694] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms HTTP/1.1" 301 0
+[2022-05-15 20:26:14,704] [views.py:32] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Sec-Ch-Ua': '" Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7,en-US;q=0.6', 'Cookie': 'csrftoken=G22H6duY2gDYdHekegt2iaOYyurVwJlSHQ5K8eUSvaIV83CWC9GRh0lDKYdWxXo5; sessionid=4tt9hca7xdwc2e6l7dj8ij2yseky1bk5'}；request_body:b'',
+[2022-05-15 20:26:14,709] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 7229
+[2022-05-15 20:26:14,735] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/style/components.css HTTP/1.1" 200 9491
+[2022-05-15 20:26:14,735] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/themes.css HTTP/1.1" 200 2019
+[2022-05-15 20:26:14,737] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/main.css HTTP/1.1" 200 51284
+[2022-05-15 20:26:14,740] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/cms_bootstrap.css HTTP/1.1" 200 105029
+[2022-05-15 20:26:14,740] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/layer.js HTTP/1.1" 200 22081
+[2022-05-15 20:26:14,741] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/plugins.css HTTP/1.1" 200 197714
+[2022-05-15 20:26:14,741] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/js/JQuery2.1.4.js HTTP/1.1" 200 84355
+[2022-05-15 20:26:15,035] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/component/plugins/layer/theme/default/layer.css?v=3.2.0 HTTP/1.1" 200 14367
+[2022-05-15 20:26:15,071] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.woff HTTP/1.1" 200 103
+[2022-05-15 20:26:15,087] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2022-05-15 20:26:15,128] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 4672
+[2022-05-15 20:26:15,249] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/CmUser.js HTTP/1.1" 200 12681
+[2022-05-15 20:26:15,250] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/sweetalert.css HTTP/1.1" 200 22898
+[2022-05-15 20:26:15,250] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/sweetalert.min.js HTTP/1.1" 200 16999
+[2022-05-15 20:26:15,490] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1" 200 109
+[2022-05-15 20:26:15,497] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:26:23,337] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/banners/ HTTP/1.1" 200 3731
+[2022-05-15 20:26:23,411] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:26:23,997] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/picture_create/ HTTP/1.1" 200 3671
+[2022-05-15 20:26:24,063] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:26:24,900] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/picture_create/ HTTP/1.1" 200 3671
+[2022-05-15 20:26:24,967] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:26:26,381] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/administrators/ HTTP/1.1" 200 6971
+[2022-05-15 20:26:26,436] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:26:27,097] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/creat_admin/ HTTP/1.1" 200 3141
+[2022-05-15 20:26:27,166] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:26:27,780] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/persons/ HTTP/1.1" 200 2988
+[2022-05-15 20:26:27,833] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:26:30,397] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 6970
+[2022-05-15 20:26:30,466] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:26:32,742] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/ HTTP/1.1" 200 2561
+[2022-05-15 20:26:35,291] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/download_logs/all-2021-08-29.log HTTP/1.1" 200 7512
+[2022-05-15 20:26:38,565] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/download_logs/all-2021-08-29.log HTTP/1.1" 200 7512
+[2022-05-15 20:26:40,858] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/?p=2 HTTP/1.1" 200 2695
+[2022-05-15 20:26:41,654] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/?p=3 HTTP/1.1" 200 2754
+[2022-05-15 20:26:42,582] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/?p=5 HTTP/1.1" 200 2909
+[2022-05-15 20:26:43,262] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/?p=6 HTTP/1.1" 200 2837
+[2022-05-15 20:26:43,946] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/?p=7 HTTP/1.1" 200 2768
+[2022-05-15 20:26:44,578] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/?p=8 HTTP/1.1" 200 2709
+[2022-05-15 20:26:45,239] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/?p=9 HTTP/1.1" 200 2583
+[2022-05-15 20:26:46,189] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/?p=8 HTTP/1.1" 200 2709
+[2022-05-15 20:26:47,166] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/?p=7 HTTP/1.1" 200 2768
+[2022-05-15 20:26:47,307] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/?p=6 HTTP/1.1" 200 2837
+[2022-05-15 20:26:47,541] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/?p=5 HTTP/1.1" 200 2909
+[2022-05-15 20:26:47,725] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/?p=4 HTTP/1.1" 200 2833
+[2022-05-15 20:26:47,883] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/?p=3 HTTP/1.1" 200 2754
+[2022-05-15 20:26:48,039] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/?p=2 HTTP/1.1" 200 2695
+[2022-05-15 20:26:48,395] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/?p=1 HTTP/1.1" 200 2561
+[2022-05-15 20:26:50,263] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/message/ HTTP/1.1" 200 3993
+[2022-05-15 20:26:50,310] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:26:53,951] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 6077
+[2022-05-15 20:26:54,110] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2022-05-15 20:26:59,842] [views.py:32] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '" Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7,en-US;q=0.6', 'Cookie': 'csrftoken=G22H6duY2gDYdHekegt2iaOYyurVwJlSHQ5K8eUSvaIV83CWC9GRh0lDKYdWxXo5; sessionid=4tt9hca7xdwc2e6l7dj8ij2yseky1bk5'}；request_body:b'',
+[2022-05-15 20:26:59,845] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 7229
+[2022-05-15 20:26:59,917] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2022-05-15 20:26:59,926] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 4672
+[2022-05-15 20:27:00,059] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:27:06,895] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 200 2623
+[2022-05-15 20:27:06,908] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/base.css HTTP/1.1" 200 1214
+[2022-05-15 20:27:06,908] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/menu.css HTTP/1.1" 200 3879
+[2022-05-15 20:27:06,936] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/map_index.js HTTP/1.1" 200 2221
+[2022-05-15 20:27:06,936] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/adapter.js HTTP/1.1" 200 376
+[2022-05-15 20:27:06,941] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/menu.js HTTP/1.1" 200 1971
+[2022-05-15 20:27:06,941] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/vip.js HTTP/1.1" 200 47
+[2022-05-15 20:27:06,942] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/show.png HTTP/1.1" 200 5063
+[2022-05-15 20:27:06,943] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/obscure.png HTTP/1.1" 200 3922
+[2022-05-15 20:27:10,591] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /map/search_x_y/ HTTP/1.1" 200 58
+[2022-05-15 20:27:38,962] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 200 2623
+[2022-05-15 20:27:38,986] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/menu.css HTTP/1.1" 200 3879
+[2022-05-15 20:27:38,987] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/css/base.css HTTP/1.1" 200 1214
+[2022-05-15 20:27:39,002] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/jq.js HTTP/1.1" 200 86927
+[2022-05-15 20:27:39,064] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/message.js HTTP/1.1" 200 3347
+[2022-05-15 20:27:39,064] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/ccajax.js HTTP/1.1" 200 2399
+[2022-05-15 20:27:39,064] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/menu.js HTTP/1.1" 200 1971
+[2022-05-15 20:27:39,065] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/vip.js HTTP/1.1" 200 47
+[2022-05-15 20:27:39,065] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/adapter.js HTTP/1.1" 200 376
+[2022-05-15 20:27:39,066] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/js/map_index.js HTTP/1.1" 200 2221
+[2022-05-15 20:27:39,069] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/obscure.png HTTP/1.1" 200 3922
+[2022-05-15 20:27:39,069] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /static/img/show.png HTTP/1.1" 200 5063
+[2022-05-15 20:27:39,974] [log.py:224] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2022-05-15 20:27:39,974] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2770
+[2022-05-15 20:27:41,106] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /map/search_x_y/ HTTP/1.1" 200 58
+[2022-05-15 20:27:47,779] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /map/search_x_y/ HTTP/1.1" 200 58
+[2022-05-15 20:28:16,872] [basehttp.py:161] [basehttp:log_message] [INFO]- "POST /map/search_x_y/ HTTP/1.1" 200 58
+[2022-05-15 20:28:32,939] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/img/favicon.png HTTP/1.1" 404 1804
+[2022-05-15 20:28:34,028] [log.py:224] [log:log_response] [WARNING]- Not Found: /base_index.html
+[2022-05-15 20:28:34,028] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /base_index.html HTTP/1.1" 404 2782
+[2022-05-15 20:28:36,406] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 200 2623
+[2022-05-15 20:28:38,958] [log.py:224] [log:log_response] [ERROR]- Internal Server Error: /mdmain/contact/
+Traceback (most recent call last):
+  File "F:\envs\djangos\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "F:\envs\djangos\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "F:\envs\djangos\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "F:\envs\djangos\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "F:\Project_Python\1\mandao\apps\mdmain\views.py", line 30, in get
+    company = Company.objects.all().get()
+  File "F:\envs\djangos\lib\site-packages\django\db\models\query.py", line 435, in get
+    raise self.model.DoesNotExist(
+apps.cms.models.Company.DoesNotExist: Company matching query does not exist.
+[2022-05-15 20:28:38,959] [basehttp.py:161] [basehttp:log_message] [ERROR]- "GET /mdmain/contact/ HTTP/1.1" 500 84401
+[2022-05-15 20:28:42,741] [views.py:32] [views:cms_index] [INFO]- 请求成功！ 用户:17628508386进入猿泓cms管理后台！；response_headers:{'Content-Length': '', 'Content-Type': 'text/plain', 'Host': '127.0.0.1:8000', 'Connection': 'keep-alive', 'Sec-Ch-Ua': '" Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"', 'Sec-Ch-Ua-Mobile': '?0', 'Sec-Ch-Ua-Platform': '"Windows"', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'Sec-Fetch-Site': 'same-origin', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-User': '?1', 'Sec-Fetch-Dest': 'document', 'Referer': 'http://127.0.0.1:8000/', 'Accept-Encoding': 'gzip, deflate, br', 'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,zh-TW;q=0.7,en-US;q=0.6', 'Cookie': 'csrftoken=G22H6duY2gDYdHekegt2iaOYyurVwJlSHQ5K8eUSvaIV83CWC9GRh0lDKYdWxXo5; sessionid=4tt9hca7xdwc2e6l7dj8ij2yseky1bk5'}；request_body:b'',
+[2022-05-15 20:28:42,743] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/ HTTP/1.1" 200 7229
+[2022-05-15 20:28:42,811] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 4672
+[2022-05-15 20:28:42,826] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/glyphicons.pro/glyphicons-regular.ttf HTTP/1.1" 404 1900
+[2022-05-15 20:28:42,996] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:28:45,700] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/banners/ HTTP/1.1" 200 3731
+[2022-05-15 20:28:45,754] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:28:46,398] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/picture_create/ HTTP/1.1" 200 3671
+[2022-05-15 20:28:46,447] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:29:10,049] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/message/ HTTP/1.1" 200 3993
+[2022-05-15 20:29:10,139] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:29:14,833] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/webset/ HTTP/1.1" 200 23824
+[2022-05-15 20:29:14,917] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:29:15,928] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/administrators/ HTTP/1.1" 200 6971
+[2022-05-15 20:29:15,984] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:29:18,765] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/creat_admin/ HTTP/1.1" 200 3141
+[2022-05-15 20:29:18,821] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:29:19,773] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/persons/ HTTP/1.1" 200 2988
+[2022-05-15 20:29:19,846] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:29:22,150] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/banners/ HTTP/1.1" 200 3731
+[2022-05-15 20:29:22,203] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:29:23,215] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/picture_create/ HTTP/1.1" 200 3671
+[2022-05-15 20:29:23,290] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:29:25,851] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/webset/ HTTP/1.1" 200 23824
+[2022-05-15 20:29:25,908] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:29:28,282] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/administrators/ HTTP/1.1" 200 6971
+[2022-05-15 20:29:28,340] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:29:29,535] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/creat_admin/ HTTP/1.1" 200 3141
+[2022-05-15 20:29:29,606] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:29:30,856] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/persons/ HTTP/1.1" 200 2988
+[2022-05-15 20:29:30,907] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:29:33,064] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/user/ HTTP/1.1" 200 6970
+[2022-05-15 20:29:33,140] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:29:34,821] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/logs/ HTTP/1.1" 200 2561
+[2022-05-15 20:29:36,522] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/message/ HTTP/1.1" 200 3993
+[2022-05-15 20:29:36,574] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:29:38,269] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /cms/controlpanel/ HTTP/1.1" 200 4672
+[2022-05-15 20:29:38,348] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/css/fonts/fontawesome/fontawesome-webfont.ttf?v=4.2.0 HTTP/1.1" 404 1902
+[2022-05-15 20:29:42,074] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 6077
+[2022-05-15 20:29:42,176] [basehttp.py:161] [basehttp:log_message] [WARNING]- "GET /static/fonts/themify.ttf HTTP/1.1" 404 1810
+[2022-05-15 20:29:43,676] [basehttp.py:161] [basehttp:log_message] [INFO]- "GET /map/map/ HTTP/1.1" 200 2623

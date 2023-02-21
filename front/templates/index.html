@@ -1,0 +1,154 @@
+{% extends 'base_index.html' %}
+{% block title %}
+猿 HoMe
+{% endblock %}
+{% block content %}
+    <div class="adco-slider-section-padding">
+     <div class="container-fluid">
+      <div class="row">
+       <div class="col-md-12 col-sm-12">
+        <!-- Carousel Slider -->
+        <div id="carouselYscottIndicators" class="carousel slide" data-ride="carousel">
+         <div class="carousel-inner">
+         {#bnner#}
+          <div class="carousel-item active">
+           <div class="yscott-content-home">
+            <div class="yscott-view-on-mobile animate-box" data-animate-effect="fadeInRight">
+             <h1>RODE MAGAZINE</h1>
+             <p class="yscott-p-subtitle style-1">Photoshop,InDesign</p>
+            </div>
+            <img class="img yscott-img-home yscott-img-home-left animate-box" data-animate-effect="fadeInLeft" src="{% static 'img/slider/1.jpg' %}" alt="" />
+
+            <div class="yscott-content-text yscott-content-text-right">
+             <div class="yscott-content-absolute yscott-content-absolute-right">
+              <div class="yscott-not-view-on-mobile animate-box" data-animate-effect="fadeInRight">
+               <h1>RODE MAGAZINE</h1>
+               <p class="yscott-p-subtitle style-1">Photoshop,InDesign</p>
+              </div>
+              <p class="text yscott-text-home animate-box" data-animate-effect="fadeInRight">Nulla tincidunt ante sit amet suscipit ullamcorper risus ligula pharetra sapie viverra odio ante eget magna. Nunc vel tincidunt quam the hendrerit feliter. Quisque tince donec euismod egestas.</p>
+             </div>
+             <div class="yscott-color-button animate-box" data-animate-effect="fadeInRight">
+              <div class="yscott-button-link">
+
+                <div class="btn-contact style-1">
+                 Discover
+                </div></a>
+               <span class="yscott-button-block yscott-button-block-grey animation-bounce"></span>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+
+          {% for banner in banners %}
+                <div class="carousel-item">
+           <div class="yscott-content-home">
+            <div class="yscott-view-on-mobile animate-box" data-animate-effect="fadeInRight">
+             <h1>{{banner.name}}</h1>
+             <p class="yscott-p-subtitle"></p>
+            </div>
+            <img class="img yscott-img-home yscott-img-home-left animate-box" data-animate-effect="fadeInLeft" src= {{banner.img}} alt="" />
+            <div class="yscott-content-text yscott-content-text-right">
+             <div class="yscott-content-absolute yscott-content-absolute-right">
+              <div class="yscott-not-view-on-mobile animate-box" data-animate-effect="fadeInRight">
+               <h1>{{banner.name}}</h1>
+               <p class="yscott-p-subtitle style-1"></p>
+              </div>
+              <p class="text yscott-text-home animate-box" data-animate-effect="fadeInRight">{{ banner.desc }}</p>
+             </div>
+             <div class="yscott-color-button animate-box" data-animate-effect="fadeInRight">
+              <div class="yscott-button-link">
+               <a href="{{ banner.img }}">
+                <div class="btn-contact style-1">
+                 Discover
+                </div></a>
+               <span class="yscott-button-block yscott-button-block-grey animation-bounce"></span>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          {% endfor %}
+
+             {#使用了一个左右播放的插件#}
+          <a class="carousel-control-prev" href="#carouselYscottIndicators" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselYscottIndicators" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+          </a>
+
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <!-- Works -->
+{#    <div class="adco-section-padding">#}
+{#     <div class="container-fluid">#}
+{#      <div class="row">#}
+{#       <div class="col-md-12">#}
+{#        <span class="heading-meta style-1">Portfolio</span>#}
+{#        <h2 class="adco-heading animate-box" data-animate-effect="fadeInLeft">Latest Works</h2>#}
+{#       </div>#}
+{#      </div>#}
+{#      <div class="row">#}
+{#       <div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">#}
+{#        <a href="works-single.html" class="desc">#}
+{#         <div class="project">#}
+{#          <img src="{% static 'img/portfolio/1.jpg' %}" class="img-fluid" alt="" />#}
+{#          <div class="desc">#}
+{#           <div class="con centered">#}
+{#            <h3>Project 01</h3>#}
+{#            <span>Botanical Escape,Design</span>#}
+{#           </div>#}
+{#          </div>#}
+{#         </div></a>#}
+{#       </div>#}
+{#       <div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">#}
+{#        <a href="works-single.html" class="desc">#}
+{#         <div class="project">#}
+{#          <img src="{% static 'img/portfolio/2.jpg' %}" class="img-fluid" alt="" />#}
+{#          <div class="desc">#}
+{#           <div class="con centered">#}
+{#            <h3>Project 02</h3>#}
+{#            <span>White Tape Art,Desing</span>#}
+{#           </div>#}
+{#          </div>#}
+{#         </div></a>#}
+{#       </div>#}
+{#      </div>#}
+{#     </div>#}
+{#    </div>#}
+    <!-- Blog -->
+    <div class="adco-section-padding blog mb-60">
+     <div class="container-fluid">
+      <div class="row">
+       <div class="col-md-12">
+        <span class="heading-meta style-1">Read</span>
+        <h2 class="adco-heading animate-box" data-animate-effect="fadeInLeft">最近资讯</h2>
+       </div>
+      </div>
+      <div class="row">
+      {% for new in news %}
+     <div class="col-md-4">
+        <div class="item post-1">
+         <!-- content -->
+         <div class="content">
+          <div class="info">
+           <a href="#"><span><i class="ti-time" aria-hidden="true"></i>{{ new.time }}</span><span><i class="ti-comments" aria-hidden="true"></i>{{ new.comments_counts }}</span></a>
+          </div>
+          <a href="#"><h5>{{ new.title }}</h5></a>
+          <p>{{ new.desc }}</p>
+          <a href="{% url 'mdmain:detail' new.id %}"><span class="more style-1">更多</span></a>
+         </div>
+        </div>
+       </div>
+      {% endfor %}
+      </div>
+     </div>
+    </div>
+{% endblock %}
